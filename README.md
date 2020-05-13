@@ -4,9 +4,14 @@ Node is a 10-week data science course offered by [HackCville](https://hackcville
 
 This course is designed for students with some programming or data science experience, particularly Python, but is open to all students. 
 
-## Course Materials 
+## Course Details 
 All weeks will comprise of (1) a lesson delivered through workshops, most often as a Jupyter Notebook, (2) supplemental content to be completed during labs, (3) links for further exploration or example applications, and (4) a relevant XKCD or Calvin & Hobbes comic. 
-### Schedule (Tentative)
+
+### Course Materials
+- All course material (slides, Python notebooks, datasets, etc.) will live in this GitHub repository
+- For ease of access, we've setup a [mirror](node.ishaandey.now.sh) that'll allow you to individually download files to your local computer 
+
+### Schedule (As of 5/13/20)
 - Week 1: **What is Data Science?** Find, clean, and visualize a dataset about you
 - Week 2: **Panda, Panda, Pandas** What is a DataFrame? Learn masks, chaining, and the lingo of Pandas
 - Week 3: **Everything Data Wrangling** Merge data, handle irregular data types, and aggregate data 
@@ -26,4 +31,4 @@ All weeks will comprise of (1) a lesson delivered through workshops, most often 
 Feel free to contact Ishaan Dey at ishaan@hackcville.com with any questions about content, request permission to use material elsewhere, or just to say hi!
 
 ### Contributors
-Content developed by Ishaan Dey at HackCville, Spring 2020. 
+Content developed by ~PC 1~, ~PC 2~, and Ishaan Dey at HackCville, Spring 2020. 
