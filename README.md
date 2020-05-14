@@ -10,7 +10,8 @@ All weeks will comprise of (1) a lesson delivered through workshops, most often 
 ### Course Materials
 - All course material (slides, Python notebooks, datasets, etc.) will live in this GitHub repository
 - For ease of access, we've setup a mirror at [files.node.ishaandey.com](https://files.node.ishaandey.com/) that'll allow you to individually download files to your local computer 
-<!-- CHANGE MIRROR LINK -->
+
+#### TEST
 
 ### Schedule (As of 5/13/20)
 - Week 1: **What is Data Science?** Find, clean, and visualize a dataset about you
