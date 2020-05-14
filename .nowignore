@@ -1,0 +1,13 @@
+# Always ignore these
+tools
+LICENSE
+README.md
+
+# Don't show any new week folders
+week-*
+
+# Add this before every workshop to reveal week
+!week-1
+# Delete this line after 
+week-1/*_key.ipynb
+
