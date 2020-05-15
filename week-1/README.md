@@ -5,7 +5,7 @@
 </figure>
 
 ## Workshop 
-Today we'll be working with ___ data
+Today we'll be working with video data
 - Open up [INSERT COLAB LINK](INSERT COLAB LINK) 
     1. Sign into a Google account
     2. Click `Open with Google Colaboratory`
