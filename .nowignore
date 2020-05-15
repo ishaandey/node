@@ -8,5 +8,6 @@ week-*
 
 # Add this line before workshop to reveal week's material
 !week-1
+week-1/screenshots
 # Delete this line after workshop to reveal key
 week-1/*_key.ipynb
