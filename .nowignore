@@ -6,11 +6,7 @@ README.md
 # Don't show any new week folders
 week-*
 
-# Add this before every workshop to reveal week
+# Add this line before workshop to reveal week's material
 !week-1
-# Delete this line after 
+# Delete this line after workshop to reveal key
 week-1/*_key.ipynb
-
-
-# Keep this guy
-week_*/screenshots
