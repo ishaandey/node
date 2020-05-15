@@ -21,7 +21,7 @@ For today's lab, try to open up today's datafiles using Anaconda
     4. (Once that loads) Hit `Copy to Drive` to save a copy to your Drive account 
 
 ## Lab
-TBDs
+TBD
 
 ## Additional Resources
 - [Pandas Cheatsheet](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
