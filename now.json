@@ -19,11 +19,11 @@
     {
       "src":"**/*.csv",
       "use":"@now/static"
-    }
+    },
     {
       "src":"**/*.ipynb",
       "use":"@now/static"
-    }
+    },
     {
       "src":"index.html",
       "use":"@now/static"
