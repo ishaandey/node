@@ -12,9 +12,9 @@ All weeks will comprise of (1) a lesson delivered through workshops, typically a
 - For ease of access, we've setup a mirror at [files.node.ishaandey.com](https://files.node.ishaandey.com/) that'll allow you to individually download files to your local computer 
 
 ### Schedule
-- [Week 1](https://files.node.ishaandey.com/week-1): **What is Data Science?** 
+- [Week 1](./week-1): **What is Data Science?** 
     - Find, clean, and visualize a dataset from scratch
-- [Week 2](https://files.node.ishaandey.com/week-2): **Panda, Panda, Panda** 
+- [Week 2](./week-2): **Panda, Panda, Panda** 
     - What is a DataFrame? Learn masks, chaining, groupbys, and the lingo of Pandas
 - Week 3: **Everything Data Wrangling** 
     - Merge data, handle irregular data types, and aggregate data 
