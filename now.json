@@ -17,9 +17,9 @@
       }
     }
   ],
-  "routes":{
+  "routes":[{
       "src": "/*",
       "dest": "/*",
       "methods": ["GET"]
-    }
+    }]
 }
