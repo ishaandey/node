@@ -10,11 +10,16 @@
       "src": "**/*.md",
       "use": "@now/md",
       "config": {
-        "title": "Markdown Example",
+        "title": "Node Fall 2020",
         "language": "en",
-        "meta": [{ "name": "description", "content": "Example markdown builder deployed to ZEIT NOW"}],
+        "meta": [{ "name": "description", "content": "Mirror to Node repository"}],
         "css": "/style.css"
       }
     }
-  ]
+  ],
+  "routes":{
+      "src": "/*",
+      "dest": "/*",
+      "methods": ["GET"]
+    }
 }
