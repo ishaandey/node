@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "name": "markdown-zeit",
+  "builds": [
+    {
+      "src": "*.css",
+      "use": "@now/static"
+    },
+    {
+      "src": "**/*.md",
+      "use": "@now/md",
+      "config": {
+        "title": "Markdown Example",
+        "language": "en",
+        "meta": [{ "name": "description", "content": "Example markdown builder deployed to ZEIT NOW"}],
+        "css": "/style.css"
+      }
+    }
+  ]
+}
