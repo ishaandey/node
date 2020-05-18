@@ -2,6 +2,8 @@
 tools
 LICENSE
 README.md
+style.css 
+now.json 
 
 # Don't show any new week folders
 week-*
