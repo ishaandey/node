@@ -10,4 +10,10 @@ week-*
 !week-1
 week-1/screenshots
 # Delete this line after workshop to reveal key
-week-1/*_key.ipynb
+# week-1/*_key.ipynb
+
+# Add this line before workshop to reveal week's material
+!week-2
+week-2/screenshots
+# Delete this line after workshop to reveal key
+week-2/*_key.ipynb
