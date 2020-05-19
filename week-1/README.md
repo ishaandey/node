@@ -1,6 +1,6 @@
 # Week 1: Welcome to Data Science!
 <figure class="image">
-  <img src="screenshots/xkcd_scenarios.png" width="60%" height=auto>
+  <img src="./screenshots/xkcd_scenarios.png" width="60%" height=auto>
   <!-- <figcaption>xkcd.com/2289</figcaption> -->
 </figure>
 
