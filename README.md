@@ -31,7 +31,7 @@ All weeks will comprise of (1) a lesson delivered through workshops, typically a
     - *Project 2*: Work in teams to produce exciting visuals to a non-technical audience 
 - [Week 7](./week-7): **Breaking the Black Box** 
     - Visualize the algorithms behind machine learning methods with Sci-Kit Learn
-    - *Lab: Explainable machine learning
+    - *Lab*: Explainable machine learning
 - [Week 8](./week-8): **More Than Just Accuracy** 
     - Critically evaluate model performance through an animated approach
     - *Project 3 (Option 1)*: Compete with your peers on Kaggle to build the best model
