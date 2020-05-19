@@ -1,21 +1,8 @@
-# Always ignore these
-tools
-LICENSE
-README.md
-style.css 
-now.json 
-
-# Don't show any new week folders
-week-*
+# Ignore everything but week folders
+*
 
 # Add this line before workshop to reveal week's material
-!week-1
-week-1/screenshots
-# Delete this line after workshop to reveal key
-# week-1/*_key.ipynb
+!week-{1..2}
 
-# Add this line before workshop to reveal week's material
-!week-2
-week-2/screenshots
-# Delete this line after workshop to reveal key
-week-2/*_key.ipynb
+# Ignore screenshots
+week-{1..2}/screenshots

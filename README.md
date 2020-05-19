@@ -35,7 +35,7 @@ All weeks will comprise of (1) a lesson delivered through workshops, typically a
     - *Project 3*: Compete with your peers on Kaggle to build the most accurate model
 - [Week 8](./week-8): **More Than Just Accuracy** 
     - Critically evaluate model performance through an animated approach
-    - *Lab*: Explainable AI?
+    - *Lab*: Explainable AI
 - [Week 9](./week-9): **Beyond ML** 
     - Explore topics ranging from APIs, NLP, web scraping & more, developed by our PCs
     - *Project 4* (Optional): Learn something on your own, publish an article on Medium!
@@ -46,4 +46,4 @@ All weeks will comprise of (1) a lesson delivered through workshops, typically a
 Feel free to contact us at ishaan@hackcville.com with any questions about content or request permission to use material.
 
 ### Contributors
-Content developed by ~PC 1~, ~PC 2~, and Ishaan Dey at HackCville, Fall 2020. 
+Content developed by ~~PC 1~~, ~~PC 2~~, and Ishaan Dey at HackCville, Fall 2020. 
