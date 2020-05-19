@@ -19,7 +19,7 @@ All weeks will comprise of (1) a lesson delivered through workshops, typically a
     - *Lab*: Practice pandas using welcome data
 - [Week 3](./week-3): **Everything Data Wrangling** 
     - Merge data, handle irregular data types, and aggregate data 
-    - *Project 1*: Discover insights from local datasets
+    - [Project 1](./project-1): Discover insights from local datasets
 - [Week 4](./week-4): **Show, Don't Tell** 
     - Let your audience explore with you by building dynamic visualizations in Plot\.ly 
     - *Lab*: Browse through the Python graph gallery
@@ -28,7 +28,7 @@ All weeks will comprise of (1) a lesson delivered through workshops, typically a
     - *Lab*: Write whimsical five-word stories with git
 - [Week 6](./week-6): **I, Robot** 
     - A conceptual introduction to AI and ML. Identify applications and build an intuition for the ML pipeline
-    - *Project 2*: Work in teams to produce exciting visuals to a non-technical audience 
+    - [Project 2](./project-1): Work in teams to present exciting visuals to a non-technical audience 
 - [Week 7](./week-7): **Breaking the Black Box** 
     - Visualize the algorithms behind machine learning methods with Sci-Kit Learn
     - *Lab*: Explainable machine learning
