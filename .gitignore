@@ -2,4 +2,5 @@
 .DS_Store
 **/.ipynb_checkpoints/
 .vscode
+.vscode/settings.json
 .github/workflows/generate-index.yml
