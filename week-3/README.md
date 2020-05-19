@@ -1,8 +1,6 @@
 # Week 3: Data Cleaning!
-Data cleaning is the least glamorous segment of a data scientist's routine, yet easily makes up over 80% of the show.
-
 ## Workshop 
-Data cleaning is the least glamorous segment of a data scientist's routine, yet easily makes up over 80% of the show. Today, we'll cover our bases in `pandas` by learning how to (1) deal with missing data, (2) create new features using `lambda apply`, and (3) data from several sources. Later in the week, we'll get introduced to handling time series data and text data. 
+Data cleaning is the least glamorous segment of a data scientist's routine, yet easily takes up over 80% of the show. Today, we'll cover our bases in `pandas` by learning how to (1) deal with missing data, (2) create new features using `lambda apply`, and (3) data from several sources. Later in the week, we'll get introduced to handling time series data and text data. 
 
 
 For today's lab, try to open up today's files using Anaconda
