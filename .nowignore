@@ -2,7 +2,9 @@
 *
 
 # Add this line before workshop to reveal week's material
-!week-{1..2}
+!week-1
+!week-2
 
 # Ignore screenshots
-week-{1..2}/screenshots
+week-1/screenshots
+week-2/screenshots
