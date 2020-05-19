@@ -17,7 +17,7 @@ For today's lab, try to open up today's files using Anaconda
     3. (In the notebook) Navigate to `File` > `Open in playground mode`
     4. (Once that loads) Hit `Copy to Drive` to save a copy to your Drive account 
 
-### Lab
+## Lab
 Work on Project 1 with your team! Check out the description below.
 
 ## Project 1
@@ -26,7 +26,7 @@ Welcome to the first project! We'll take things easy, since this is just our fir
 ### Description
 Use what you've learned to answer questions about a live, impactful dataset. We've already pulled out a few data sources and kept them in the `week-3/project-1` directory, but if you have another dataset in mind, go for it!
 
-- Come up with questions about the data: What trends exist? Does that contradict what we'd expect? How does X differ across Y? What are some key takeaways we can extract from the data?
+- Come up with questions about the data: What trends exist? Does that contradict what we'd expect? How does X differ across y? What are some key takeaways we can extract from the data?
 - Use what you've learned from pandas to write a Python notebook: Be sure to annotate the code as you go along
 
 ### Deliverable
