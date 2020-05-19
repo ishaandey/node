@@ -1,9 +1,6 @@
 # Week 4: Data Viz!
-placeholder
 
 ## Workshop 
-placeholder
-
 For today's lab, try to open up today's files using Anaconda
 - Head over to [https://files.node.ishaandey.com/](https://files.node.ishaandey.com/)
     1. Click `week-4` and download `viz.ipynb` and `??.csv`
@@ -17,7 +14,7 @@ For today's lab, try to open up today's files using Anaconda
     4. (Once that loads) Hit `Copy to Drive` to save a copy to your Drive account 
 
 ### Lab
-placeholder
+tbd
 
 ## Additional Resources
 - [Python Graph Gallery](https://python-graph-gallery.com/)
