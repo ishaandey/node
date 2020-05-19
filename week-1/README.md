@@ -22,5 +22,5 @@ Anaconda is a toolkit that (among many other things) does the hard work of insta
     3. Follow through with the installation instructions
     4. If all goes well, you should be able to open up Anaconda like this:
     
-<img src="screenshots/anaconda.png" width="70%" height=auto>
+<img src="/screenshots/anaconda.png" width="70%" height=auto>
 
