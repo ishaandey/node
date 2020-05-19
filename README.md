@@ -11,26 +11,31 @@ All weeks will comprise of (1) a lesson delivered through workshops, typically a
 - All course material (slides, Python notebooks, datasets, etc.) will live in this GitHub repository
 - For ease of access, we've setup a mirror at [files.node.ishaandey.com](https://files.node.ishaandey.com/) that'll allow you to individually download files to your local computer 
 
-### Schedule (As of 5/13/20)
+### Schedule
 - [Week 1](./week-1): **What is Data Science?** 
     - Find, clean, and visualize a dataset from scratch
+    - Lab: Install Anaconda 
 - [Week 2](./week-2): **Panda, Panda, Panda** 
     - What is a DataFrame? Learn masks, chaining, groupbys, and the lingo of Pandas
+    - Lab: Practice problem set
 - [Week 3](./week-3): **Everything Data Wrangling** 
     - Merge data, handle irregular data types, and aggregate data 
-    - *Project 1*: Discover insights from live Charlottesville datasets
+    - *Project 1*: Discover insights from live Charlottesville datasets (individual, talk w/ team)
 - [Week 4](./week-4): **Show, Don't Tell** 
     - Let your audience explore with you by building dynamic visualizations in Plot.ly 
+    - Lab: Seaborn graph gallery for inspiration
 - [Week 5](./week-5): **DevOps 101** 
     - Learn industry-level practices for collaboration: documenting work with GitHub, wrapping code in virtual environments, and using Bash commands to customize your workspace
     - *Project 2*: Work in teams to produce exciting visuals to a non-technical audience 
 - [Week 6](./week-6): **I, Robot** 
     - A conceptual introduction to AI and ML. Identify applications and build an intuition for the ML pipeline
+    - Lab: Talk about stuff?
 - [Week 7](./week-7): **Breaking the Black Box** 
     - Learn the algorithms behind machine learning methods with Sci-Kit Learn
     - *Project 3*: Compete with your peers on Kaggle to build the most accurate model
 - [Week 8](./week-8): **More Than Just Accuracy** 
     - Critically evaluate model performance through an animated approach
+    - Lab: Explainable AI?
 - [Week 9](./week-9): **Beyond ML** 
     - Explore topics ranging from APIs, NLP, web scraping & more, developed by our PCs
     - *Project 4* (Optional): Learn something on your own, publish an article on Medium!
