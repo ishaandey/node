@@ -1,7 +1,7 @@
 # Youtube Trending Videos
 
 ## About
-Youtube maintains a daily list of top trending videos. This datafile contains 6 months of data from January through June 2018.
+Youtube maintains a daily list of top trending videos. This csv file contains 6 months of data from January through June 2018.
 
 ## Documentation
 Variable        | Description
