@@ -15,3 +15,18 @@ Use what you've learned to answer questions about a live, impactful dataset. We'
 
 ## Collaboration
 You'll be working either with partners or individually, but collaboration with your lab group is defintely encouraged– help each other out!
+
+## Data Sources
+Here's a quick overview of the datasets
+
+|Dataset              | Description         | Directory          |
+|:--------------------|:--------------------|:-------------------|
+|Youtube Trending     |For the influencer   |`project-1/youtube/`
+|The Office           |For the comedian     |
+|San Francisco Trees  |For the tree hugger  |
+|NFL Stadiums         |For the fan          |
+|Star Wars Opinions   |For the geek         |
+|Brain Injury         |For the future MD    |
+|Nobel Laureate       |For the future PhD   |
+|Data Privacy         |For Big Brother      |
+|Beer                 |For a good time      |
