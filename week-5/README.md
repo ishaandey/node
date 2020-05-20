@@ -17,7 +17,8 @@ Clearly, we've got a lot to learn. Though the tools we'll learn will help us wor
 
 
 ## Lab
-5 Word Stories! One of the most core concepts of Git is getting the hanging of pulling, commiting, then pushing. To practice this, we'll partner up and write stories, 5 words at a time.
+5 Word Short Stories! One of the most core concepts of Git is getting the hang of pulling, commiting, then pushing our work. To practice this, we'll partner up and write stories, 5 words at a time.
+
 
 ## Additional Links
 - [Bash Shell Scripting](https://en.wikibooks.org/wiki/Bash_Shell_Scripting#Introduction) 
