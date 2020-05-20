@@ -1,18 +1,20 @@
 # Node
-Node is a 10-week data science course offered by [HackCville](https://hackcville.com/), where students will learn **core data literacy skills**, including data manipulation, exploratory data analysis, and a high-level introduction to machine learning. 
+Welcome to Node! Node is a 10-week introductory data science course offered by [HackCville](https://hackcville.com/), where students pick up **core data literacy skills** necessary to tackle questions of their own. 
 
-This course is designed for students with some programming or data science experience in Python, but is open to all. 
+Among other things, we'll learn the foundations of data manipulation, exploratory data analysis, machine learning, and apply them towards our own areas of interests in projects. Though the course assumes some basic knowledge of programming or familiarity with Python, all are welcome.
+
+By the end of this course, our goal is to show you what's possible by learning data– how to ask the right questions, critique models, and cut through the noise to help you find the patterns in your work.
 
 ## Course Details 
 All weeks will comprise of (1) a lesson delivered through workshops, typically as a Jupyter Notebook, (2) supplemental content to be completed during labs, (3) links to further exploration or example applications, and (4) relevant memes. 
 
 ### Course Materials
-- All course material (slides, Python notebooks, datasets, etc.) will live in this GitHub repository
-- For ease of access, we've setup a mirror at [files.node.ishaandey.com](https://files.node.ishaandey.com/) that'll allow you to individually download files to your local computer 
+- All course material (slides, notebooks, datasets, etc.) will live in this GitHub repository
+- For ease of access, we've setup a mirror at [files.node.ishaandey.com](https://files.node.ishaandey.com/) that'll allow you to individually download files to your local computer
 
 ### Schedule
 - [Week 1](./week-1): **What is Data Science?** 
-    - Find, clean, and visualize a dataset from scratch
+    - Find, clean, and visualize insights for the City of San Francisco
     - *Lab*: Install Anaconda, finish welcome survey
 - [Week 2](./week-2): **Panda, Panda, Panda** 
     - What is a DataFrame? Learn masks, chaining, groupbys, and the lingo of Pandas
