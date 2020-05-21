@@ -20,6 +20,7 @@ Work on Project 1 with your team! Check out the description in the [project-1](.
 
 ## Additional Resources
 - [Pandas Cheatsheet](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
+- [Example of Cleaning Script](https://github.com/ishaandey/COVID-19/blob/master/data_clean.py)
 
 ## Acknowledgements
 Today's `cleaning.ipynb` notebook was adapted from [Ben Artuso](https://github.com/benartuso/), big s/o for his help!
