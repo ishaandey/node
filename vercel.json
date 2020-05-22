@@ -1,11 +1,3 @@
 {
   "version": 2,
-  "builds": [
-        {"src": "*.css", "use": "@now/static"},
-        {"src":"*.csv", "use":"@now/static"},
-        {"src":"*.ipynb", "use":"@now/static"},
-        {"src":"*.txt", "use":"@now/static"},
-        {"src":"*.md", "use":"@now/static"},
-        {"src":"*.py", "use":"@now/static"}
-      ]
 }
