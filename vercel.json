@@ -7,5 +7,5 @@
         {"src":"*.txt", "use":"@now/static"},
         {"src":"*.md", "use":"@now/static"},
         {"src":"*.py", "use":"@now/static"},
-      ],
+      ]
 }
