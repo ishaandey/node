@@ -1,4 +1,5 @@
 # Week 5: DevOps!
+![screenshots/terminal.jpg](screenshots/terminal.jpg)
 
 ## Workshop 
 So far in Node we've been living in a bubble. All the projects we've worked on have been by ourselves, without any direct collaboration on code. We've also trusted our computers to handle all the software setup, and why not? It's worked just fine. 
@@ -22,4 +23,5 @@ Clearly, there's a lot of tools we can make use of to improve our workflow. Thou
 
 ## Additional Links
 - [Bash Shell Scripting](https://en.wikibooks.org/wiki/Bash_Shell_Scripting#Introduction) 
+- [Git Tutorial](https://github.com/jlord/git-it-electron)
 
