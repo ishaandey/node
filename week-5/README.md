@@ -1,5 +1,21 @@
 # Week 5: DevOps!
-![screenshots/terminal.jpg](screenshots/terminal.jpg)
+
+```
+                                                  |   DEATH STAR PLANS
+            /~\                                   |       _______        
+           ( oo|    R2D2! Don't forget to         | ""   /       \  ooo*
+           _\=/_    commit your work!             | :.  |__[]_[]__| o*o*
+          /     \                       ___       |     |__  _  __| *oo*
+         //|/.\|\\                     / ()\      | ##  |  [] []  | o*oo
+        ||  \_/  ||                  _|___*_|_    | ##   \_______/       
+        || |\ /| ||                 | | === | |   |______________________
+        #  \_ _/ #                  |_|  O  |_|  /                       
+           | | |                     ||  O  ||  |------------------------
+           | | |                     ||__*__||  | (*)   (*)                 
+           []|[]                    |~ \___/ ~| |                         
+           | | |                    /=\ /=\ /=\ |                        
+      ____/_]_[_\___________________[_]_[_]_[_]_|________________________
+```
 
 ## Workshop 
 So far in Node we've been living in a bubble. All the projects we've worked on have been by ourselves, without any direct collaboration on code. We've also trusted our computers to handle all the software setup, and why not? It's worked just fine. 
@@ -15,7 +31,6 @@ Clearly, there's a lot of tools we can make use of to improve our workflow. Thou
 2. [Guide to Git](git.md)
 
 3. [Environments made Easy](venv.md)
-
 
 ## Lab
 5 Word Short Stories! One of the most core concepts of Git is getting the hang of pulling, commiting, then pushing our work. To practice this, we'll partner up and write stories, 5 words at a time.
