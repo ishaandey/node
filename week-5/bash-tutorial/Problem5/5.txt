@@ -1,0 +1,7 @@
+As a Jedi, you must figure out for yourself what any command does:
+
+Try `man ls`.
+Tip: If your terminal shows an editor with a colon, type `q` then hit enter to exit out
+
+Use `man cp` to learn how to copy the file hansolo.txt and give it the name bensolo.txt
+

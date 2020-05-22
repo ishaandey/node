@@ -1,0 +1,6 @@
+Welcome to Bash, brought to you by the star wars universe
+
+There's a file called obiwan.txt, try deleting it.
+
+Try typing:
+rm obiwan.txt

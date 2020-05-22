@@ -1,0 +1,7 @@
+We're stuck in a room with droids.
+
+First, use the force to see which files are in the Problem4 directory using `ls -la`
+
+Then, ONLY delete droids that aren't R2D2 or C3POm with:  rm *Droid.txt
+
+Remember, the * wildcard matches any bit of text, regardless of how long it is.

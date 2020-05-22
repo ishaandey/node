@@ -1,0 +1,1 @@
+* in bash stands for all. We can do some really powerful things with it.

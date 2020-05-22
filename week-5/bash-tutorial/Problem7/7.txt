@@ -1,0 +1,5 @@
+"Great kid, don't get cocky."
+
+There's one final file at this URL: http://files.node.ishaandey.com/week-5/content/giphy.gif
+
+Figure out what the command `curl` does, and how you can use it to save that file to this directory.

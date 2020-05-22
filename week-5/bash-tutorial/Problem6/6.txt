@@ -1,0 +1,7 @@
+Try echo "May force be with you" and hit enter. What happens?
+
+In bash " > file.txt" can send some piece of information to a file.
+
+Use echo and > to send the message to yoda
+
+Hint: Use `ls` to see what the filename is first
