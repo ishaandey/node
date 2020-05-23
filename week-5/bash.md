@@ -1,5 +1,21 @@
 # Bash for Beginners
 
+```
+     How am I     _-=-.          .*                                  ====
+     supposed    ((___)         .*'                Use the          (o o")
+     to run      _\ -/_        .*'     _           shell, Luke!     _\- /_
+     my code?   /  \ / \      .*'     /o\                          / \  / \
+               //|  | |\\    .*'      \_/                         /   \/   \
+               \\|  | | \\  /*'                                  / /| |  |\ |
+                \\  | |  \\//                                    || | |  | ||
+                 ')===|   <)                                     (` | |  | `)
+                 | || |                                             | |  |
+                 (_)(_)                                             | |\ |
+                 |_||_|                                            /  || \
+                 |_||_|                                           /   ||_|\
+________________/__][__\_________________________________________/____|[_]_\__
+```
+
 ## First, a bit of background
 Back in the day, like wayyy back in the day, computers were nothing more than simple command line interfaces, a big black screen with a blinking cursor. Instead of dragging and dropping files, you'd need to explicitly type out the file to move, from where to where.
 
@@ -35,4 +51,4 @@ There are 7 steps in their own folders. Open them up using your file navigator a
 
 
 ## Acknowledgements
-S/o to [Christian Jung](https://github.com/ChristianFJung) for help on today's lesson!
+S/o to [Christian Jung](https://github.com/ChristianFJung) for today's lesson!
