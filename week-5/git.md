@@ -1,31 +1,32 @@
 # Getting into Git
-
+       
 ```
-.          __---__
-    .   .-'...:...'-.               .          .
-       / .  . : .__ .\                                         .
-.     /........./  \ .\  .   .              git checkout -b         .
-     / :  :   :| () | :\                  .        .
-    :...........\__/....:         .                             .
-    |___________________|              .        |    |  .                .
-    |...................|               .       |    |
-    :  :  :   :   :   : :                       |=()=|          .
-  .  \................./      .            .    |    |
-      \  .  . : .  .  /                         |  . |           .
-   .   \._........._./  .        .                   .
-          -..___..-                .         .             .                .
-                      .                                               .
-    .   origin/master                    .               .       
-                                 .              .                         .    
-```         
+     git clone    git clone   git clone         git remote -v   
 
-Git is a fantastic versioning system, and there are *tons* of resources available online to help you learn / debug.
-This document will just cover the basics to get you on your feet, and is by no means a full list of all the amazing things Git and GitHub allow you to do. 
+        /__\        /__\        /__\                 /__\    
+       | <><|      | <><|      | <><|               |><> |   
+       (__/\)      (__/\)      (__/\)            .  (/\__)   
+      /      \    /      \    /      \           | /      \  
+      ||/(===o    ||/(===o    ||/(===o           I || __ |\\ 
+      | /  \ |    | /  \ |    | /  \ |           I// /  \| ||
+      \/][][\/    \/][][\/    \/][][\/          (I/ [][][] ||
+       |\  /|      |\  /|      |\  /|           ,]  |\  /| ' 
+       |_||_|      |_||_|      |_||_|           []  |_||_|   
+       [ ][ ]      [ ][ ]      [ ][ ]           []  [ ][ ]   
+       | || |      | || |      | || |           /|  | || |   
+       |_||_|      |_||_|      |_||_|          / |  |_||_|   
+_______[_][_]______[_][_]______[_][_]____________|__[_][_]____
+```
+
+Git is a fantastic versioning system, and there are *tons* of resources available online to help you learn / debug (see Acknowledgements below). This document will just cover the basics to get you on your feet, and is by no means a full list of all the amazing things Git and GitHub allow you to do. 
 
 ## How Does Git Work?
 
-**Git** is a version control system. Much in the way MS Excel or Google Docs allow us to look back at previous versions of a document, git tracks changes to a project over time. Most versioning control systems do something like this:
+**Git** is a version control system. Much in the way MS Excel or Google Docs allow us to look back at previous versions of a document, Git tracks changes to a project over time. 
 
+Git "thinks of its data more like a **series of snapshots** of a miniature filesystem. With Git, every time you commit, or save the state of your project, Git basically takes a picture of what all your files look like at that moment and stores a reference to that snapshot."
+
+When we take a look at these snapshots, we can see quick summaries of what changes were made: 
 ```diff
 Sandtrooper: How long have you had these droids?
 Luke Skywalker: About three or four seasons.
@@ -35,13 +36,11 @@ Sandtrooper: Let me see your identification.
 + Sandtrooper: These aren't the droids we're looking for.
 ```
 
-Git, on the other hand, "thinks of its data more like a **series of snapshots** of a miniature filesystem. With Git, every time you commit, or save the state of your project, Git basically takes a picture of what all your files look like at that moment and stores a reference to that snapshot."
-
 We can think about changes to our files occuring in 3 distinct stages.
 From the [handbook](https://git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F):
-* **Modified** means that you have changed the file but have not committed it to your database yet.
-* **Staged** means that you have marked a modified file in its current version to go into your next commit snapshot.
-* **Committed** means that the data is now safely stored in your local database.
+1. **Modified** means that you have changed the file but have not committed it to your database yet.
+2. **Staged** means that you have marked a modified file in its current version to go into your next commit snapshot.
+3. **Committed** means that the data is now safely stored in your local database.
 
 This "database" we refer to is called a local git repository (repo for short).
 
@@ -52,7 +51,7 @@ Let's say we make a couple of modifications to our project: We add a few lines t
 
 1. All of these changes are currently just showing as 'modified' in our working tree
 2. We can selectively choose which files we want to be part of our next commit, by "staging them".
-        For example, we can stage `resistance.py` only using `git add resistance.py`
+        For example, we can stage `resistance.py` only, using `git add resistance.py`
 3. We can `commit` these changes, which takes all files from the staging area, and stores that snapshot permanently into the Git directory.
         With the command line, we can commit these changes (and describe it) using `git commit -m "Finish Episode VII"` 
 
@@ -68,7 +67,7 @@ Conceptually, the only addition here is that every so often we can `pull` change
 
 ### Practice!
 Using the command line & the GitHub Desktop application, we can do everything we need from git commands. 
-At any point, use `git --help` or `git <command> --help` for help pages
+At any point, use `git --help` or `git <command> --help` to pull up help pages
 ##### Initializing the Repo
 1. Let's start by **navigating** to your node directory
         1. Open the bash shell of your choice (For MacOS: use `Terminal`; For Windows: use `Git Bash`)
@@ -99,13 +98,29 @@ At any point, use `git --help` or `git <command> --help` for help pages
 ## Branching
 Branching is a key feature that allows us to keep production-ready, stable code seperate from the development code, where we're likely to experiment and break things as we go along. 
 
-There are tons of models that describe this workflow. The one I've been using for the node repository uses `master`/`develop`/`feature` branches, based on the model [described here](https://nvie.com/posts/a-successful-git-branching-model/).
+There are tons of workflows that describe this process. The one I've been using for the node repository uses `master`/`develop`/`feature` branches, based on the model [described here](https://nvie.com/posts/a-successful-git-branching-model/).
 
+```
+.          __---__
+    .   .-'...:...'-.               .          .
+       / .  . : .__ .\                                         .
+.     /........./  \ .\  .   .              git checkout -b         .
+     / :  :   :| () | :\                  .        .
+    :...........\__/....:         .                             .
+    |___________________|              .        |    |  .                .
+    |...................|               .       |    |
+    :  :  :   :   :   : :                       |=()=|          .
+  .  \................./      .            .    |    |
+      \  .  . : .  .  /                         |  . |           .
+   .   \._........._./  .        .                   .
+          -..___..-                .         .             .                .
+                      .                                               .
+    .    origin/master                   .               .       
+                                 .              .                         .    
+```  
 
 ## Practice on your own:
 [Git-It](https://github.com/jlord/git-it-electron)
-
-
 
 ## Acknowledgements
 The diagrams here are taken from the following sources:
