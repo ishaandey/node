@@ -1,10 +1,10 @@
 # Virtual Environments
 
 ```
-What's a pretty girl      /""\              ====     
+What's a nice girl        /""\              ====     
 like you doing in a      / o o              o o~~    
-dump like this?          _\ -/_            _\- /_      Looks like I've run my code 
-                        /\\  //\          / \ /  \     ... in the wrong environment
+place like this?         _\ -/_            _\- /_      Looks like I've run my code 
+                        /\\  //\          / \ /  \     in the wrong... environment
                        |  \\//  \        //| |  |\\ 
                        ||  \/  |\\       \\| |__|//
             ---------------------\()------(---||//-----
