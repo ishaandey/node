@@ -35,9 +35,9 @@ Sandtrooper: Let me see your identification.
 + Sandtrooper: These aren't the droids we're looking for.
 ```
 
-Git, on the other hand, "thinks of its data more like a ***series of snapshots** of a miniature filesystem. With Git, every time you commit, or save the state of your project, Git basically takes a picture of what all your files look like at that moment and stores a reference to that snapshot."
+Git, on the other hand, "thinks of its data more like a **series of snapshots** of a miniature filesystem. With Git, every time you commit, or save the state of your project, Git basically takes a picture of what all your files look like at that moment and stores a reference to that snapshot."
 
-We can think of changes to our files as occuring in 3 distinct stages.
+We can think about changes to our files occuring in 3 distinct stages.
 From the [handbook](https://git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F):
 * **Modified** means that you have changed the file but have not committed it to your database yet.
 * **Staged** means that you have marked a modified file in its current version to go into your next commit snapshot.
@@ -51,8 +51,8 @@ In practice, this workflow isn't all that complicated.
 Let's say we make a couple of modifications to our project: We add a few lines to `resistance.py`. We also made some additions to `princessleia.csv`, but we don't have those changes yet complete.
 
 1. All of these changes are currently just showing as 'modified' in our working tree
-2. We can selectively choose which files we want to be part of our next commit, by "staging them". Here, we'll only stage `resistance.py`
-        To do this, we can use `git add resistance.py`. If we instead wanted to add everything, we could use `git add . `
+2. We can selectively choose which files we want to be part of our next commit, by "staging them".
+        For example, we can stage `resistance.py` only using `git add resistance.py`
 3. We can `commit` these changes, which takes all files from the staging area, and stores that snapshot permanently into the Git directory.
         With the command line, we can commit these changes (and describe it) using `git commit -m "Finish Episode VII"` 
 
@@ -108,7 +108,7 @@ There are tons of models that describe this workflow. The one I've been using fo
 
 
 ## Acknowledgements
-The diagrams here are taken from the awesome sources: all of which have defintely 
+The diagrams here are taken from the following sources:
 - https://git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F
 - https://nvie.com/posts/a-successful-git-branching-model/
 - https://github.com/jlord/git-it-electron
