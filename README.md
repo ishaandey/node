@@ -1,23 +1,22 @@
 # Node
-Welcome to Node! Node is a 10-week introductory data science course offered by [HackCville](https://hackcville.com/), where students pick up **core data literacy skills** necessary to tackle questions of their own. 
+Welcome! Node is a ten week introductory data science course offered by [HackCville](https://hackcville.com/), where students pick up **core data literacy skills** necessary to tackle questions of their own. 
 
 Among other things, we'll learn the foundations of data manipulation, exploratory data analysis, machine learning, and apply them towards our own areas of interests in projects. Though the course assumes some basic knowledge of programming or familiarity with Python, all are welcome.
 
-By the end of this course, our goal is to show you what's possible by learning data– how to ask the right questions, critique models, and cut through the noise to help you find the patterns in your work.
+By the end of this course, our goal is to show what's possible by learning data science– how to ask the right questions, critique models, and cut through the noise to help you find the patterns in your work. Ultimately, we'd like students to leave with enough familiarity of Python to be independent analysts in their own fields, as well as understand how data science is increasingly used in the world around them.
 
 ## Course Details 
 All weeks will comprise of (1) a lesson delivered through **workshops**, typically as a Jupyter Notebook, (2) supplemental content to be completed during **labs**, (3) links to further exploration or example **applications**, and (4) relevant **memes**. 
 
 ### Course Materials
-- All course material (slides, notebooks, datasets, etc.) will live in this GitHub repository
-- For ease of access, we've setup a mirror at [files.node.ishaandey.com](https://files.node.ishaandey.com/) that'll allow you to individually download files to your local computer
+All course material (slides, notebooks, datasets, etc.) will live in [this GitHub repository](https://github.com/ishaandey/node). For ease of access, we've setup a mirror at [files.node.ishaandey.com](https://files.node.ishaandey.com/) that'll allow you to individually download files to your local computer
 
 ### Schedule
 - [Week 1](./week-1): **What is Data Science?** 
     - Walk through the data science process with a live City of San Francisco dataset
     - *Lab*: Install Anaconda, finish welcome survey
 - [Week 2](./week-2): **Panda, Panda, Panda** 
-    - What is a DataFrame? Learn masks, chaining, groupbys, and the lingo of Pandas
+    - What is a DataFrame? Learn the lingo of Pandas with masks, chaining, and groupbys
     - *Lab*: Practice pandas using welcome data
 - [Week 3](./week-3): **Everything Data Wrangling** 
     - Handle irregular data types and aggregate data from several sources
@@ -26,7 +25,7 @@ All weeks will comprise of (1) a lesson delivered through **workshops**, typical
     - Let your audience explore with you by building dynamic visualizations of the Seattle rental market
     - *Lab*: Browse the Python graph gallery and represent data with unique formats
 - [Week 5](./week-5): **DevOps 101** 
-    - Learn industry-level practices for collaboration: documenting work with GitHub, wrapping code in virtual environments, and using Bash commands to customize your workspace
+    - Learn industry-level practices for collaborating & publishing work: command lines, git, and virtual environments
     - *Lab*: Write whimsical five-word stories with Git
 - [Week 6](./week-6): **I, Robot** 
     - A conceptual introduction to AI and ML. Identify applications and build an intuition for the ML pipeline
@@ -47,4 +46,4 @@ All weeks will comprise of (1) a lesson delivered through **workshops**, typical
 Feel free to contact us at ishaan@hackcville.com with any questions about content or request permission to use material.
 
 ### Contributors
-Content developed by ~~PC 1~~, ~~PC 2~~, and Ishaan Dey at HackCville, Fall 2020. 
+Content developed by ~~PC 1~~, ~~PC 2~~, and Ishaan Dey at HackCville, Fall 2020. S/o to Christian Jung, Ben Artuso, and the HackCville team for their feedback and support.
