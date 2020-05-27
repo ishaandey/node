@@ -10,7 +10,7 @@ Imagine you've been commissioned by the City of San Francisco to tackle a proble
 
 The funding for that project has recently been called into question, and the City Board needs to see its value in reapproving funds for the following year. Stakeholders have raised several concerns over the past few years, and your job is to use the data to answer them. Good luck!
 
-- Open up [INSERT COLAB LINK](INSERT COLAB LINK) 
+- Open up [this Colab link](https://drive.google.com/file/d/1ZfMT1Uirr-zvoWF42R6jltzkeWmsY8Ub/view?usp=sharing) 
     1. Sign into a Google account
     2. Click `Open with Google Colaboratory`
     3. (In the notebook) Navigate to `File` > `Open in playground mode`
