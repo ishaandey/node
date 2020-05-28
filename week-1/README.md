@@ -12,7 +12,10 @@ The funding for that project has recently been called into question, and the Cit
 
 - Open up [this Colab link](https://drive.google.com/file/d/1ZfMT1Uirr-zvoWF42R6jltzkeWmsY8Ub/view?usp=sharing) 
     1. Sign into a Google account
-    2. Click `Open with Google Colaboratory`
+    2. Click `Open with`
+        - If you've never connected to Google Colaboratory:
+          - Hit `Connect to apps` > Search for `Colab` > Hit `Connect`
+          - Go back to the previous page, you should now be able to open the file with Colab
     3. (In the notebook) Navigate to `File` > `Open in playground mode`
     4. (Once that loads) Hit `Copy to Drive` to save a copy to your Drive account 
 
