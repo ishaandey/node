@@ -18,7 +18,7 @@
 _______[_][_]______[_][_]______[_][_]____________|__[_][_]____
 ```
 
-Git is a fantastic versioning system, and there are *tons* of resources available online to help you learn / debug. This page will just cover the basics to get you on your feet, and is by no means a full list of all the amazing things Git and GitHub allow you to do. 
+Git is a fantastic versioning system, and there are *tons* of resources available online to help you learn / practoce. This page will just cover the basics to get you on your feet, and is by no means a full list of all the amazing things Git and GitHub allow you to do. 
 
 ## The Big Picture
 
@@ -75,9 +75,6 @@ Whenever she's made edits that she'd like to share, she can **push** those commi
 ![remotes](screenshots/remotes.png)
 
 That's it! There's a lot more to Git, including Branching and Pull Requests, but this is enough to get us started.
-
-
-
 
 ___
 
@@ -168,7 +165,6 @@ There are tons of workflows that describe this process. The one I've been using 
 [Git-It](https://github.com/jlord/git-it-electron)
 
 ## Acknowledgements
-The diagrams here are taken from the following sources:
 - https://git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F
 - https://nvie.com/posts/a-successful-git-branching-model/
 - https://github.com/jlord/git-it-electron
