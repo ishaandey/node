@@ -18,7 +18,7 @@
 _______[_][_]______[_][_]______[_][_]____________|__[_][_]____
 ```
 
-Git is a fantastic versioning system, and there are *tons* of resources available online to help you learn / practoce. This page will just cover the basics to get you on your feet, and is by no means a full list of all the amazing things Git and GitHub allow you to do. 
+Git is a fantastic versioning system, and there are *tons* of resources available online to help you learn / practice. This page will just cover the basics to get you on your feet, and is by no means a full list of all the amazing things Git and GitHub allow you to do. 
 
 ## The Big Picture
 
@@ -84,54 +84,55 @@ We've already covered most, if not all of the basics of working with Git. Let's 
 At any point, use `git --help` or `git <command> --help` to pull up help pages
 
 ### Set Up Remote
-1. Let's start by **navigating** to your node directory
-        1. Open the bash shell of your choice (For MacOS: use `Terminal`; For Windows: use `Git Bash`)
-        2. Using the commands from [bash.md](bash.md), `cd` into your directory for node (use `mkdir` if you don't have a node folder). 
+1. Let's start by **navigating** to your node directory:
+    1. Open the bash shell of your choice (For MacOS: use `Terminal`; For Windows: use `Git Bash`)
+    2. Using the commands from [bash.md](bash.md), `cd` into your directory for node (use `mkdir` if you don't have a node folder). 
 
-2. **Initialize** the repository with `git init`
-        1. This creates a hidden `.git` directory, which we can now reveal with `ls -la`
+2. **Initialize** the repository with `git init`:
+    1. This creates a hidden `.git` directory, which we can now reveal with `ls -la`
 
-3. **Stage** all changes using `git add .`. What is staging, you ask?
-When Git detects a change to a file, we must place it into one of 3 distinct stages:
-        >a. **Modified** means that the file is changed, but isn't yet *saved to the repo*. This occurs by default.
-        >b. **Staged** means we've *marked the modified file* *as ready* to enter into the next commit.
-        >c. **Committed** means that the snapshot, containing only the staged edits, is now saved to the repo.
+3. **Stage** all changes using `git add .`. What is staging, you ask? When Git detects a change to a file, we must place it into one of 3 distinct stages:
+    a. **Modified** means that the file is changed, but isn't yet *saved to the repo*. This occurs by default.
+    b. **Staged** means we've *marked the modified file* *as ready* to enter into the next commit.
+    c. **Committed** means that the snapshot, containing only the staged edits, is now saved to the repo.
+
+![staging.png](screenshots/staging.png)
 
 4. **Commit** these changes to the *local* repo using `git commit -m "First commit"` 
 
-5. In order to push our changes up to a remote repository, we first need to **create a github repo**
-        1. Open up `GitHub Desktop`. On the top left, hit `Add`, then `Add existing repository`
-        2. Hit `choose`, then navigate to the directory where you've been working
-        3. Click `Publish repository`, add a description and make the repo public if you'd like, then publish.
+5. In order to push our changes up to a remote repository, we first need to **create a GitHub repo**
+    1. Open up `GitHub Desktop`. On the top left, hit `Add`, then `Add existing repository`
+    2. Hit `choose`, then navigate to the directory where you've been working     
+    3. Click `Publish repository`, add a description and make the repo public if you'd like, then publish.
 
 6. Now that we have a `remote` repo set up, we can confirm its location using `git remote -v`
-        1. This should now point to a link, something like <https://github.com/ishaandey/node.git>
+    1. This should now point to a link, something like <https://github.com/ishaandey/node.git>
 
 7. **Push** the commits to remote using `git push`
 
 ### Add Changes
 1. Head over to your online GitHub repository (github.com/username/reponame) 
-        - Make sure you're signed in properly
+    - Make sure you're signed in properly
 
 2. Create a new file online by clicking the `new file` button: call it `hello.txt`
-        - GitHub will ask you to save your changes with a commit (it automatically staged them)
-        - Because this is already the remote repo, there's no need to push/pull: the changes are directly commited to remote
+    - GitHub will ask you to save your changes with a commit (it automatically staged them)
+    - Because this is already the remote repo, there's no need to push/pull: the changes are directly commited to remote
 
-3. However, our local directory doesn't have those changes just yet. We need to **pull** those commits down to local.
-        - We could either: (a) go to GitHub Desktop, and click the `fetch & pull` icon
-        - Or (b) from the command line, type `git pull`
+3. However, our local directory doesn't have those changes just yet. We need to **pull** those commits down to local. 
+    - We could either: (a) go to GitHub Desktop, and click the `fetch & pull` icon
+    - Or (b) from the command line, type `git pull`
 
 4. With a text editor, add a few lines to `hello.txt`. Be sure to save!
-        - Git now knows a file has been changed, but hasn't yet saved that snapshot to the local repo
+    - Git now knows a file has been changed, but hasn't yet saved that snapshot to the local repo
 
 5. **Stage** these changes using `git add hello.txt`
-        - If we modified multiple files, all of which we'd like to stage, we could simply use `git add .`
+    - If we modified multiple files, all of which we'd like to stage, we could simply use `git add .`
 
 6. **Commit** these changes, using `git commit -m "Added some lines"`
-        - The `-m` flag allows us to attach a message to the commit- This is super helpful for annotating edits
+    - The `-m` flag allows us to attach a message to the commit- This is super helpful for annotating edits
 
 6. Finally, **push** these changes to the remote rep using `git push`. 
-        - If all is well, you should now be able to see those new lines online!
+    - If all is well, you should now be able to see those new lines online!
 
 You're done! This is the basic workflow of Git. We modify files, stage then commit them. We push changes to remote, and pull changes to local.
 
