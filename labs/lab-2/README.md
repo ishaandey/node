@@ -5,9 +5,11 @@ One of my summer jobs in high school was as a sales associate at the Gap. We nev
 Was it the $80 denim that turned customers away? Or the riduculous G-A-P sweaters that should've been retired in 2003? Naturally, I turned to data science for answers. Since Gap Inc. doesn't make their store-by-store sales data public, we made up our own.
 
 ## The Task
-Pretend you're a data scientist at Gap Inc., tasked with exploring sales trends in the Virginia market. Management has given a list of questions, all listed within the lab notebook itself. 
+Pretend you're a data scientist at Gap Inc., tasked with exploring sales trends in the Virginia market. Leadership has provided a list of questions, which you can find in the lab notebook itself. 
 
-Download the `gap.csv` and `lab-2.ipynb` files, and use the documentation below to answer questions management has. 
+Download the `gap.csv` and `lab-2.ipynb` files from the [mirror](http://files.node.ishaandey.com/labs/lab-2), and use the data documentation provided below. 
+
+*NOTE*: These questions are fairly open ended, and some of them can be quite hard. If you're stuck, move on to another question, or Slack one of the instructors with (a) what you've tried, and (b) a specific question (not "help pls"). 
 
 ## The Data
 This data represents individual transactions in Banana Republic and Gap stores in VA from Q1 of FY2020. We've got granular information on every attribute: Each order, each item purchased in that order, which customer bought it, where, when, and how the purchase was made.
@@ -29,7 +31,7 @@ This data represents individual transactions in Banana Republic and Gap stores i
 | Price | Listed price of item | $29.95 |
 | ClearanceType | Type of clearance | Retail, Clearance, Final Sale |
 | DiscountType | If Gap Card rewards was used | Reward points, Promotion, GapCash, Other |
-| StoreName | Store name (i.e. Mall), or facility where online order was shipped from | Fair Oaks Mall |
+| StoreName | Store name or facility where order was purchased from | Fair Oaks Mall |
 | Location | State of store location | VA |
 
 #### Quick note on IDs 
