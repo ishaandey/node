@@ -7,9 +7,11 @@ Was it the $80 denim that turned customers away? Or the riduculous G-A-P sweater
 ## The Task
 Pretend you're a data scientist at Gap Inc., tasked with exploring sales trends in the Virginia market. Leadership has provided a list of questions, which you can find in the lab notebook itself. 
 
-Download the `gap.csv` and `lab-2.ipynb` files from the [mirror](http://files.node.ishaandey.com/labs/lab-2), and use the data documentation provided below. 
+Download the `gap.csv` and `lab-2.ipynb` files from the [mirror](http://files.node.ishaandey.com/labs/lab-2), open up the files from Anaconda in Jupyter Notebook, and use the data documentation provided below to answer the questions.
 
-*NOTE*: These questions are fairly open ended, and some of them can be quite hard. If you're stuck, move on to another question, or Slack one of the instructors with (a) what you've tried, and (b) a specific question (not "help pls"). 
+**NOTE**: These questions are fairly open ended, and some of them can be quite hard. **We don't expect you to finish**; however much you get through in an hour is more than enough. Think of the rest as extra practice if you'd like. 
+
+If you're stuck, Slack one of the instructors with (a) what you've tried, and (b) specific questions (not "help pls"). 
 
 ## The Data
 This data represents individual transactions in Banana Republic and Gap stores in VA from Q1 of FY2020. We've got granular information on every attribute: Each order, each item purchased in that order, which customer bought it, where, when, and how the purchase was made.
