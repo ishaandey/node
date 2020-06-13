@@ -9,7 +9,7 @@ For today's lab, try to open up today's files using Anaconda
     3. Open up Anaconda, navigate to the directory, and everything should be good to go
 
 ### Lab
-Head over to [lab-2](lab-2) for this week's practice!
+Head over to [labs/lab-2](../labs/lab-2) for this week's practice!
 
 ## Additional Resources
 - [Pandas Cheatsheet](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf) <- An absolute lifesaver, keep it bookmarked
