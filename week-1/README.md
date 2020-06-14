@@ -35,3 +35,5 @@ Anaconda is a toolkit that (among many other things) does the hard work of insta
     
 <img src="screenshots/anaconda.png" width="70%" height=auto>
 
+### What is data science?
+Head over to the [lab-1 page](../labs/lab-1) for the rest of this week's lab activity!
