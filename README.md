@@ -6,7 +6,7 @@ Among other things, we'll learn the foundations of data manipulation, explorator
 By the end of this course, our goal is to show what's possible by learning data science– how to ask the right questions, critique models, and cut through the noise to help you find the patterns in your work. Ultimately, we'd like students to leave with enough familiarity of Python to be independent analysts in their own fields, as well as understand how data science is increasingly used in the world around them.
 
 ## Course Details 
-All weeks will comprise of (1) a lesson delivered through **workshops**, typically as a Jupyter Notebook, (2) supplemental content to be completed during **labs**, (3) links to further exploration or example **applications**, and (4) relevant **memes**. 
+All weeks will comprise of (1) a lesson delivered through **workshops**, typically as a Jupyter Notebook, (2) supplemental practice to be completed during **labs**, (3) links to further exploration or example **applications**, and (4) relevant **memes**. 
 
 ### Course Materials
 All course material (slides, notebooks, datasets, etc.) will live in [this GitHub repository](https://github.com/ishaandey/node). For ease of access, we've setup a mirror at [files.node.ishaandey.com](https://files.node.ishaandey.com/) that'll allow you to individually download files to your local computer
