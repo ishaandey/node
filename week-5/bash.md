@@ -37,17 +37,14 @@ There are 7 steps in their own folders. Open them up using your file navigator a
 - `mv` moves the file we specify. It can also be used for *renaming* files, if we place it back in the same directory.
 - `cat` renders the content of a file as text 
 
-#### Python-y things we'll use
-- `pip install`  
-- `conda activate`
-
 #### General things to know
 - `*` wild cards: Matches anything
-- `~` root direcory:
-- `-flag` flags:
-- `--option` options:
-- `>` the pipe operator: 
-- `^C` clear: 
+- `~` root direcory: The base directory for the OS
+- `-flag` flags: Shorthand to modify a command 
+- `--option` options: Options to modify a command
+- `>` the pipe operator: Send output to somewhere
+- `^C` clear: Exit out of where you are
+- `" "` quotes: Makes sure that the shell interprets a string as text, helpful when there's a space in the directory name or smth
 
 
 ## Acknowledgements
