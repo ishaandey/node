@@ -1,11 +1,13 @@
 # Machine Learning
 
 ## Why bother?
-You're on the bus back from work, listening to bops on your ancient iPod. It's always been the same music - nothing wrong with that, even your friends all jam to the same music you do. It's just that exploring new artists is incredibly hit or miss. It's hard to find that amazing band that never gets popular notice.
+You're on an evening jog, listening to bops on your ancient iPod. You like your music, but it's getting pretty old. The artists your friends suggest are hit or miss, and it's just hard to find good new songs out of your comfort zone.
 
-Spotify revolutionized the game. They figured out that if you like these certain artists, you'll probably like these others too. 
+Spotify revolutionized the game. They made finding new music incredibly personalized, based on entirely your tastes.
 
-How? It's not magic, just data. Each time someone plays a song, a database makes a little note of it. Turns out, each listener sticks to their own little cluster of artists and sub-sub-genres, so they play it a lot. If the songs you play happen to fit in with some of those groups, it's pretty likely you'll enjoy the other songs they're listening to.  
+![spotify](screenshots/spotify5.png)
+
+How? It's not magic, just data. Each time you play a song, some database off in Sweden makes a little note of it. Turns out, each listener sticks to their own little cluster of artists and sub-sub-genres, so they play it a lot. If the songs you play happen to fit in with some of those groups, it's pretty likely you'll enjoy the other songs they're listening to.  
 
 Over time, that network can get pretty robust. With *hundreds of millions* of users each month, Spotify can pretty accurately predict what you'll like, and what you won't like. 
 
@@ -20,8 +22,8 @@ Option 3: Chicken, Onion, BBQ Sauce               Result: Awesome!
 Option 4: Bell Pepper, Mushrooms, Olives (Vegan)  Result: Nope                    
 Option 5: Mozarella, Basil, Tomato (Vegetarian)   Result: Yuck
 ```
-There's one last item the server is about to read, but at this point you're pretty sure what Charlie is gonna think of it:
-`Option 6: Meat Lover's Delight. Sausage, Ground Beef, Bacon, and Ham`.
+There's one last item the server is about to read, but at this point you're pretty sure what Charlie's will think of it:
+<br> `Option 6: Meat Lover's Delight. Sausage, Ground Beef, Bacon, and Ham`.
 And that's what he ordered. 
 
 No surprise, right? But how'd you know? Most likely, you first picked out a pattern...
@@ -50,7 +52,7 @@ Super straightfoward so far, but what if Charlie were to instead react with disg
 -Option 5: Mozarella, Basil, Tomato (Vegetarian)   Result: Yuck
 -Option 6: Sausage, Ground Beef, Bacon, and Ham    Result: Meh
 ```
-That was unexpected. Our hypothesis, and in turn our rule, was proven wrong. Perhaps there was another pattern that better explained the data? Perhaps Charlie wasn't a fan of marinara sauce, or only enjoyed pizzas with exactly one type of meat. Both are valid hypothesis from what we've seen so far, but we'd need more data to test it out on.
+That was unexpected. Our hypothesis, and in turn our rule, was proven wrong. Perhaps there was another pattern that better explained the data? Perhaps Charlie wasn't a fan of marinara sauce, or only enjoyed pizzas with exactly one type of meat. Both are valid hypothesis from what we've seen so far, but we'd need much more data to test it out.
 ______
 
 **Machine learning** is a subset of AI techniques that *learns* by picking out patterns from data. 
@@ -61,12 +63,12 @@ There's a couple distinct areas within machine learning, each of which have thei
 ## Supervised Learning
 When we try to model a situation, we see the inputs, or **X**, and the outputs, **y**. 
 - If we're trying to generate y from x, we'll usually be given some rule: `y = 2x` (This is NOT machine learning). 
-- Otherwise, we have to generate the rule first: `y = mx + b` (This IS machine learning).
+- Otherwise, we have to generate the rule: `y = mx + b`, by finding `m` and `b` (This IS machine learning).
 
 ![supervised](screenshots/supervised.png)
 
 With supervised learning, we're always given outcomes, or **labels** to train our model on. 
-For example, we could have some medical data, and have labels on if they have a heart condition.
+For example, we could have some medical data, and have labels on if the patient has a heart condition.
 | BMI | Blood Pressure | Age | Heart Failure? |  
 |:----|:---------------|:----|:---------------|
 |26|143/97 |68|Y|
@@ -87,21 +89,26 @@ Quick note: With our pizza example, the outcome we needed to predict was binary,
 
 On the other hand, we might want to predict a continuous variable, like the price of a house. It could cost $300k, $400k or $400.1k. We call this type of problem a *regression*. This distinction is really important; it determines how we evaluate our model's performance, as well as which algorithms we can use to predict the outcome.
 
-![class](screenshots/cfn.jpg)
+![cfn](screenshots/cfn3.png)
 
 ## Unsupervised Learning
-On the otherhand, we may not always have labels. We still want to see patterns in the data, even if it may not have classes. 
+However, we may not always have a priori labels. We still want to see patterns in the data, and see if there are any insights to be picked up.
 Take our spotify data from before:
-| Customer # | Top 5 Artists Listened To |  
+| Customer # | Top 5 Artists|  
 |:----|:---------------------------------|
-|1|Kendrick Lamar, Kanye West, Jay-Z, A$AP Rocky, Post Malone |
-|2|Kendrick Lamar, Childish Gambino, Frank Ocean, Chance the Rapper, Mac Miller|
-|3|Lauv, AJR, Quinn XCII,  |
+|1|Kendrick Lamar, Post Malone, Kanye West, Jay-Z, A$AP Rocky |
+|2|Childish Gambino, Chance the Rapper, Kendrick Lamar, Frank Ocean, Mac Miller|
+|3|Quinn XCII, Jeremy Zucker, AJR, Alec Benjamin|
+|4|Lauv, Quinn XCII, Dean Lewis, Alec Benjamin, Joel Adams|
 
+There's isn't necessarily a strict label for each artist. From a first glance, lines 1 & 2 seem to have only hip-hop and rap artists, while 3 & 4 fall along pop or electropop artists. 
 
+But what about artists like Post Malone, who regularly gets listens from users who otherwise usually just listen to pop radio stations?
 
-![unsup](screenshots/usl.png)
+The point is, we don't need to do all the hard work of manually defining "groups" ourselves. We can show user's listening patterns, and cluster artists based on common users. In doing so, we sort out a relatively random jumble of artists into distinct categories.
 
+![cfn](screenshots/clstr2.png)
 
-## Reinforcement Learning
-
+## Summary
+- **Supervised** learning involves predicting outcomes when *given* labels, while **unsupervised** learning finds patterns without any labels
+- Two common tasks in supervised learning are **classification** and **regression**. We use classification techniques when the outcome is *categorical*, and regression when the outcome is *continuous*.
