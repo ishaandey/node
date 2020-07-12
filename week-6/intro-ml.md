@@ -111,4 +111,4 @@ The point is, we don't need to do all the hard work of manually defining "groups
 
 ## Summary
 - **Supervised** learning involves predicting outcomes when *given* labels, while **unsupervised** learning finds patterns without any labels
-- Two common tasks in supervised learning are **classification** and **regression**. We use classification techniques when the outcome is *categorical*, and regression when the outcome is *continuous*.
+- Two common tasks in supervised learning are **classification** and **regression**. We use classification techniques when we want to predict what *group* the observation is a part of, and regression we want to predict some *value*.
