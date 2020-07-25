@@ -48,4 +48,6 @@ All course material (slides, notebooks, datasets, etc.) will live in [this GitHu
 Feel free to contact us at ishaan@hackcville.com with any questions about content or request permission to use material.
 
 ### Contributors
-Content developed by ~~PC 1~~, ~~PC 2~~, and Ishaan Dey at HackCville, Fall 2020. S/o to Christian Jung, Ben Artuso, and the HackCville team for their feedback and support.
+Content developed by Ishaan Dey at HackCville, Fall 2020. All content rights belong to Ishaan Dey. 
+
+Shoutout to Christian Jung, Ben Artuso, and the HackCville team for their feedback and support.
