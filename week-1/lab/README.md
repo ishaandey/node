@@ -21,3 +21,4 @@ In Node this semester, each of you will bring your own domain expertise- anythin
 Personally, I found my way to data science as a pre-med- hardly having touched a line of code before. Data opened doors, in that instead of just asking questions, I could find answers myself. "Why were drug prices so expensive?" became "Well, maybe brand names are more expensive than generics -- by how much -- what causes that?" and so on. 
 
 As we start getting into projects and such, think about what gets you curious. We'll build on that, and start answering questions using some pretty awesome tools, everything between interactive visualizations and predictive models.
+
