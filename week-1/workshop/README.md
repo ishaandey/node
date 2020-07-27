@@ -1,4 +1,4 @@
-# Week 1: Workshop
+# Tree Coverage in San Francisco
 
 Imagine you've been commissioned by the City of San Francisco to tackle a problem they've been having with local flora. The parks department has taken extensive documentation of the city's trees since the 1970s - what species are growing, where they are, who they're maintained by - amassing a dataset of over 200K trees in that time.
 

@@ -1,6 +1,6 @@
-# Data Science: Why bother?
+# Why bother with Data Science?
 
-## What is Data Science?
+## First off, what is data science?
 Data science is an incredibly broad field, and is used in just about any domain, from computational biology to criminal justice reform. In general, I'd say that its a set of tools, techniques, and programs that help us gain insight about that domain, using whatever data we have on hand.
 
 ### Who is it for?

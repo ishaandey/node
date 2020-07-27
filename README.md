@@ -5,7 +5,7 @@ Among other things, we'll learn the foundations of data manipulation, explorator
 
 By the end of this course, our goal is to show what's possible by learning data science– how to ask the right questions, critique models, and cut through the noise to help you find the patterns in your work. Ultimately, we'd like students to leave with enough familiarity of Python to be independent analysts in their own fields, as well as understand how data science is increasingly used in the world around them.
 
-![For example](tools/screenshots/w4_viz.png)
+![Week 4 Example Content](tools/screenshots/w4_viz.png)
 
 ## Course Details 
 All weeks will comprise of (1) a lesson delivered through **workshops**, typically as a Jupyter Notebook, (2) supplemental practice to be completed during **labs**, (3) links to further exploration or example **applications**, and (4) relevant **memes**. 
@@ -45,7 +45,7 @@ All course material (slides, notebooks, datasets, etc.) will live in [this GitHu
     - Show off your work! Show us anything you've made this semester, and we'll present what we're excited about, too.
 
 ## Contact
-Feel free to contact us at ishaan@hackcville.com with any questions about content or request permission to use material.
+Feel free to contact the team at ishaan@hackcville.com with any questions about content or request permission to use material.
 
 ### Contributors
 Content developed by Ishaan Dey at HackCville, Fall 2020. All content rights belong to Ishaan Dey. 
