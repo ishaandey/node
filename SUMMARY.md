@@ -1,6 +1,6 @@
 # Summary
 
-#  Content
+## Content
 * [Week 1: Welcome to Data Science!](week-1/README.md)    
     * [Workshop: San Francisco Trees](week-1/workshop/README.md)     
     * [Lab: What is Data Science?](week-1/lab/README.md) 
@@ -28,5 +28,5 @@
     * [Workshop: Heart Disease](week-6/workshop/README.md)     
     * [Lab: TBD](week-6/lab/README.md)  
     
-# Projects
+## Projects
 * [Project 1: Data Exploration](README.md)    
