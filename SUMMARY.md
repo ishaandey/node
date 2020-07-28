@@ -1,5 +1,6 @@
 # Summary
 
+#  Content
 * [Week 1: Welcome to Data Science!](week-1/README.md)    
     * [Workshop: San Francisco Trees](week-1/workshop/README.md)     
     * [Lab: What is Data Science?](week-1/lab/README.md) 
@@ -18,10 +19,14 @@
     
 * [Week 5: DevOps!](week-5/README.md)    
     * [Workshop: ASCII Star Wars](week-5/workshop/README.md)     
+    * [Workshop I: Bash for Beginners](week-5/workshop/bash.md)    
+    * [Workshop II: Guide to Git](week-5/workshop/git.md)    
+    * [Workshop III: Environments made Easy](week-5/workshop/venv.md)    
     * [Lab: 5-Word Stories](week-5/lab/README.md)  
     
 * [Week 6: Intro to ML!](week-6/README.md)    
     * [Workshop: Heart Disease](week-6/workshop/README.md)     
     * [Lab: TBD](week-6/lab/README.md)  
     
+# Projects
 * [Project 1: Data Exploration](README.md)    
