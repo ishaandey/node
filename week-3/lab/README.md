@@ -1,4 +1,4 @@
-# Gap Inc. Sales
+# Gap Inc. Sales (Part II)
 ## The Story
 One of my summer jobs in high school was as a sales associate at the Gap. We never got much foot traffic, to the point where some of the shelves collected dust (not kidding). Meanwhile, my friend working at the nearby Old Navy would get swamped underneath mountains of $10 tees- I was just glad to have shorter shifts. Fast forward a few years, and turns out Gap wasn't doing so great financially. Old Navy, their only profitable brand, wanted to spin off, and Gap's longtime CEO stepped down.
 
@@ -7,7 +7,7 @@ Was it the $80 denim that turned customers away? Or the riduculous G-A-P sweater
 ## The Task
 Pretend you're a data scientist at Gap Inc., tasked with exploring sales trends in the Virginia market. Leadership has provided a list of questions, which you can find in the lab notebook itself. 
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ishaandey/node/blob/master/week-2/lab/gap_w2_key.ipynb)  [![Download Notebook](https://files.christianfjung.com/buttons/DownloadIpynb.svg)](https://files.node.ishaandey.com/week-2/lab/gap_w2_key.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ishaandey/node/blob/master/week-3/lab/gap_w3_key.ipynb)  [![Download Notebook](https://files.christianfjung.com/buttons/DownloadIpynb.svg)](https://files.node.ishaandey.com/week-3/lab/gap_w3_key.ipynb)
 
 **NOTE**: These questions are fairly open ended, and some of them can be quite hard. **We don't expect you to finish**; however much you get through in an hour is more than enough. Think of the rest as extra practice if you'd like. 
 

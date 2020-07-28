@@ -10,10 +10,10 @@ Today we'll be working with IMDB movie data. We'll cover the fundamentals of wor
 
 
 ## Additional Resources
-- [Pandas Cheatsheet](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf): An absolute lifesaver, keep it bookmarked
+- [Pandas Cheatsheet](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf):  An absolute lifesaver, keep it bookmarked
 
 ## Acknowledgements
-Today's `pandas.ipynb` notebook was adapted from [Ben Artuso](https://github.com/benartuso/)
+Today's `pandas.ipynb` notebook was adapted from [Ben Artuso](https://github.com/benartuso/
 
 
 
