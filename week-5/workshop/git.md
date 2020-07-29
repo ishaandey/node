@@ -112,11 +112,11 @@ At any point, use `git --help` or `git <command> --help` to pull up help pages
 
 ### Add Changes
 1. Head over to your online GitHub repository (github.com/username/reponame) 
-    - Make sure you're signed in properly
+    *  Make sure you're signed in properly
 
 2. Create a new file online by clicking the `new file` button: call it `hello.txt`
-    - GitHub will ask you to save your changes with a commit (it automatically staged them)
-    - Because this is already the remote repo, there's no need to push/pull: the changes are directly commited to remote
+    *  GitHub will ask you to save your changes with a commit (it automatically staged them)
+    *  Because this is already the remote repo, there's no need to push/pull: the changes are directly commited to remote
 
 3. However, our local directory doesn't have those changes just yet. We need to **pull** those commits down to local. 
     - We could either: (a) go to GitHub Desktop, and click the `fetch & pull` icon
