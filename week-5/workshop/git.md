@@ -85,8 +85,8 @@ At any point, use `git --help` or `git <command> --help` to pull up help pages
 
 ### Set Up Remote
 1. Let's start by **navigating** to your node directory:
-    1. Open the bash shell of your choice (For MacOS: use `Terminal`; For Windows: use `Git Bash`)
-    2. Using the commands from [bash.md](bash.md), `cd` into your directory for node (use `mkdir` if you don't have a node folder). 
+       1. Open the bash shell of your choice (For MacOS: use `Terminal`; For Windows: use `Git Bash`)
+       2. Using the commands from [bash.md](bash.md), `cd` into your directory for node (use `mkdir` if you don't have a node folder). 
 
 2. **Initialize** the repository with `git init`:
     1. This creates a hidden `.git` directory, which we can now reveal with `ls -la`
