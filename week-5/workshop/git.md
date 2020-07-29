@@ -1,5 +1,5 @@
 # Getting into Git
-       
+
 ```
      git clone    git clone   git clone         git remote -v   
 
@@ -85,12 +85,10 @@ At any point, use `git --help` or `git <command> --help` to pull up help pages
 
 ### Set Up Remote
 1. Let's start by **navigating** to your node directory:
-       1. Open the bash shell of your choice (For MacOS: use `Terminal`; For Windows: use `Git Bash`)
-       2. Using the commands from [bash.md](bash.md), `cd` into your directory for node (use `mkdir` if you don't have a node folder). 
-
+  1. Open the bash shell of your choice (For MacOS: use `Terminal`; For Windows: use `Git Bash`)
+  2. Usig the commands from [bash.md](bash.md), `cd` into your directory for node (use `mkdir` if you don't have a node folder). 
 2. **Initialize** the repository with `git init`:
     1. This creates a hidden `.git` directory, which we can now reveal with `ls -la`
-
 3. **Stage** all changes using `git add .`. What is staging, you ask? When Git detects a change to a file, we must place it into one of 3 distinct stages:
     a. **Modified** means that the file is changed, but isn't yet *saved to the repo*. This occurs by default.
     b. **Staged** means we've *marked the modified file* *as ready* to enter into the next commit.
@@ -160,7 +158,7 @@ There are tons of workflows that describe this process. The one I've been using 
                       .                                               .
     .    origin/master                   .               .       
                                  .              .                         .    
-```  
+```
 
 ## Practice on your own:
 [Git-It](https://github.com/jlord/git-it-electron)
