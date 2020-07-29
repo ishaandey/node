@@ -1,11 +1,3 @@
-**experiment**
-
-[csv file2- direct link](gap.csv)
-
-[nb download](gap_w2_key.ipynb)
-
-
-
 # Gap Inc. Sales
 
 ## The Story
