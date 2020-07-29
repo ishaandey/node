@@ -25,7 +25,9 @@
     * [Lab: 5-Word Stories](week-5/lab/README.md)  
     
 * [Week 6: Intro to ML!](week-6/README.md)    
-    * [Workshop: Heart Disease](week-6/workshop/README.md)     
+    * [Workshop I: Human Intuition](week-6/workshop/intro-ml.md)    
+    * [Workshop II: Heart Disease](week-6/workshop/README.md)     
+    * [Workshop III: ML Pipelines](week-6/workshop/ml-pipeline.md)   
     * [Lab: TBD](week-6/lab/README.md)  
     
 ## Projects
