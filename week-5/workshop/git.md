@@ -72,7 +72,7 @@ All our friend has to do is **clone**, or download a copy of the remote repo to 
 
 Whenever she's made edits that she'd like to share, she can **push** those commits from (her) local to the remote repo. To bring her changes into my local repo, I can **pull** her commits down.
 
-![remotes](screenshots/remotes.png)
+![Source: Git-It](../screenshots/remotes.png)
 
 That's it! There's a lot more to Git, including Branching and Pull Requests, but this is enough to get us started.
 
@@ -96,7 +96,7 @@ At any point, use `git --help` or `git <command> --help` to pull up help pages
     b. **Staged** means we've *marked the modified file* *as ready* to enter into the next commit.
     c. **Committed** means that the snapshot, containing only the staged edits, is now saved to the repo.
 
-![staging.png](screenshots/staging.png)
+![Source: Git SCM](../screenshots/staging.png)
 
 4. **Commit** these changes to the *local* repo using `git commit -m "First commit"` 
 
