@@ -10,7 +10,7 @@ Today's agenda:
 
 3. Cap it off with conceptual review
 
-## Summary
+## Agenda
 | **Task**    | Comments               | Content Link     |
 | ----------- | --------------------- | ---------- |
 | Workshop Part I| Human Intuition Behind ML |  [Markdown Notes](./workshop/intro-ml.md) |

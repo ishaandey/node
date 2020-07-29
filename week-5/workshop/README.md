@@ -9,6 +9,6 @@ Clearly, there's a lot of tools we can make use of to improve our workflow. Thou
 
 | **Task**    | Comments               | Content Link     |
 | ----------- | --------------------- | ---------- |
-| Workshop Part I| Bash for Beginners |  [Markdown Notes](workshop/bash.md) |
-| Workshop Part II| Guide to Git |  [Markdown Notes](/workshop/git.md) |
-| Workshop Part III| Environments Made Easy |  [Markdown Notes](/workshop/venv.md) |
+| Workshop Part I| Bash for Beginners |  [Markdown Notes](bash.md) |
+| Workshop Part II| Guide to Git |  [Markdown Notes](git.md) |
+| Workshop Part III| Environments Made Easy |  [Markdown Notes](venv.md) |

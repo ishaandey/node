@@ -1,8 +1,8 @@
 # IMDB and UFOs
 
-Learning the language of data takes some time, particularly the Pandas package :panda_face: 
+Learning the language of data takes some time, particularly the Pandas package 
 
-To learn, we'll take a look at IMDB movie data :movie_camera:, then practice with UFO reports :alien:
+To learn, we'll take a look at IMDB movie data, then practice with UFO reports
 
 
 ## Content Links

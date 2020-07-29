@@ -1,6 +1,6 @@
 # Seattle Rental Market
 
-Today we'll be using the Plot.ly interface in Python to generate visualizations of the Seattle rental market, through Airbnb and Zillow data :house:
+Today we'll be using the Plot.ly interface in Python to generate visualizations of the Seattle rental market, through Airbnb and Zillow data
 
 ## Content Links
 | **Task**    | Details               | Content Link     |

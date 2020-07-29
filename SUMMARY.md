@@ -14,7 +14,7 @@
     * [Lab: Gap Inc. Sales (Part II)](week-3/lab/README.md)  
     
 * [Week 4: Data Viz!](week-4/README.md)    
-    * [Workshop: Seattle Airbnb](week-4/workshop/README.md)     
+    * [Workshop: Airbnb Listings](week-4/workshop/README.md)     
     * [Lab: Exploration](week-4/lab/README.md)  
     
 * [Week 5: DevOps!](week-5/README.md)    
