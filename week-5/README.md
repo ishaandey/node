@@ -28,7 +28,7 @@ Clearly, there's a lot of tools we can leverage to improve our workflow. Though 
 ## Agenda
 | **Task**    | Comments               | Content Link     |
 | ----------- | --------------------- | ---------- |
-| Workshop Part I| Bash for Beginners |  [Markdown Notes](/workshop/bash.md) |
+| Workshop Part I| Bash for Beginners |  [Markdown Notes](workshop/bash.md) |
 | Workshop Part II| Guide to Git |  [Markdown Notes](./workshop/git.md) |
 | Workshop Part III| Environments Made Easy |  [Markdown Notes](./workshop/venv.md) |
 | Labs        | 5 Word Short Stories   |  N/A  |        
