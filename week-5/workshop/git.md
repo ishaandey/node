@@ -85,10 +85,11 @@ At any point, use `git --help` or `git <command> --help` to pull up help pages
 
 ### Set Up Remote
 1. Let's start by **navigating** to your node directory:
-  1. Open the bash shell of your choice (For MacOS: use `Terminal`; For Windows: use `Git Bash`)
-  2. Usig the commands from [bash.md](bash.md), `cd` into your directory for node (use `mkdir` if you don't have a node folder). 
+     i. Open the bash shell of your choice (For MacOS: use `Terminal`; For Windows: use `Git Bash`)
+     ii. Usig the commands from [bash.md](bash.md), `cd` into your directory for node (use `mkdir` if you don't have a node folder). 
 2. **Initialize** the repository with `git init`:
-    1. This creates a hidden `.git` directory, which we can now reveal with `ls -la`
+     i. This creates a hidden `.git` directory, which we can now reveal with `ls -la`
+     ii. Test
 3. **Stage** all changes using `git add .`. What is staging, you ask? When Git detects a change to a file, we must place it into one of 3 distinct stages:
     a. **Modified** means that the file is changed, but isn't yet *saved to the repo*. This occurs by default.
     b. **Staged** means we've *marked the modified file* *as ready* to enter into the next commit.
@@ -99,12 +100,12 @@ At any point, use `git --help` or `git <command> --help` to pull up help pages
 4. **Commit** these changes to the *local* repo using `git commit -m "First commit"` 
 
 5. In order to push our changes up to a remote repository, we first need to **create a GitHub repo**
-    1. Open up `GitHub Desktop`. On the top left, hit `Add`, then `Add existing repository`
-    2. Hit `choose`, then navigate to the directory where you've been working     
-    3. Click `Publish repository`, add a description and make the repo public if you'd like, then publish.
+     * Open up `GitHub Desktop`. On the top left, hit `Add`, then `Add existing repository`
+     * Hit `choose`, then navigate to the directory where you've been working     
+     * Click `Publish repository`, add a description and make the repo public if you'd like, then publish.
 
 6. Now that we have a `remote` repo set up, we can confirm its location using `git remote -v`
-    1. This should now point to a link, something like <https://github.com/ishaandey/node.git>
+     - This should now point to a link, something like <https://github.com/ishaandey/node.git>
 
 7. **Push** the commits to remote using `git push`
 
