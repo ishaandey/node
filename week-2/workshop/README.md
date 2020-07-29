@@ -1,13 +1,13 @@
-# Cleaning IMDB and UFOs
+# IMDB and UFOs
 
-Data cleaning is a critical step 
+Learning the language of data takes some time, particularly the Pandas package :panda_face: 
 
-- Open online in Google Colab:
-    1. Week 2 Notes: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ishaandey/node/blob/master/week-2/workshop/pandas_notes.ipynb)
-    2. Week 2 Key: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ishaandey/node/blob/master/week-2/workshop/pandas_key.ipynb)
+To learn, we'll take a look at IMDB movie data :movie_camera:, then practice with UFO reports :alien:
 
-- Open locally with Anaconda:
-    1. Head over to [https://files.node.ishaandey.com/](https://files.node.ishaandey.com/)
-    2. Navigate to `week-2/workshop/` and download `pandas.ipynb`, `ufo.csv`, and `imdb.csv`
-    3. Save these to the *same* directory on your hard drive
-    4. Open up Anaconda, navigate to the directory, and everything should be good to go
+
+## Content Links
+To open with Colab:
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ishaandey/node/blob/master/week-2/pandas_key.ipynb)
+
+To open with Anaconda:
+[![Download Notebook](https://files.christianfjung.com/buttons/DownloadIpynb.svg)](https://files.node.ishaandey.com/week-2/pandas_key.ipynb)

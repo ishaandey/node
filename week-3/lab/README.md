@@ -12,12 +12,12 @@ Pretend you're a data scientist at Gap Inc., tasked with exploring sales trends 
 **NOTE**: These questions are fairly open ended, and some of them can be quite hard. **We don't expect you to finish**; however much you get through in an hour is more than enough. Think of the rest as extra practice if you'd like. 
 
 **TIPS**:
-1. Convert each question into a **set of actions**. If you want to look at some attribute of Gap sales, think about subsetting the dataframe to where the store == Gap, before tackling the rest.
-2. Build your answer part by part: take a look at the output on each step to verify you're getting what you want.
-3. **Google** is your best friend. Look for StackOverflow or Pandas documentation in particular. 
-4. **Read the errors**. It's scary, but its there for a reason. 
-5. If you can't figure out what a specific part of code is doing, either try running just that part, <br>or use **type(...)** to see what type of object is being returned 
-6. **Slack** one of the instructors with (a) what you've tried, and (b) specific questions (not "help pls"). Ask your peers too!
+* Convert each question into a **set of actions**. If you want to look at some attribute of Gap sales, think about subsetting the dataframe to where the store == Gap, before tackling the rest.
+* Build your answer part by part: take a look at the output on each step to verify you're getting what you want.
+* **Google** is your best friend. Look for StackOverflow or Pandas documentation in particular. 
+* **Read the errors**. It's scary, but its there for a reason. 
+* If you can't figure out what a specific part of code is doing, either try running just that part, <br>or use **type(...)** to see what type of object is being returned 
+* **Slack** one of the instructors with (a) what you've tried, and (b) specific questions (not "help pls"). Ask your peers too!
 
 ## The Data
 This data represents individual transactions in Banana Republic and Gap stores in VA from Q1 of FY2020. We've got granular information on every attribute: Each order, each item purchased in that order, which customer bought it, where, when, and how the purchase was made.
