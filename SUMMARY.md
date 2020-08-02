@@ -1,5 +1,8 @@
 # Summary
 
+* [Welcome](README.md)
+* [About & Permissions](tools/ABOUT.md)
+
 ## Content
 * [Week 1: Welcome to Data Science!](week-1/README.md)    
     * [Workshop: San Francisco Trees](week-1/workshop/README.md)     
