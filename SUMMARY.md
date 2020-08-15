@@ -1,7 +1,7 @@
 # Summary
 
 * [Welcome](README.md)
-* [About & Permissions](tools/ABOUT.md)
+* [About & Permissions](tools/about/ABOUT.md)
 
 ## Content
 * [Week 1: Welcome to Data Science!](week-1/README.md)    
