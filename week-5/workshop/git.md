@@ -1,7 +1,7 @@
 # Getting into Git
 
 ```
-     git clone    git clone   git clone         git remote -v   
+     git clone    git clone   git clone          git remote   
 
         /__\        /__\        /__\                 /__\    
        | <><|      | <><|      | <><|               |><> |   
@@ -86,22 +86,23 @@ At any point, use `git --help` or `git <command> --help` to pull up help pages
 ### Set Up Remote
 1. Let's start by **navigating** to your node directory:
      * Open the bash shell of your choice (For MacOS: use `Terminal`; For Windows: use `Git Bash`)
-     * Using the commands from [bash.md](bash.md), `cd` into your directory for node (use `mkdir` if you don't have a node folder). 
+     * Using the commands from [bash.md](bash.md), `cd` into your directory for node (use `mkdir` if you don't have a node folder. 
 2. **Initialize** the repository with `git init`:
      * This creates a hidden `.git` directory, which we can now reveal with `ls -la`
-     * Test
-3. **Stage** all changes using `git add .`. What is staging, you ask? When Git detects a change to a file, we must place it into one of 3 distinct stages:
-     * **Modified** means that the file is changed, but isn't yet *saved to the repo*. This occurs by default.
-     * **Staged** means we've *marked the modified file* *as ready* to enter into the next commit.
+
+3. **Stage** all changes using `git add .`. Whenever Git detects a change to a file, it goes into one of 3 distinct phases:
+     * **Modified** means that the file is changed, but isn't yet *saved to the repo*. This occurs by default. These changes as saved in the *working directory*.
+     * **Staged** means we've *marked the modified file* *as ready* to enter into the next commit. We would say that these edits are saved to the *index*.
      * **Committed** means that the snapshot, containing only the staged edits, is now saved to the repo.
      ![Source: Git SCM](../screenshots/staging.png)
 
 4. **Commit** these changes to the *local* repo using `git commit -m "First commit"` 
+     * Good practice for naming commits are short statements with a verb up front
 
 5. In order to push our changes up to a remote repository, we first need to **create a GitHub repo**
      * Open up `GitHub Desktop`. On the top left, hit `Add`, then `Add existing repository`
      * Hit `choose`, then navigate to the directory where you've been working     
-     * Click `Publish repository`, add a description and make the repo public if you'd like, then publish.
+     * Click `Publish repository`, add a description and make the repo public if you'd like, then publish
 
 6. Now that we have a `remote` repo set up, we can confirm its location using `git remote -v`
      * This should now point to a link, something like <https://github.com/ishaandey/node.git>
@@ -129,23 +130,22 @@ At any point, use `git --help` or `git <command> --help` to pull up help pages
 6. **Commit** these changes, using `git commit -m "Added some lines"`
     - The `-m` flag allows us to attach a message to the commit- This is super helpful for annotating edits
 
-6. Finally, **push** these changes to the remote rep using `git push`. 
+7. Finally, **push** these changes to the remote repository using `git push`. 
     - If all is well, you should now be able to see those new lines online!
 
 You're done! This is the basic workflow of Git. We modify files, stage then commit them. We push changes to remote, and pull changes to local.
 
 **Draw a quick diagram of this workflow**, just to make sure you understand the basic idea here. Draw your laptop (local), the GitHub server (remote), the commands to interact between the two, as well as the commands to save changes locally.
 
-## Branching
-Branching is a key feature that allows us to keep production-ready, stable code seperate from the development code, where we're likely to experiment and break things as we go along. 
+---------
 
-There are tons of workflows that describe this process. The one I've been using for the node repository uses `master`/`develop`/`feature` branches, based on the model [described here](https://nvie.com/posts/a-successful-git-branching-model/).
+## Branching
 
 ```
 .          __---__
     .   .-'...:...'-.               .          .
        / .  . : .__ .\                                         .
-.     /........./  \ .\  .   .              git checkout -b         .
+.     /........./  \ .\  .   .               git checkout         .
      / :  :   :| () | :\                  .        .
     :...........\__/....:         .                             .
     |___________________|              .        |    |  .                .
@@ -160,10 +160,47 @@ There are tons of workflows that describe this process. The one I've been using 
                                  .              .                         .    
 ```
 
-## Practice on your own:
-[Git-It](https://github.com/jlord/git-it-electron)
+At a high-level, branching is a key feature that allows us to keep production-ready, stable code seperate from the development code, where we're likely to experiment and break things as we go along. 
 
-## Acknowledgements
+Think of **branches** as *copies* of our repository. The core, stable, copy of the code is called the `master` branch. This is considered the default branch.
+ 
+Let's say we want to improve our machine learning models, BUT we don't want to overwrite the previous code, in case our new models fail. To do this, we'll branch off of master, creating a new branch called `improve-ml`. We can play around as much as we need there, and once we're done, we can merge these changes back into `master`. 
+
+### Workflow
+
+1. **Check** the branch you're currently on using `git branch`
+
+2. **Create** a new branch using `git branch <branch-name>`
+     * This simply creates a new branch, but doesn't mean you're working on it yet
+
+3. To **switch branches**, we'll have to check out the branch using `git checkout <branch-name>`
+
+4. Add any changes, using the modify > stage > commit workflow from earlier
+
+5. Once we're confident that these changes are ready to go, we'll **merge** these 
+
+
+There are tons of workflows that describe this process. The one I've been using for the node repository uses `master`/`develop`/`feature` branches, based on the model [described here](https://nvie.com/posts/a-successful-git-branching-model/).
+
+---------
+
+# TLDR
+
+## Definitions
+- *Git* is a version control system, *GitHub* is an online platform
+- A *repository*
+- Commits store changes
+
+## Workflow
+### Setup Existing Repo
+
+### Setup New Repo
+
+### Add Changes
+
+### Branching 
+
+## Acknowledgements & Resources
 - https://git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F
 - https://nvie.com/posts/a-successful-git-branching-model/
 - https://github.com/jlord/git-it-electron
