@@ -9,10 +9,13 @@ Welcome to Node! We're glad to have you. This week we'll help you get your beari
 | Workshop (View Only)           | [![Link](../tools/buttons/open-browser.svg)](https://files.node.ishaandey.com/week-1/workshop/intro_key.html) | 08-15-2020 | 
 | Workshop Activity              | [![Link](../tools/buttons/open-colab.svg)](https://colab.research.google.com/github/ishaandey/node/blob/master/week-1/workshop/intro_key.ipynb) [![Link](../tools/buttons/download-ipynb.svg)](https://files.node.ishaandey.com/week-1/workshop/intro_key.ipynb) | 08-15-2020 |
 | Workshop Recording                 | [![Link](../tools/buttons/open-zoom.svg)](http://link-HERE.christianfjung.com) | NA | 
-| Lab                            | [![Link](../tools/buttons/open-article.svg)](lab/README.md)               | 08-15-2020 |
+| Lab                            | [![Link](../tools/buttons/open-article.svg)](lab/README.md)  | 08-15-2020 |
 
-                   
-## Tasks to complete
+               
+## To Do List
+### Lab Sign Up 
+Fill out as many availabilities as possible: [![Link](../tools/buttons/open-forms.svg)](http://link-HERE.christianfjung.com)
+
 ### Create a GitHub Account
 All our files this semester will be hosted on GitHub. A couple of steps
 1. Make a [GitHub account](https://github.com/join) 

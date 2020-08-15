@@ -1,3 +1,6 @@
+
+Icons: [https://simpleicons.org/](https://simpleicons.org/)
+
 `https://img.shields.io/static/v1?label=File(s)&message=Download&color=8669AE&logo=docusign&logoColor=white&labelColor=607078`
 
 `https://img.shields.io/static/v1?label=.ipynb&message=Download&color=42B029&logo=anaconda&logoColor=white&labelColor=607078`

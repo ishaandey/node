@@ -4,7 +4,6 @@ Imagine you've been commissioned by the City of San Francisco to tackle a proble
 
 The funding for that project has recently been called into question, and the City Board needs to see its value in reapproving funds for the following year. Stakeholders have raised several concerns over the past few years, and your job is to use the data to answer them. Good luck!
 
-## Content
-- To open on Google Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ishaandey/node/blob/master/week-1/intro_key.ipynb) 
-- To open locally:  [![Download Notebook](https://files.christianfjung.com/buttons/DownloadIpynb.svg)](https://files.node.ishaandey.com/week-1/intro_key.ipynb) 
-
+| Quick Open | Interactive Notebook | Source Code  |
+| :---------: | :-----------: | :------------: |
+| [![Link](../../tools/buttons/open-browser.svg)](https://files.node.ishaandey.com/week-1/workshop/intro_key.html) | [![Link](../../tools/buttons/open-colab.svg)](https://colab.research.google.com/github/ishaandey/node/blob/master/week-1/workshop/intro_key.ipynb) | [![Link](../../tools/buttons/download-ipynb.svg)](https://files.node.ishaandey.com/week-1/workshop/intro_key.ipynb) |
