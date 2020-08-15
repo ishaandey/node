@@ -14,9 +14,11 @@ Welcome to Node! We're glad to have you. This week we'll help you get your beari
                    
 ## Tasks to complete
 ### Create a GitHub Account
-All our files this semester will be hosted on GitHub, so if you don't have one yet, make a [GitHub account](https://github.com/join) and download GitHub Desktop for your local machine. This should be self explanatory, and make sure to sign up for the [GitHub Student Pack](https://education.github.com/pack) for some awesome perks when you get the chance.  
-
-Once you're done, feel free to follow us: [![Link](../tools/buttons/open-github.svg)](https://github.com/ishaandey)
+All our files this semester will be hosted on GitHub. A couple of steps
+1. Make a [GitHub account](https://github.com/join) 
+2. Sign up for the [GitHub Student Pack](https://education.github.com/pack) when you get the chance
+3. Download [GitHub Desktop](https://desktop.github.com/) to your local machine
+4. Feel free to follow us: [![Link](../tools/buttons/open-github.svg)](https://github.com/ishaandey)
 
 ### Install Anaconda
 Anaconda is a toolkit that (among many other things) does the hard work of installing, organizing, and securing all the data science software we'll be using this semester. 
