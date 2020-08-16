@@ -1,10 +1,8 @@
 # Cleaning 
 
-Cleaning is the foundation of any analytics or data science task. 
+Data cleaning is a bit like magic. Instead of a single spell though, we'll learn a few Python commands.
 
-## Content Links
-To open with Colab:
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ishaandey/node/blob/master/week-3/workshop/cleaning_key.ipynb)
 
-To open with Anaconda:
-[![Download Notebook](https://files.christianfjung.com/buttons/DownloadIpynb.svg)](https://files.node.ishaandey.com/week-3/workshop/cleaning_key.ipynb)
+| Quick Open | Interactive Notebook | Source Code  |
+| :---------: | :-----------: | :------------: |
+| [![Link](../../tools/buttons/open-browser.svg)](https://files.node.ishaandey.com/week-3/workshop/cleaning_key.html) | [![Link](../../tools/buttons/open-colab.svg)](https://colab.research.google.com/github/ishaandey/node/blob/master/week-3/workshop/cleaning_key.ipynb) | [![Link](../../tools/buttons/download-ipynb.svg)](https://files.node.ishaandey.com/week-3/workshop/cleaning_key.ipynb) |
