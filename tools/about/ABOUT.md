@@ -11,7 +11,8 @@ TBD Fall 2020
 
 ### Contributors
 This course would not have been possible without the support of HackCville's amazing staff. Big shoutouts to Christian Jung and Ben Artuso for crafting previous iterations of this course, and for the team's feedback and continued support. 
+
 ## Content Permissions
 Content developed at HackCville, Fall 2020. **All content rights belong to Ishaan Dey**.
 
-If you'd like to request permission to use notebooks, lecture notes, or lab activites, **contact the team at ishaan@hackcville.com**. Thanks!
+If you'd like to request permission to use notebooks, lecture notes, or lab activites, contact the team at ishaan@hackcville.com. Thanks!
