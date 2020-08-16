@@ -59,7 +59,7 @@ mistune==0.8.4
 multiprocess==0.70.6.1
 nbconvert==5.4.0
 nbformat==4.4.0
-notebook==5.7.0
+notebook==5.7.8
 np-utils==0.5.9.0
 numpy==1.15.0
 opencv-python==3.4.2.17
