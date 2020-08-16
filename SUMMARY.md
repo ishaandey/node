@@ -13,7 +13,7 @@
     * [Lab: Gap Inc. Sales](week-2/lab/README.md)  
     
 * [Week 3: Data Cleaning!](week-3/README.md)    
-    * [Workshop: Cleaning Fun](week-3/workshop/README.md)     
+    * [Workshop: Harry Potter and the Notebook of Secrets](week-3/workshop/README.md)     
     * [Lab: Gap Inc. Sales (Part II)](week-3/lab/README.md)  
     
 * [Week 4: Data Viz!](week-4/README.md)    
