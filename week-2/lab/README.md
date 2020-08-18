@@ -8,11 +8,13 @@ Was it the $80 denim that turned customers away? Or the riduculous G-A-P sweater
 ## The Task
 Pretend you're a data scientist at Gap Inc., tasked with exploring sales trends in the Virginia market. Leadership has provided a list of questions, which you can find in the lab notebook itself. 
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ishaandey/node/blob/master/week-2/lab/gap_w2_key.ipynb)  [![Download Notebook](https://files.christianfjung.com/buttons/DownloadIpynb.svg)](https://files.node.ishaandey.com/week-2/lab/gap_w2_key.ipynb)
+| Quick Open | Interactive Notebook | Source Code  |
+| :---------: | :-----------: | :------------: |
+| [![Link](../../tools/buttons/open-browser.svg)](https://files.node.ishaandey.com/week-2/lab/gap_w2_key.html) | [![Link](../../tools/buttons/open-colab.svg)](https://colab.research.google.com/github/ishaandey/node/blob/master/week-2/lab/gap_w2_key.ipynb) | [![Link](../../tools/buttons/download-ipynb.svg)](https://files.node.ishaandey.com/week-2/lab/gap_w2_key.ipynb) |
 
-**NOTE**: These questions are fairly open ended, and some of them can be quite hard. **We don't expect you to finish**; however much you get through in an hour is more than enough. Think of the rest as extra practice if you'd like. 
+**Note**: These questions are fairly open ended, and some of them can be quite hard. **We don't expect you to finish**; however much you get through in an hour is more than enough. Think of the rest as extra practice if you'd like. 
 
-**TIPS**:
+**Tips**:
 * Convert each question into a **set of actions**. If you want to look at some attribute of Gap sales, think about subsetting the dataframe to where the store == Gap, before tackling the rest.
 * Build your answer part by part: take a look at the output on each step to verify you're getting what you want.
 * **Google** is your best friend. Look for StackOverflow or Pandas documentation in particular. 
