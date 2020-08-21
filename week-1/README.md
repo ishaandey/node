@@ -6,19 +6,17 @@ Welcome to Node! We're glad to have you. This week we'll help you get your beari
 | **Activity**                   | Content Link    | Last Updated |
 | ---------------                | --------------- | ----------   |
 | Slides                         | [![Link](../tools/buttons/open-drive.svg)](https://docs.google.com/presentation/d/1Nn6ZEisDj05xwBKBF_PqomUgwYw88Wzyr6A0bfCcPBI/edit?usp=sharing) | 08-19-2020 |
-| Workshop (View Only)           | [![Link](../tools/buttons/open-browser.svg)](https://files.node.ishaandey.com/week-1/workshop/intro_key.html) | 08-15-2020 | 
-| Workshop Activity              | [![Link](../tools/buttons/open-colab.svg)](https://colab.research.google.com/github/ishaandey/node/blob/master/week-1/workshop/intro_notes.ipynb) [![Link](../tools/buttons/download-ipynb.svg)](https://files.node.ishaandey.com/week-1/workshop/intro_notes.ipynb) | 08-19-2020 |
-| Workshop Activity (Key)        | [![Link](../tools/buttons/open-colab.svg)](https://colab.research.google.com/github/ishaandey/node/blob/master/week-1/workshop/intro_key.ipynb) [![Link](../tools/buttons/download-ipynb.svg)](https://files.node.ishaandey.com/week-1/workshop/intro_key.ipynb) | 08-15-2020 |
-| Workshop Recording                 | [![Link](../tools/buttons/open-zoom.svg)](http://node.hackcville.com) | NA | 
+| Workshop Today                 | [![Link](../tools/buttons/open-markdown.svg)](workshop/README.md) | 08-20-2020 | 
+| Workshop Recording             | [![Link](../tools/buttons/open-zoom.svg)](http://node.hackcville.com) | NA | 
 | Lab                            | [![Link](../tools/buttons/open-article.svg)](lab/README.md)  | 08-15-2020 |
                
 ### To Do List
 | **Item**                       | Link    | Notes |
 | ---------------                | --------------- | ----------   |
-| Welcome Form               | [![Link](../tools/buttons/open-forms.svg)](http://link-HERE.christianfjung.com) | NA |
+| Welcome Form                   | [![Link](../tools/buttons/open-forms.svg)](http://link-HERE.christianfjung.com) | NA |
 | Lab Availability               | [![Link](../tools/buttons/open-forms.svg)](http://link-HERE.christianfjung.com) | NA |
-| GitHub Setup                        | |  See Below |
-| Anaconda Setup                        | |  See Below |
+| GitHub Setup                   |  See Below | |
+| Anaconda Setup                 |  See Below | |
 
 #### Create a GitHub Account
 All our files this semester will be hosted on GitHub. A couple of steps
