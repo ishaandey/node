@@ -6,15 +6,15 @@ Welcome to Node! We're glad to have you. This week we'll help you get your beari
 | **Activity**                   | Content Link    | Last Updated |
 | ---------------                | --------------- | ----------   |
 | Slides                         | [![Link](../tools/buttons/open-drive.svg)](https://docs.google.com/presentation/d/1Nn6ZEisDj05xwBKBF_PqomUgwYw88Wzyr6A0bfCcPBI/edit?usp=sharing) | 08-19-2020 |
-| Workshop Today                 | [![Link](../tools/buttons/open-markdown.svg)](workshop/README.md) | 08-20-2020 | 
-| Workshop Recording             | [![Link](../tools/buttons/open-zoom.svg)](http://node.hackcville.com) | NA | 
+| Workshop Activities            | [![Link](../tools/buttons/open-markdown.svg)](workshop/README.md) | 09-13-2020 | 
+| Workshop Recording             | [![Link](../tools/buttons/open-zoom.svg)](https://node.hackcville.com) | NA | 
 | Lab                            | [![Link](../tools/buttons/open-article.svg)](lab/README.md)  | 08-15-2020 |
                
 ### To Do List
 | **Item**                       | Link    | Notes |
 | ---------------                | --------------- | ----------   |
-| Welcome Form                   | [![Link](../tools/buttons/open-forms.svg)](http://link-HERE.christianfjung.com) | NA |
-| Lab Availability               | [![Link](../tools/buttons/open-forms.svg)](http://link-HERE.christianfjung.com) | NA |
+| Week 1 Check In                | [![Link](../tools/buttons/open-forms.svg)](hello-node.hackcville.com) | Fill out by 9/13! |
+| Lab Availability               | [![Link](../tools/buttons/open-forms.svg)](node.hackcville.com) | Not yet available |
 | GitHub Setup                   |  See Below | |
 | Anaconda Setup                 |  See Below | |
 
