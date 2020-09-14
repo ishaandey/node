@@ -7,27 +7,10 @@ Welcome to Node! We're glad to have you. This week we'll help you get your beari
 | ---------------                | --------------- | ----------   |
 | Slides                         | [![Link](../tools/buttons/open-drive.svg)](https://docs.google.com/presentation/d/1Nn6ZEisDj05xwBKBF_PqomUgwYw88Wzyr6A0bfCcPBI/edit?usp=sharing) | 08-19-2020 |
 | Workshop Activities            | [![Link](../tools/buttons/open-markdown.svg)](workshop/README.md) | 09-13-2020 | 
-| Workshop Recording             | [![Link](../tools/buttons/open-zoom.svg)](https://node.hackcville.com) | NA | 
-| Lab                            | [![Link](../tools/buttons/open-article.svg)](lab/README.md)  | 08-15-2020 |
+| Workshop Recording             | [![Link](../tools/buttons/open-zoom.svg)](https://virginia.zoom.us/rec/share/jgbbDUowYJvCNSaWzy43WcB0ThZ7mIzoC6wgo9oq1eYTS_yjXu15EQJKhPPG50Q_.teLYwX7O6qjo5XFr) | 09-14-2020 | 
+| Lab                            | [![Link](../tools/buttons/open-article.svg)](lab/README.md)  | 09-14-2020 |
                
 ### To Do List
 | **Item**                       | Link    | Notes |
 | ---------------                | --------------- | ----------   |
 | Week 1 Check In                | [![Link](../tools/buttons/open-forms.svg)](hello-node.hackcville.com) | Fill out by 9/13! |
-| Lab Availability               | [![Link](../tools/buttons/open-forms.svg)](node.hackcville.com) | Not yet available |
-| GitHub Setup                   |  See Below | |
-| Anaconda Setup                 |  See Below | |
-
-#### Create a GitHub Account
-All our files this semester will be hosted on GitHub. A couple of steps
-1. Make a [GitHub account](https://github.com/join) 
-2. Sign up for the [GitHub Student Pack](https://education.github.com/pack) when you get the chance
-3. Download [GitHub Desktop](https://desktop.github.com/) to your local machine
-4. Feel free to follow us: [![Link](../tools/buttons/open-github.svg)](https://github.com/ishaandey)
-
-#### Install Anaconda
-Anaconda is a toolkit that (among many other things) does the hard work of installing, organizing, and securing all the data science software we'll be using this semester. 
-
-- Head over to the [installation page](https://www.anaconda.com/products/individual)
-    1. Scroll down to `Anaconda Installers`
-    2. Select the **graphical installer** for your OS, *not the command line installer below it*
