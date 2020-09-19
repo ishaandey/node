@@ -5,6 +5,7 @@ Data science is an incredibly broad field, and is used in just about any domain,
 
 ### Who is it for?
 In general, data science attracts folks from three loosely-defined domains: 
+    
     1. Domain Experts, who have knowledge of the industry and how the data will be applied
     2. Computer Scientists, who work with infrastructure (like databases), or develop algorithms to predict from data
     3. Statisticians, who are comfortable with numbers, and drawing conclusions from them.
