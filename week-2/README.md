@@ -8,6 +8,8 @@ Today we'll be working with IMDB movie data. We'll cover the fundamentals of wor
 | Workshop Activities            | [![Link](../tools/buttons/open-markdown.svg)](workshop/README.md) | 09-18-2020 | 
 | Workshop Recording             | [![Link](../tools/buttons/open-zoom.svg)]() | NA | 
 | Lab                            | [![Link](../tools/buttons/open-article.svg)](lab/README.md)  | 08-14-2020 |
+| Project                        | [![Link](../tools/buttons/open-article.svg)](../projects/prokect-1/README.md)  | 09-19-2020 |
+
 
 ## Additional Resources
 - [Pandas Cheatsheet](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf):  An absolute lifesaver, keep it bookmarked
