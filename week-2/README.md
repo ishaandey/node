@@ -6,7 +6,7 @@ Today we'll be working with IMDB movie data. We'll cover the fundamentals of wor
 | **Activity**                   | Content Link    | Last Updated |
 | ---------------                | --------------- | ----------   |
 | Workshop Activities            | [![Link](../tools/buttons/open-markdown.svg)](workshop/README.md) | 09-18-2020 | 
-| Workshop Recording             | [![Link](../tools/buttons/open-zoom.svg)]() | NA | 
+| Workshop Recording             | [![Link](../tools/buttons/open-zoom.svg)](https://virginia.zoom.us/rec/play/XZbvBVyCVu77esiXfJCdUxZKcO8YrINIqPnhCiM5kl69hkUtgOp1KEoTXf2oDe7qOxvuqDC6uSBEpnSZ.iTgBGSYKGW6yCg2x?autoplay=true&startTime=1600628639000) | 09-20-20 | 
 | Lab                            | [![Link](../tools/buttons/open-article.svg)](lab/README.md)  | 08-14-2020 |
 | Project                        | [![Link](../tools/buttons/open-article.svg)](../projects/prokect-1/README.md)  | 09-19-2020 |
 
