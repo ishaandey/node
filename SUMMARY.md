@@ -34,4 +34,4 @@
     * [Lab: TBD](week-6/lab/README.md)  
     
 ## Projects
-* [Project 1: Data Exploration](README.md)    
+* [Project 1: Data Ethics](projects/project-1/README.md)    
