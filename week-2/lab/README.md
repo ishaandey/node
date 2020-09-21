@@ -11,12 +11,13 @@ Pretend you're a data scientist at Gap Inc., tasked with exploring sales trends 
 #### Assignment
 | Interactive Notebook | Source Code  |
 | :-----------: | :------------: |
-| [![Link](../../tools/buttons/open-colab.svg)](https://colab.research.google.com/github/ishaandey/node/blob/master/week-2/lab/gap_key.ipynb) | [![Link](../../tools/buttons/download-ipynb.svg)](https://files.node.ishaandey.com/week-2/lab/gap_key.ipynb) |
+| [![Link](../../tools/buttons/open-colab.svg)](https://colab.research.google.com/github/ishaandey/node/blob/master/week-2/lab/gap_notes.ipynb) | [![Link](../../tools/buttons/download-ipynb.svg)](https://files.node.ishaandey.com/week-2/lab/gap_notes.ipynb) |
 
 #### Key
 | Interactive Notebook | Source Code  |
 | :-----------: | :------------: |
-| [![Link](../../tools/buttons/open-colab.svg)](https://colab.research.google.com/github/ishaandey/node/blob/master/week-2/lab/gap_notes.ipynb) | [![Link](../../tools/buttons/download-ipynb.svg)](https://files.node.ishaandey.com/week-2/lab/gap_notes.ipynb) |
+| [![Link](../../tools/buttons/open-colab.svg)](https://colab.research.google.com/github/ishaandey/node/blob/master/week-2/lab/gap_key.ipynb) | [![Link](../../tools/buttons/download-ipynb.svg)](https://files.node.ishaandey.com/week-2/lab/gap_key.ipynb) |
+
 
 **Tips**:
 * Convert each question into a **set of actions**. If you want to look at some attribute of Gap sales, think about subsetting the dataframe to where the store == Gap, before tackling the rest.
