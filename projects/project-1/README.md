@@ -27,9 +27,10 @@ We'll update this as we go along with group names. The suggested readings just a
 |Facebook and Duterte|[Buzzfeed News](https://www.buzzfeednews.com/article/daveyalba/facebook-philippines-dutertes-drug-war)| |
 |Youtube and Discrediting Media|[Medium](https://medium.com/@guillaumechaslot/how-algorithms-can-learn-to-discredit-the-media-d1360157c4fa)| |
 |UK Exam Algorithm|[The Verge](https://www.theverge.com/2020/8/17/21372045/uk-a-level-results-algorithm-biased-coronavirus-covid-19-pandemic-university-applications#:~:text=The%20UK%20has%20said%20that,Reuters%20and%20BBC%20News%20report.) ||
-|Racist Computer Vision|[The Wired](https://www.wired.com/story/best-algorithms-struggle-recognize-black-faces-equally/)||
+|Racist Computer Vision|[Wired](https://www.wired.com/story/best-algorithms-struggle-recognize-black-faces-equally/)||
 |Microsoft's Tay|[MIT Tech Review](https://www.technologyreview.com/2018/03/27/144290/microsofts-neo-nazi-sexbot-was-a-great-lesson-for-makers-of-ai-assistants/)||
 |AI in Law| [Forbes](https://www.forbes.com/sites/bernardmarr/2018/05/23/how-ai-and-machine-learning-are-transforming-law-firms-and-the-legal-sector/#1d232fc532c3)||
+|Issues in Eliminating AI Bias|[Wired](https://www.theverge.com/21298762/face-depixelizer-ai-machine-learning-tool-pulse-stylegan-obama-bias)||
 |AI and Policing| [Wired](https://www.forbes.com/sites/bernardmarr/2018/05/23/how-ai-and-machine-learning-are-transforming-law-firms-and-the-legal-sector/#1d232fc532c3)||
 |China Surveillance|[The Atlantic](https://www.theatlantic.com/magazine/archive/2020/09/china-ai-surveillance/614197/)||
 |Project Maven|[Wired](https://www.wired.com/story/inside-the-pentagons-plan-to-win-over-silicon-valleys-ai-experts/)||
