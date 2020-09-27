@@ -5,7 +5,7 @@ Data cleaning is the least glamorous segment of a data scientist's routine, yet 
 ### Overview
 | **Activity**                   | Content Link    | Last Updated |
 | ---------------                | --------------- | ----------   |
-| Workshop Activities            | [![Link](../tools/buttons/open-markdown.svg)](workshop/README.md) | 09-22node-2020 | 
+| Workshop Activities            | [![Link](../tools/buttons/open-markdown.svg)](workshop/README.md) | 09-22-2020 | 
 | Workshop Recording             | [![Link](../tools/buttons/open-zoom.svg)]() | NA | 
 | Lab                            | [![Link](../tools/buttons/open-article.svg)](lab/README.md)  | 08-14-2020 |
 | Project                        | [![Link](../tools/buttons/open-article.svg)](../projects/prokect-1/README.md)  | 09-19-2020 |
