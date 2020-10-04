@@ -18,7 +18,7 @@
 
 ### Visualization
 
-1. Show me a couple of histograms that describe skill levels. You may need to change some of the skill levels 
+1. Show me a couple of histograms that describe skill levels. You may need to conver the skill levels to numbers using the `.map()` function.
 
 2. What are common hobbies? Interests? Use the code below to generate a wordcloud. Replace `df.column` with whatever column you're interested in.
 
@@ -38,4 +38,4 @@ background_color='salmon', colormap='Pastel1', collocations=False).generate(text
 
 2. What was the median time of survey form submission?
 
-3. How many people were at each comfort level with Python? With statistics?
+3. How many people were at each comfort level with Python? Did that differ from comfort levels with statistics?
