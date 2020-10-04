@@ -5,8 +5,11 @@
 
 ### Data Import
 
-1. In google colab, click the bottom-most icon (files), hit the upload icon, and upload both survey_data and survey_names CSV files.
-2. Import pandas and numpy, then import the CSVs into dataframes using `pd.read_csv('filename.csv')`
+1. Open up a new notebook in [Google Colab](colab.research.google.com)
+
+2. Once you're in, click the bottom-most icon (files), hit the upload icon, and upload both survey_data and survey_names CSV files.
+
+3. Import pandas and numpy, then import the CSVs into dataframes using `pd.read_csv('filename.csv')`
 
 ### Data Cleaning
 
@@ -18,16 +21,21 @@
 
 ### Visualization
 
-1. Show me a couple of histograms that describe skill levels. You may need to conver the skill levels to numbers using the `.map()` function.
+1. Show me a couple of histograms that describe skill levels. You may need to convert the skill levels to numbers using the `.map()` function. If that doesn't work, try creating a barplot.
 
 2. What are common hobbies? Interests? Use the code below to generate a wordcloud. Replace `df.column` with whatever column you're interested in.
 
 ```python 
-text = " ".join(df.column.values.to_list())
+text = " ".join(df.column.as_type('str').values)
 
 from wordcloud import WordCloud, STOPWORDS
-wordcloud = WordCloud(width = 800, height = 600, random_state=1, stopwords = STOPWORDS,
+wordcloud = WordCloud(widtha = 1200, height = 1000, random_state=1, stopwords = STOPWORDS,
 background_color='salmon', colormap='Pastel1', collocations=False).generate(text)
+
+import matplotlib.pyplot as plt
+plt.imshow(wordcloud) 
+plt.axis('off')
+plt.show()
 ```
 
 - Check out [this link](http://www.science.smith.edu/dftwiki/index.php/Color_Charts_for_TKinter) for more colors.
