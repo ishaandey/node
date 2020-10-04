@@ -4,4 +4,4 @@
 .vscode
 .github/workflows/generate-index.yml
 .vscode/settings.json
-week-3/workshop/node-survey.tsv
+week-4/lab/survey_*
