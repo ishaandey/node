@@ -6,7 +6,7 @@ Before the pandemic trampled travel plans, a friend and I made plans to tour Sea
 | **Activity**                   | Content Link    | Last Updated |
 | ---------------                | --------------- | ----------   |
 | Workshop Activities            | [![Link](../tools/buttons/open-markdown.svg)](workshop/README.md) | 10-01-2020 | 
-| Workshop Recording             | [![Link](../tools/buttons/open-zoom.svg)]() | NA | 
+| Workshop Recording             | [![Link](../tools/buttons/open-zoom.svg)](https://virginia.zoom.us/rec/share/ur7yy4734lb7f3J1mzT3_mJUXlAHfMZmez04e2m6By_eY4Vl_F_-MUoPTDw77MRS.eZShyyJy3B4zx-mq) | 10-05-2020 | 
 | Lab                            | [![Link](../tools/buttons/open-article.svg)](lab/README.md)  | 08-15-2020 |
 | Project 2                      | [![Link](../tools/buttons/open-article.svg)](../projects/project-2/README.md)  | NA |         
 
