@@ -18,7 +18,7 @@
     
 * [Week 4: Data Viz!](week-4/README.md)    
     * [Workshop: Airbnb Listings](week-4/workshop/README.md)     
-    * [Lab: Exploration](week-4/lab/README.md)  
+    * [Lab: Node Welcome Survey](week-4/lab/README.md)  
     
 * [Week 5: DevOps!](week-5/README.md)    
     * [Workshop: ASCII Star Wars](week-5/workshop/README.md)     
