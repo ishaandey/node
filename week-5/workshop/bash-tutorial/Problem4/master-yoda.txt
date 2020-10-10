@@ -1,0 +1,3 @@
+Now, ONLY delete droids that aren't R2D2 or C3POm with:  rm *Droid.txt
+
+Remember, the * wildcard matches any bit of text, regardless of how long it is.

@@ -1,0 +1,5 @@
+We're stuck in a room with droids.
+1. Check what droids are in the room with us using `ls -la`
+
+We want to delete all the droids, but keep c3po and r2d2. 
+2. Use `rm *Droid.txt` to do so.

@@ -9,12 +9,12 @@
     * [Lab: What is Data Science?](week-1/lab/README.md) 
     
 * [Week 2: Pandas!](week-2/README.md)    
-    * [Workshop: IMDB](week-2/workshop/README.md)     
+    * [Workshop: IMDB & UFOs](week-2/workshop/README.md)     
     * [Lab: Gap Inc. Sales](week-2/lab/README.md)  
     
 * [Week 3: Data Cleaning!](week-3/README.md)    
     * [Workshop: Harry Potter and the Notebook of Secrets](week-3/workshop/README.md)     
-    * [Lab: Gap Inc. Sales (Part II)](week-3/lab/README.md)  
+    * [Lab: Gap Inc. Sales](week-3/lab/README.md)  
     
 * [Week 4: Data Viz!](week-4/README.md)    
     * [Workshop: Airbnb Listings](week-4/workshop/README.md)     

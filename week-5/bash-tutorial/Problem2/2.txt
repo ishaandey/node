@@ -1,6 +1,0 @@
-
-To rename things in Bash we can use `mv` (which stands for move).
-The interesting thing is that we can "move" a file from one name to another.
-
-Try the following: mv anakin.txt darthvader.txt
-
