@@ -50,7 +50,9 @@ Endor, temperate, forests, 30 million
 ```
 
 Each one of these snapshots are saved in sequence, so Git allows us to see *versions over time*, then *go back to previous ones* with ease.
+
 ![Versioning](../screenshots/git-basics.png)
+
 
 In fact, every time a file in our project changes at all, git recognizes and remembers the change. That information gets stored into a hidden git "database", also known as a **git repository**.
 
