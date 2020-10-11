@@ -3,6 +3,8 @@
 
 ## Instructions
 
+Check slack for the CSV files!
+
 ### Data Import
 
 1. Open up a new notebook in [Google Colab](colab.research.google.com)
