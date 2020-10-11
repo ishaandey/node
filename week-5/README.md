@@ -25,15 +25,14 @@ Or say we're working in a team to build a dashboard that tallies and displays gl
 
 Clearly, there's a lot of tools we can leverage to improve our workflow. Though the tools we'll learn will help us work with Python, it won't actually be coded in Python. So, instead of notebooks, we've got a few markdown pages with the instructions for today's activities. 
 
-### Overview
+## Overview
 | **Activity**                   | Content Link    | Last Updated |
 | ---------------                | --------------- | ----------   |
-| Slides                         | [![Link](../tools/buttons/open-drive.svg)](http://link-HERE.christianfjung.com) | NA |
 | Workshop I: Bash | [![Link](../tools/buttons/open-markdown.svg)](workshop/bash.md) | 08-17-2020 | 
 | Workshop II: Git     | [![Link](../tools/buttons/open-markdown.svg)](workshop/git.md) | 08-17-2020 | 
 | Workshop III: Environments | [![Link](../tools/buttons/open-markdown.svg)](workshop/venv.md) | 08-17-2020 | 
-| Workshop Recording                 | [![Link](../tools/buttons/open-zoom.svg)](http://link-HERE.christianfjung.com) | NA | 
-| Lab                            | [![Link](../tools/buttons/open-article.svg)](lab/README.md)  | 08-17-2020 |
+| Workshop Recording                 | [![Link](../tools/buttons/open-zoom.svg)]() | NA | 
+| Lab                            | [![Link](../tools/buttons/open-article.svg)](lab/README.md)  | 10-10-2020 |
 
 ## Additional Links
 - [Bash Shell Scripting](https://en.wikibooks.org/wiki/Bash_Shell_Scripting#Introduction) 

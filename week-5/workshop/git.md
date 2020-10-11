@@ -20,9 +20,9 @@ _______[_][_]______[_][_]______[_][_]____________|__[_][_]____
 
 Git is a fantastic versioning system, and there are *tons* of resources available online to help you learn / practice. This page will just cover the basics to get you on your feet, and is by no means a full list of all the amazing things Git and GitHub allow you to do. 
 
-## The Big Picture
+# The Big Picture
 
-### Git 
+## Git 
 Let's say we want to start a new project, looking at some star wars data. We start out with an empty project folder `star-wars/`, and add `characters.csv`, `planets.csv`, & `viz.ipynb`. Currently, our local directory (our laptop's folder) looks like this: 
 
 ```
@@ -49,6 +49,9 @@ Endor, temperate, forests, 30 million
 + Naboo, temperate, forests, 4.2 billion
 ```
 
+Each one of these snapshots are saved in sequence, so Git allows us to see *versions over time*, then *go back to previous ones* with ease.
+![Versioning](../screenshots/git-basics.png)
+
 In fact, every time a file in our project changes at all, git recognizes and remembers the change. That information gets stored into a hidden git "database", also known as a **git repository**.
 
 ```
@@ -61,7 +64,7 @@ In fact, every time a file in our project changes at all, git recognizes and rem
     └── viz.ipynb
 ```
 
-### GitHub
+## GitHub
 Let's say we'd like to share our project with a friend, who wants to build a machine learning model from our data. 
 
 **GitHub** makes collaboration super easy. To be clear, *GitHub* is entirely seperate from *git*. GitHub is an *online platform* that hosts repositories, using the git version control system.
@@ -76,21 +79,22 @@ Whenever she's made edits that she'd like to share, she can **push** those commi
 
 That's it! There's a lot more to Git, including Branching and Pull Requests, but this is enough to get us started.
 
-___
+---------
 
-## The Basic Workflow
+# The Basic Workflow
 We've already covered most, if not all of the basics of working with Git. Let's walk through an example:
 
-At any point, use `git --help` or `git <command> --help` to pull up help pages
+At any point, use `git --help` or `git <command> --help` to pull up help pages (Type `q` if you see a `:` in the command line to exit the help pages).
 
-### Set Up Remote
+## Set Up Remote
 1. Let's start by **navigating** to your node directory:
-     * Open the bash shell of your choice (For MacOS: use `Terminal`; For Windows: use `Git Bash`)
-     * Using the commands from [bash.md](bash.md), `cd` into your directory for node (use `mkdir` if you don't have a node folder. 
+     * Open the bash shell of your choice (For MacOS: use `Terminal` — For Windows: use `Git Bash`)
+     * Using bash commands, `cd` into your directory for node (use `mkdir` to make a directory if needed)
+
 2. **Initialize** the repository with `git init`:
      * This creates a hidden `.git` directory, which we can now reveal with `ls -la`
 
-3. **Stage** all changes using `git add .`. Whenever Git detects a change to a file, it goes into one of 3 distinct phases:
+3. **Stage** all changes using `git add --all`. Whenever Git detects a change to a file, it goes into one of 3 distinct phases:
      * **Modified** means that the file is changed, but isn't yet *saved to the repo*. This occurs by default. These changes as saved in the *working directory*.
      * **Staged** means we've *marked the modified file* *as ready* to enter into the next commit. We would say that these edits are saved to the *index*.
      * **Committed** means that the snapshot, containing only the staged edits, is now saved to the repo.
@@ -100,16 +104,16 @@ At any point, use `git --help` or `git <command> --help` to pull up help pages
      * Good practice for naming commits are short statements with a verb up front
 
 5. In order to push our changes up to a remote repository, we first need to **create a GitHub repo**
-     * Open up `GitHub Desktop`. On the top left, hit `Add`, then `Add existing repository`
+     * Open up `GitHub Desktop`. On the top left, hit `Add` > `Add existing repository`
      * Hit `choose`, then navigate to the directory where you've been working     
-     * Click `Publish repository`, add a description and make the repo public if you'd like, then publish
+     * Click `Publish repository`, add a description and make the repo public if you'd like, then publish. Make it private for now
 
 6. Now that we have a `remote` repo set up, we can confirm its location using `git remote -v`
      * This should now point to a link, something like <https://github.com/ishaandey/node.git>
 
 7. **Push** the commits to remote using `git push`
 
-### Add Changes
+## Add Changes
 1. Head over to your online GitHub repository (github.com/username/reponame) 
     *  Make sure you're signed in properly
 
@@ -121,7 +125,7 @@ At any point, use `git --help` or `git <command> --help` to pull up help pages
     - We could either: (a) go to GitHub Desktop, and click the `fetch & pull` icon
     - Or (b) from the command line, type `git pull`
 
-4. With a text editor, add a few lines to `hello.txt`. Be sure to save!
+4. With a text editor, add a few lines to `hello.txt`. Be sure to hit save!
     - Git now knows a file has been changed, but hasn't yet saved that snapshot to the local repo
 
 5. **Stage** these changes using `git add hello.txt`
@@ -139,7 +143,7 @@ You're done! This is the basic workflow of Git. We modify files, stage then comm
 
 ---------
 
-## Branching
+# Branching
 
 ```
 .          __---__
@@ -170,15 +174,16 @@ Let's say we want to improve our machine learning models, BUT we don't want to o
 
 1. **Check** the branch you're currently on using `git branch`
 
-2. **Create** a new branch using `git branch <branch-name>`
+2. **Create** a new branch using `git branch my-branch`
      * This simply creates a new branch, but doesn't mean you're working on it yet
 
-3. To **switch branches**, we'll have to check out the branch using `git checkout <branch-name>`
+3. To **switch branches**, we'll have to check out the branch using `git checkout my-branch`
 
-4. Add any changes, using the modify > stage > commit workflow from earlier
+4. Add any changes, using the modify > stage > commit workflow
 
-5. Once we're confident that these changes are ready to go, we'll **merge** these 
-
+5. Once we're confident that these changes are ready to go, we'll **merge** this branch back onto `master`
+     - First use `git branch master` to move back to master
+     - Then `git merge my-branch` to merge the commits from `my-branch` onto `master`
 
 There are tons of workflows that describe this process. The one I've been using for the node repository uses `master`/`develop`/`feature` branches, based on the model [described here](https://nvie.com/posts/a-successful-git-branching-model/).
 
@@ -188,20 +193,18 @@ There are tons of workflows that describe this process. The one I've been using 
 
 ## Definitions
 - *Git* is a version control system, *GitHub* is an online platform
-- A *repository*
-- Commits store changes
+- *Commits* store "snapshots" of what our project looks like in a particular point in time
+- A *repository* is how we save these commits using the Git system
+- *Branch*es can be thought of as a "copy" (of sorts), of the main repository. This allows us to test out various features without breaking existing code.
+- *Remote* is the version of our repository that lives online at GitHub 
 
 ## Workflow
-### Setup Existing Repo
-
-### Setup New Repo
-
-### Add Changes
-
-### Branching 
+- Whenever we want to store a change, we *modify*, *stage*, and *commit* 
+- To *get* the most recent changes, we *pull* them down
+- To *upload* our most recent changes, we *push* them up
+- To test out features, we use *branches*
 
 ## Acknowledgements & Resources
-- https://git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F
-- https://nvie.com/posts/a-successful-git-branching-model/
-- https://github.com/jlord/git-it-electron
-
+- [Git SCM](https://git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F)
+- [Git Branching Model](https://nvie.com/posts/a-successful-git-branching-model/)
+- [Interactive Git Practice](https://github.com/jlord/git-it-electron)
