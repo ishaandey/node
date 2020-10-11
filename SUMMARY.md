@@ -35,3 +35,4 @@
     
 ## Projects
 * [Project 1: Data Ethics](projects/project-1/README.md)    
+* [Project 2: Impact EDA](projects/project-2/README.md)    
