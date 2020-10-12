@@ -31,7 +31,7 @@ Clearly, there's a lot of tools we can leverage to improve our workflow. Though 
 | Workshop I: Bash | [![Link](../tools/buttons/open-markdown.svg)](workshop/bash.md) | 08-17-2020 | 
 | Workshop II: Git     | [![Link](../tools/buttons/open-markdown.svg)](workshop/git.md) | 08-17-2020 | 
 | Workshop III: Environments | [![Link](../tools/buttons/open-markdown.svg)](workshop/venv.md) | 08-17-2020 | 
-| Workshop Recording                 | [![Link](../tools/buttons/open-zoom.svg)]() | NA | 
+| Workshop Recording                 | [![Link](../tools/buttons/open-zoom.svg)](https://virginia.zoom.us/rec/play/B0wubFfDmAkYzqYglFhWjk2kJySH_uAJS1-a1rx7pHqDMobfpyVCQAyLeILXK22pN7rx_VKmHvyF87w.UP6cuwBeBu2BRkAe) | 10-12-2020 | 
 | Lab                            | [![Link](../tools/buttons/open-article.svg)](lab/README.md)  | 10-10-2020 |
 
 ## Additional Links
