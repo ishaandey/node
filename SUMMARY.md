@@ -30,9 +30,8 @@
 * [Week 6: Intro to ML!](week-6/README.md)    
     * [Workshop I: Human Intuition](week-6/workshop/intro-ml.md)    
     * [Workshop II: Heart Disease](week-6/workshop/README.md)     
-    * [Workshop III: ML Pipelines](week-6/workshop/ml-pipeline.md)   
     * [Lab: TBD](week-6/lab/README.md)  
     
-## Projects
+## Projectss
 * [Project 1: Data Ethics](projects/project-1/README.md)    
 * [Project 2: Impact EDA](projects/project-2/README.md)    
