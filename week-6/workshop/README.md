@@ -1,6 +1,19 @@
 # Introduction to Machine Learning
 
 
-| **Task**    | Comments               | Content Link     |
-| ----------- | --------------------- | ---------- |
-| Workshop Part II| Heart Disease Prediction |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ishaandey/node/blob/master/week-6/workshop/intro_ml_key.ipynb)  [![Download Notebook](https://files.christianfjung.com/buttons/DownloadIpynb.svg)](https://files.node.ishaandey.com/week-6/workshop/intro_ml_key.ipynb) |
+### Introduction: Candy or Condom?
+[![Link](../../tools/buttons/open-browser.svg)]()
+
+### Part I: Human Learning
+[![Link](../../tools/buttons/open-markdown.svg)](intro-ml.md)
+
+### Part II: Machine Learning
+#### Notes
+| Interactive Notebook | Source Code  | 
+| :-----------: | :------------: | 
+| [![Link](../../tools/buttons/open-colab.svg)](https://colab.research.google.com/github/ishaandey/node/blob/master/week-6/workshop/intro_ml_notes.ipynb) | [![Link](../../tools/buttons/download-ipynb.svg)](https://files.node.ishaandey.com/week-6/workshop/intro_ml_notes.ipynb) |
+
+#### Key
+| Interactive Notebook | Source Code  | 
+| :-----------: | :------------: | 
+| [![Link](../../tools/buttons/open-colab.svg)](https://colab.research.google.com/github/ishaandey/node/blob/master/week-6/workshop/intro_ml_key.ipynb) | [![Link](../../tools/buttons/download-ipynb.svg)](https://files.node.ishaandey.com/week-6/workshop/intro_ml_key.ipynb) |

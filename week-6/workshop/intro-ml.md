@@ -1,4 +1,4 @@
-# Thinking Like the Machine
+# Thinking Like A Machine
 
 ## Why bother?
 You're on an evening jog, listening to bops on your ancient iPod. You like your music, but it's getting pretty old. The artists your friends suggest are hit or miss, and it's just hard to find good new songs out of your comfort zone.
