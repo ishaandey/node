@@ -11,7 +11,7 @@ Today's agenda:
 ## Overview
 | **Activity**                   | Content Link    | Last Updated |
 | ---------------                | --------------- | ----------   |
-| Candy or Condom?                          | [![Link](../tools/buttons/open-browser.svg)]() | 10-18-2020 |
+| Candy or Condom?                          | [![Link](../tools/buttons/open-browser.svg)](https://teachablemachine.withgoogle.com/models/zDvjWFJkJ/) | 10-18-2020 |
 | Workshop I: Human Intuition               | [![Link](../tools/buttons/open-markdown.svg)](workshop/intro-ml.md) | 10-18-2020 | 
 | Workshop II: Heart Disease Prediction     | [![Link](../tools/buttons/open-markdown.svg)](workshop/README.md) | 08-17-2020 | 
 | Workshop Recording                        | [![Link](../tools/buttons/open-zoom.svg)]() | NA | 
