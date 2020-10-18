@@ -16,3 +16,4 @@ Today's agenda:
 | Workshop II: Heart Disease Prediction     | [![Link](../tools/buttons/open-markdown.svg)](workshop/README.md) | 08-17-2020 | 
 | Workshop Recording                        | [![Link](../tools/buttons/open-zoom.svg)]() | NA | 
 | Lab (TBD)                                 | [![Link](../tools/buttons/open-article.svg)](lab/README.md)  | 10-10-2020 |
+|Midsemester Feedback                       | [![Link](../tools/buttons/open-forms.svg)](https://fall20-mid-semester-feedback.paperform.co/) | 10-18-20 |

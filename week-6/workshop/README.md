@@ -2,7 +2,8 @@
 
 
 ### Introduction: Candy or Condom?
-[![Link](../../tools/buttons/open-browser.svg)](https://teachablemachine.withgoogle.com/models/zDvjWFJkJ/)
+Live Model: [![Link](../../tools/buttons/open-browser.svg)](https://teachablemachine.withgoogle.com/models/zDvjWFJkJ/)
+<br> Made with [Teachable Machine](https://teachablemachine.withgoogle.com/)
 
 ### Part I: Human Learning
 [![Link](../../tools/buttons/open-markdown.svg)](intro-ml.md)
