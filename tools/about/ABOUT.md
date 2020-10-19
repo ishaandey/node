@@ -1,7 +1,7 @@
 # About & Permissions
 
 ## About Us
-HackCville is a Charlottesville non-profit that teaches high-demand skills from software development to graphic design. Check out [hackcville.com](https://hackcville.com/) for more programs and opportunities!
+Forge (formerly HackCville) is a Charlottesville non-profit that teaches high-demand skills from software development to graphic design. Check out [joinforge.co](https://joinforge.co/) for more programs and opportunities!
 
 ### Program Lead
 #### Ishaan Dey
@@ -15,9 +15,9 @@ Hey guys! My name is Ben and I'm a second year at UVA studying computer science 
 What's up everyone! My name is Ruthvik and I'm a second year at UVA studying CS and Stats in the glorious e-school. I love going fishing and playing any sport in my free time, but I also love lounging around and watching netflix. I'm really interested in machine learning and artificial intelligence, so feel free to reach out to me at **rrg5kq@virginia.edu** so we can talk about our interests! Get ready for an exciting semester at Node!
 
 ### Contributors
-This course would not have been possible without the support of HackCville's amazing staff. Big shoutouts to Christian Jung and Ben Artuso for crafting previous iterations of this course, and for the team's feedback and continued support. 
+This course would not have been possible without the support of Forge's amazing staff. Big shoutouts to Christian Jung and Ben Artuso for crafting previous iterations of this course, and for the team's feedback and continued support. 
 
 ## Content Permissions
-Content developed at HackCville, Fall 2020. **All content rights belong to Ishaan Dey**.
+Content developed at Forge (formerly HackCville), Fall 2020. **All content rights belong to Ishaan Dey**.
 
 If you'd like to request permission to use notebooks, lecture notes, or lab activites, contact the team at ishaan@hackcville.com. Thanks!

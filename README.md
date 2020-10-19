@@ -1,5 +1,5 @@
 # Node
-Welcome! Node is a ten-week introductory data science course offered by [HackCville](https://hackcville.com/), where students pick up **core data literacy skills** and apply them in domains of interest.
+Welcome! Node is a ten-week introductory data science course offered by [Forge (formerly HackCville)](https://joinforge..co/), where students pick up **core data literacy skills** and apply them in domains of interest.
 
 Among other things, we'll learn the foundations of data manipulation, exploratory data analysis, machine learning, and apply them towards our own areas of interests in projects. Though the course assumes some basic knowledge of programming or familiarity with Python, all are welcome.
 
@@ -50,6 +50,6 @@ All course material (slides, notebooks, datasets, etc.) will live in the [Node G
 Feel free to contact the team at *ishaan@hackcville.com* with any questions about content or request permission to use material.
 
 ### Contributors
-Content developed by Ishaan Dey at HackCville, Fall 2020. All content rights belong to Ishaan Dey. 
+Content developed by Ishaan Dey at Forge (formerly HackCville), Fall 2020. All content rights belong to Ishaan Dey. 
 
-Shoutout to Christian Jung, Ben Artuso, and the HackCville team for their feedback and support.
+Shoutout to Christian Jung, Ben Artuso, and the Forge (formerly HackCville) team for their feedback and support.
