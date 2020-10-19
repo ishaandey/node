@@ -11,9 +11,8 @@ Today's agenda:
 ## Overview
 | **Activity**                   | Content Link    | Last Updated |
 | ---------------                | --------------- | ----------   |
-| Candy or Condom?                          | [![Link](../tools/buttons/open-browser.svg)](https://teachablemachine.withgoogle.com/models/zDvjWFJkJ/) | 10-18-2020 |
 | Workshop I: Human Intuition               | [![Link](../tools/buttons/open-markdown.svg)](workshop/intro-ml.md) | 10-18-2020 | 
 | Workshop II: Heart Disease Prediction     | [![Link](../tools/buttons/open-markdown.svg)](workshop/README.md) | 08-17-2020 | 
-| Workshop Recording                        | [![Link](../tools/buttons/open-zoom.svg)]() | NA | 
+| Workshop Recording                        | [![Link](../tools/buttons/open-zoom.svg)](https://virginia.zoom.us/rec/play/DHZdqAlIDr7vfmfQt4WSUtj_eSP_QEY-6kQBSzojTVpydApAak34o7YtE3szQ-viLZu48GP7XLkznBZ1.sdHQNbV_cgWdK5j5) | 10-18-2020 | 
 | Lab (TBD)                                 | [![Link](../tools/buttons/open-article.svg)](lab/README.md)  | 10-10-2020 |
-|Midsemester Feedback                       | [![Link](../tools/buttons/open-forms.svg)](https://fall20-mid-semester-feedback.paperform.co/) | 10-18-20 |
+|Midsemester Feedback                       | [![Link](../tools/buttons/open-forms.svg)](https://fall20-mid-semester-feedback.paperform.co/) | 10-18-2020 |
