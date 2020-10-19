@@ -5,3 +5,5 @@
 .github/workflows/generate-index.yml
 .vscode/settings.json
 week-4/lab/survey_*
+week-6/lab/survey_helper.py
+week-6/lab/survey_cleaned.csv

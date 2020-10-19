@@ -30,7 +30,7 @@
 * [Week 6: Intro to ML!](week-6/README.md)    
     * [Workshop I: Human Intuition](week-6/workshop/intro-ml.md)    
     * [Workshop II: Heart Disease](week-6/workshop/README.md)     
-    * [Lab: TBD](week-6/lab/README.md)  
+    * [Lab: Predict Node Majors](week-6/lab/README.md)  
     
 ## Projects
 * [Project 1: Data Ethics](projects/project-1/README.md)    
