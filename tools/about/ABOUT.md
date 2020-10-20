@@ -3,13 +3,7 @@
 ## About Us
 Forge (formerly HackCville) is a Charlottesville non-profit that teaches high-demand skills from software development to graphic design. Check out [joinforge.co](https://joinforge.co/) for more programs and opportunities!
 
-
-<figure>
-<center>
-<img src="ish.png" width=33%><img src="ben.png" width=33%><img src="ruthvik.png" width=33%> 
-<figcaption>Ishaan — Ben — Ruthvik</figcaption>
-</center>
-</figure>
+ ![Ishaan](ish.png)![Ben](ben.png)![Ruthvik](ruthvik.png)
 
 ### Program Lead
 #### Ishaan Dey
