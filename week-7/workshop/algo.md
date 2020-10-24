@@ -5,8 +5,6 @@
 
 ## Supervised Learning
 
-
-
 ### Classification
 
 - **Logistic Regression**
@@ -21,7 +19,6 @@
     - 
 - **NB**: Naive Bayes
 
-
 ### Regression
 - **Linear Regression**
     - 
@@ -29,8 +26,6 @@
     - 
 - **LOWESS**: Locally Weighted Scatterplot Smoothing
     -   
-
-
 ____
 ## Unsupervised Learning
 
@@ -45,6 +40,8 @@ ____
     - Linear transformation that can compress down data from n to 2 dimensions
     - StatQuest
 **tSNE** t-Distributed Stochastic Neighbor Embedding
+    - 
+**UMAP** Unifold Manifest Approach 
     - 
      
 ___

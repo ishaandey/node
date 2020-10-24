@@ -1,7 +1,7 @@
 # Node
-Welcome! Node is a ten-week introductory data science course offered by [Forge (formerly HackCville)](https://joinforge..co/), where you'll pick up **core data literacy skills** and apply them in domains of interest.
-
 ![](tools/screenshots/forge-coral-banner.png)
+
+Welcome! Node is a ten-week introductory data science course offered by [Forge (formerly HackCville)](https://joinforge..co/), where you'll pick up **core data literacy skills** and apply them in domains of interest.
 
 Among other things, we'll learn the foundations of data manipulation, exploratory data analysis, machine learning, and apply them towards our own areas of interests in projects. Though the course assumes some basic knowledge of programming or familiarity with Python, all are welcome.
 
@@ -33,9 +33,9 @@ All course material (slides, notebooks, datasets, etc.) will live in the [Node G
     - [Project 2](projects/project-2/): Work in teams to produce exciting visuals to a non-technical audience 
 - [Week 6](./week-6): **I, Robot** 
     - A conceptual introduction to AI and ML. Identify applications and build an intuition for the ML pipeline
-    - *Lab*: Start the ML pipeline with to predict Node student majorss
+    - *Lab*: Start the ML pipeline to predict Node student majorss
 - [Week 7](./week-7): **Breaking the Black Box** 
-    - Visualize the algorithms behind machine learning methods with Sci-Kit Learn
+    - A visual dive into some classification methods: decision trees and k-nearest neighbors
     - *Lab*: Understand model behavior with explainable machine learning
 - [Week 8](./week-8): **More Than Just Accuracy** 
     - Critically evaluate model performance through an animated approach

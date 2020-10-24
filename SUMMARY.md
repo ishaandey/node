@@ -1,6 +1,6 @@
 # Summary
 
-* [Welcome](README.md)
+* [Welcome!](README.md)
 * [About & Permissions](tools/about/ABOUT.md)
 
 ## Content
@@ -31,7 +31,12 @@
     * [Workshop I: Human Intuition](week-6/workshop/intro-ml.md)    
     * [Workshop II: Heart Disease](week-6/workshop/README.md)     
     * [Lab: Predict Node Majors](week-6/lab/README.md)  
-    
+
+* [Week 7: Algorithms!](week-7/README.md)    
+    * [Workshop I: Decision Trees](week-7/workshop/README.md)    
+    * [Workshop II: K-Nearest Neighbors](week-7/workshop/README.md)     
+    * [Lab: Trees Under the Hood](week-7/lab/README.md)  
+
 ## Projects
 * [Project 1: Data Ethics](projects/project-1/README.md)    
 * [Project 2: Impact EDA](projects/project-2/README.md)    
