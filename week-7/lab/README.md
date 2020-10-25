@@ -18,5 +18,5 @@ Today we'll try to understand how that model made its decision.
 8. Determine which model works best for our data
 
 
-Notes to get you started:   ![Link](../../tools/buttons/open-colab.svg)](https://colab.research.google.com/github/ishaandey/node/blob/master/week-7/lab/survey-algorithms_notes.ipynb)
+Notes to get you started:   [![Link](../../tools/buttons/open-colab.svg)](https://colab.research.google.com/github/ishaandey/node/blob/master/week-7/lab/survey-algorithms_notes.ipynb)
 Key when you're done:       [![Link](../../tools/buttons/open-colab.svg)](https://colab.research.google.com/github/ishaandey/node/blob/master/week-7/lab/survey-algorithms_key.ipynb)
