@@ -11,4 +11,4 @@ Today we'll learn the algorithms behind classification with Ruthvik and Ben!
 | Lab: Decision Trees Under the Hood       | [![Link](../tools/buttons/open-article.svg)](lab/README.md)  | 10-25-2020 |
 
 ### Acknowledgements
-Big thank you to Ben for the decision trees, and Ruthvik for the KNN content during workshop and labs this week.
+Big thank you to Ben for the decision trees, and Ruthvik for the KNN content during workshop and labs this week. Image and content sources are listed in the corresponding slide decks.

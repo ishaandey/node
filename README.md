@@ -1,9 +1,9 @@
 # Node
 ![](tools/screenshots/forge-coral-banner.png)
 
-Welcome! Node is a ten-week introductory data science course offered by [Forge (formerly HackCville)](https://joinforge..co/), where you'll pick up **core data literacy skills** and apply them in domains of interest.
+Welcome! Node is a ten-week introductory data science course offered by [Forge (formerly HackCville)](https://joinforge.co/), where you'll pick up **core data literacy skills** and apply them in domains of interest.
 
-Among other things, we'll learn the foundations of data manipulation, exploratory data analysis, machine learning, and apply them towards our own areas of interests in projects. Though the course assumes some basic knowledge of programming or familiarity with Python, all are welcome.
+Among other things, we'll learn the foundations of *data manipulation*, *exploratory data analysis*, *machine learning*, and apply them towards our own areas of interests in projects. Though the course assumes some basic knowledge of programming or familiarity with Python, all are welcome.
 
 By the end of this course, our goal is to show what's possible by learning data science – how to ask the right questions, critique models, and cut through the noise to help you find the patterns in your work. Ultimately, we'd like you to leave with enough familiarity of Python to be independent analysts in your own fields, as well as understand how data science is increasingly used in the world around us.
 
@@ -33,7 +33,7 @@ All course material (slides, notebooks, datasets, etc.) will live in the [Node G
     - [Project 2](projects/project-2/): Work in teams to produce exciting visuals to a non-technical audience 
 - [Week 6](./week-6): **I, Robot** 
     - A conceptual introduction to AI and ML. Identify applications and build an intuition for the ML pipeline
-    - *Lab*: Start the ML pipeline to predict Node student majorss
+    - *Lab*: Start the ML pipeline to predict Node student majors
 - [Week 7](./week-7): **Breaking the Black Box** 
     - A visual dive into some classification methods: decision trees and k-nearest neighbors
     - *Lab*: Understand model behavior with explainable machine learning
@@ -50,6 +50,6 @@ All course material (slides, notebooks, datasets, etc.) will live in the [Node G
 Feel free to contact the team at *ishaan@hackcville.com* with any questions about content or request permission to use material.
 
 ### Contributors
-Content developed by Ishaan Dey at Forge (formerly HackCville), Fall 2020. All content rights belong to Ishaan Dey. 
+Content developed by Ishaan Dey at Forge (formerly HackCville), Fall 2020. All content rights belong to Ishaan Dey unless otherwise stated. 
 
 Shoutout to Christian Jung, Ben Artuso, and the Forge team for their feedback and support.
