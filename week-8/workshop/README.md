@@ -1,5 +1,7 @@
 # Classification Metrics
 
+### Slides on Confusion Matrix
+[![Link](../../tools/buttons/open-drive.svg)](https://docs.google.com/presentation/d/1ObkqdRy_Dfv-UQWqFsYPraWgtxVzVnycK_HgWx_g4vw/edit?usp=sharing)
 
 ### Notes
 | Quick Open | Interactive Notebook | Source Code  | 
