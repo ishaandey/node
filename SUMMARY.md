@@ -4,7 +4,7 @@
 * [About & Permissions](tools/about/ABOUT.md)
 
 ## Content
-* [Week 1: Welcome to Data Science!](week-1/README.md)    
+* [Week 1: Welcome to Data!](week-1/README.md)    
     * [Workshop: San Francisco Trees](week-1/workshop/README.md)     
     * [Lab: What is Data Science?](week-1/lab/README.md) 
     
@@ -36,6 +36,10 @@
     * [Workshop I: Decision Trees](week-7/workshop/README.md)    
     * [Workshop II: K-Nearest Neighbors](week-7/workshop/README.md)     
     * [Lab: Trees Under the Hood](week-7/lab/README.md)  
+
+* [Week 8: Tuning Models!](week-8/README.md)    
+    * [Workshop: Classification Metrics](week-8/workshop/README.md)    
+
 
 ## Projects
 * [Project 1: Data Ethics](projects/project-1/README.md)    
