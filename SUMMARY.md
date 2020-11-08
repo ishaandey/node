@@ -27,7 +27,7 @@
     * [Workshop III: Environments made Easy](week-5/workshop/venv.md)    
     * [Lab: 5-Word Stories](week-5/lab/README.md)  
     
-* [Week 6: Intro to ML!](week-6/README.md)    
+* [Week 6: Machine Learning!](week-6/README.md)    
     * [Workshop I: Human Intuition](week-6/workshop/intro-ml.md)    
     * [Workshop II: Heart Disease](week-6/workshop/README.md)     
     * [Lab: Predict Node Majors](week-6/lab/README.md)  
@@ -40,7 +40,11 @@
 * [Week 8: Tuning Models!](week-8/README.md)    
     * [Workshop: Classification Metrics](week-8/workshop/README.md)    
 
+* [Week 9:  NLP & Scraping!](week-9/README.md)    
+    * [Workshop I: Web Scraping](week-9/workshop/README.md)    
+    * [Workshop II: Sentiment Analysis](week-9/workshop/README.md)     
 
 ## Projects
 * [Project 1: Data Ethics](projects/project-1/README.md)    
 * [Project 2: Impact EDA](projects/project-2/README.md)    
+* [Project 3: Impact ML](projects/project-3/README.md)    
