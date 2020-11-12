@@ -44,6 +44,9 @@
     * [Workshop I: Web Scraping](week-9/workshop/README.md)    
     * [Workshop II: Sentiment Analysis](week-9/workshop/README.md)     
 
+* [Week 10:  Show & Tell!](week-10/README.md)    
+
+
 ## Projects
 * [Project 1: Data Ethics](projects/project-1/README.md)    
 * [Project 2: Impact EDA](projects/project-2/README.md)    
