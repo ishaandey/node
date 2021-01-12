@@ -7,7 +7,7 @@ Forge (formerly HackCville) is a Charlottesville non-profit that teaches high-de
 
 ### Program Lead
 #### Ishaan Dey
-Hey there! My name is Ishaan, I'm third year at the University of Virginia studying statistics & economics, and hopefully medicine. he common denominator across my interests: making healthcare work for people. Whether it’s genomic sequences or financial outcomes, I’m interested in leveraging data to make care accessible and affordable. Outside of school, I love photography, cooking, and rooting for the Baltimore Ravens. Feel free to reach out with any questions, or just say hi! You can find me by email at **ishaan@joinforge.co** or [LinkedIn](https://www.linkedin.com/in/ishaan-dey/).
+Hey there! My name is Ishaan, I'm third year at the University of Virginia studying statistics & economics, and hopefully medicine. he common denominator across my interests: making healthcare work for people. Whether it’s genomic sequences or financial outcomes, I’m interested in leveraging data to make care accessible and affordable. At the end of the day, I'd like to help make *data work for people*. Outside of school, I love photography, cooking, rooting for the Baltimore Ravens. Feel free to reach out with any questions, or just say hi! You can find me by email at **ishaan@hackcville.com** or [LinkedIn](https://www.linkedin.com/in/ishaan-dey/).
 
 ### Program Coordinators
 #### Ben Humleker
@@ -20,8 +20,8 @@ What's up everyone! My name is Ruthvik and I'm a second year at UVA studying CS 
 This course would not have been possible without the support of Forge's amazing staff. Big shoutouts to Christian Jung and Ben Artuso for crafting previous iterations of this course, and for the team's feedback and continued support. 
 
 ## Content Permissions
-Content developed at Forge, Spring 2021. **All content rights belong to Ishaan Dey**.
+Content developed at Forge, Fall 2020. **All content rights belong to Ishaan Dey**.
 
-If you'd like to request permission to use notebooks, lecture notes, or lab activites, contact the team at *ishaan@joinforge.co*. Thanks!
+If you'd like to request permission to use notebooks, lecture notes, or lab activites, contact the team at *ishaan@hackcville.com*. Thanks!
 
 ![Forge](../screenshots/forge-coral-banner.png)
