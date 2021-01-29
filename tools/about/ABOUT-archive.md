@@ -24,4 +24,4 @@ Content developed at Forge, Fall 2020. **All content rights belong to Ishaan Dey
 
 If you'd like to request permission to use notebooks, lecture notes, or lab activites, contact the team at *ishaan@hackcville.com*. Thanks!
 
-![Forge](../screenshots/forge-coral-banner.png)
+![Forge](../assets/forge-coral-banner.png)

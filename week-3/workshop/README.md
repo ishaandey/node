@@ -2,7 +2,7 @@
 
 Data cleaning is a bit like magic. As we're all muggles here, we'll replace spells with a few Python commands.
 
-![](../screenshots/hp.png)
+![](../assets/hp.png)
 
 ### Notes
 | Quick Open | Interactive Notebook | Source Code  | 

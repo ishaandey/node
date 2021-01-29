@@ -1,0 +1,9 @@
+Welcome to Bash, brought to you by the star wars universe.
+
+First thing we have to do is get oriented to where we are.
+1. Use `pwd` to check your current working directory. (pwd = present working directory)
+2. Now use `cd` to navigate into `bash-tutorial`. (cd = change directory)
+    - Note: If you have spaces in the folder name, enclose the whole path in double quotes " " 
+
+For file you want to interact with, give the *relative* file path from the pwd
+3. So instead of using `cat 1.txt` to check the contents of problem 1, use `cat "Problem1/1.txt"`

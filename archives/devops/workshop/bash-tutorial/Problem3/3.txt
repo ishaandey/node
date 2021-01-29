@@ -1,0 +1,5 @@
+Episode IV (yes, again)
+
+There's an important piece of information hidden in a file called deathstarmessage.txt, BUT it's in a folder called r2d2.
+
+Using `cat`, see if you can read what important information is hidden!

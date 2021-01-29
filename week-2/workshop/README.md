@@ -2,7 +2,7 @@
 
 Just as screenwriters use film to create cinema, data scientists use pandas to create insights. Today, we'll be the Steven Spielbergs of our own stories, and explore IMDB-rated movies and UFO sightings.
 
-![](../screenshots/et.png)
+![](../assets/et.png)
 
 ### Notes
 | Quick Open | Interactive Notebook | Source Code  | 

@@ -5,7 +5,7 @@ You're on an evening jog, listening to bops on your ancient iPod. You like your 
 
 Spotify revolutionized the game. They made finding new music incredibly personalized, based on entirely your tastes.
 
-![Spotify Discover Weekly](../screenshots/spotify5.png)
+![Spotify Discover Weekly](../assets/spotify5.png)
 
 How? It's not magic, just data. Each time you play a song, some database off in Sweden makes a little note of it. Turns out, each listener sticks to their own little cluster of artists and sub-sub-genres, so they play it a lot. If the songs you play happen to fit in with some of those groups, it's pretty likely you'll enjoy the other songs they're listening to.  
 
@@ -65,7 +65,7 @@ When we try to model a situation, we see the inputs, or **X**, and the outputs, 
 - If we're trying to generate y from x, we'll usually be given some rule: `y = 2x` (This is NOT machine learning). 
 - Otherwise, we have to generate the rule: `y = mx + b`, by finding `m` and `b` (This IS machine learning).
 
-![Hard Coding vs. Supervised Learning](../screenshots/supervised.png)
+![Hard Coding vs. Supervised Learning](../assets/supervised.png)
 
 With supervised learning, we're always given outcomes, or **labels** to train our model on. 
 For example, we could have some medical data, and have labels on if the patient has a heart condition.
@@ -89,7 +89,7 @@ Quick note: With our pizza example, the outcome we needed to predict was binary,
 
 On the other hand, we might want to predict a continuous variable, like the price of a house. It could cost $300k, $400k or $400.1k. We call this type of problem a *regression*. This distinction is really important; it determines how we evaluate our model's performance, as well as which algorithms we can use to predict the outcome.
 
-![Classification vs. Regression](../screenshots/cfn3.png)
+![Classification vs. Regression](../assets/cfn3.png)
 
 ## Unsupervised Learning
 However, we may not always have a priori labels. We still want to see patterns in the data, and see if there are any insights to be picked up.
@@ -107,7 +107,7 @@ But what about artists like Post Malone, who regularly gets listens from users w
 
 The point is, we don't need to do all the hard work of manually defining "groups" ourselves. We can show user's listening patterns, and cluster artists based on common users. In doing so, we sort out a relatively random jumble of artists into distinct categories.
 
-![Clustering](../screenshots/clstr2.png)
+![Clustering](../assets/clstr2.png)
 
 ## Summary
 - **Supervised** learning involves predicting outcomes when *given* labels, while **unsupervised** learning finds patterns without any labels

@@ -1,0 +1,4 @@
+Use the force to see which files are in the Problem4 directory using `ls -l`. 
+Make sure to specify which directory you're looking for in the command.
+
+We can check for hidden files using `ls -la`

@@ -7,7 +7,8 @@
 * [Week 1: Welcome to Data!](week-1/README.md)    
     * [Workshop: San Francisco Trees](week-1/workshop/README.md)     
     * [Lab: What is Data Science?](week-1/lab/README.md) 
-    
+
+<!--    
 * [Week 2: Pandas!](week-2/README.md)    
     * [Workshop: IMDB & UFOs](week-2/workshop/README.md)     
     * [Lab: Gap Inc. Sales](week-2/lab/README.md)  
@@ -19,14 +20,7 @@
 * [Week 4: Data Viz!](week-4/README.md)    
     * [Workshop: Airbnb Listings](week-4/workshop/README.md)     
     * [Lab: Node Welcome Survey](week-4/lab/README.md)  
-    
-* [Week 5: DevOps!](week-5/README.md)    
-    * [Workshop: ASCII Star Wars](week-5/workshop/README.md)     
-    * [Workshop I: Bash for Beginners](week-5/workshop/bash.md)    
-    * [Workshop II: Guide to Git](week-5/workshop/git.md)    
-    * [Workshop III: Environments made Easy](week-5/workshop/venv.md)    
-    * [Lab: 5-Word Stories](week-5/lab/README.md)  
-    
+        
 * [Week 6: Machine Learning!](week-6/README.md)    
     * [Workshop I: Human Intuition](week-6/workshop/intro-ml.md)    
     * [Workshop II: Heart Disease](week-6/workshop/README.md)     
@@ -46,7 +40,17 @@
 
 * [Week 10: Show & Tell!](week-10/README.md)    
 
+-->
+
 ## Projects
 * [Project 1: Data Ethics](projects/project-1/README.md)    
 * [Project 2: Impact EDA](projects/project-2/README.md)    
 * [Project 3: Impact ML](projects/project-3/README.md)    
+
+## Archives
+
+* [DevOps!](archives/devops/README.md)    
+    * [Workshop: ASCII Star Wars](archives/devops/workshop/README.md)     
+    * [Workshop I: Bash for Beginners](archives/devops/workshop/bash.md)    
+    * [Workshop II: Guide to Git](archives/devops/workshop/git.md)    
+    * [Workshop III: Environments made Easy](archives/devops/workshop/venv.md)    

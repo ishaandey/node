@@ -1,5 +1,5 @@
 # Node
-![](tools/screenshots/forge-coral-banner.png)
+![](tools/assets/forge-coral-banner.png)
 
 Welcome! Node is a ten-week introductory data science course offered by [Forge (formerly HackCville)](https://joinforge.co/), where you'll pick up **core data literacy skills** and apply them in domains of interest.
 
