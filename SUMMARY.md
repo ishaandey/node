@@ -6,7 +6,7 @@
 ## Content
 * [Week 1: Welcome to Data!](week-1/README.md)    
     * [Workshop: San Francisco Trees](week-1/workshop/README.md)     
-    * [Lab: What is Data Science?](week-1/lab/README.md) 
+    * [Lab: Getting Started](week-1/lab/README.md) 
 
 <!--    
 * [Week 2: Pandas!](week-2/README.md)    
@@ -43,9 +43,12 @@
 -->
 
 ## Projects
-* [Project 1: Data Ethics](projects/project-1/README.md)    
+* [Project 1: Scoping Document](projects/project-1/README.md)  
+<!--
 * [Project 2: Impact EDA](projects/project-2/README.md)    
+
 * [Project 3: Impact ML](projects/project-3/README.md)    
+-->
 
 ## Archives
 
