@@ -44,10 +44,12 @@
 
 ## Projects
 * [Project 1: Scoping Document](projects/project-1/scoping.md)  
+
 <!--
 * [Project 2: Impact EDA](projects/project-2/README.md)    
 
-* [Project 3: Impact ML](projects/project-3/README.md)    
+* [Project 3: Impact ML](projects/project-3/README.md)   
+ 
 -->
 
 ## Archives

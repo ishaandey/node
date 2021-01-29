@@ -5,6 +5,6 @@
 # !week-1
 # !week-2
 
-# Ignore assets
-# week-1/assets
-# week-2/assets
+# Ignore images
+# week-1/images
+# week-2/images

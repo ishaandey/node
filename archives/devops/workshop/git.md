@@ -51,7 +51,7 @@ Endor, temperate, forests, 30 million
 
 Each one of these snapshots are saved in sequence, so Git allows us to see *versions over time*, then *go back to previous ones* with ease.
 
-![Versioning](../assets/git-basics.png)
+![Versioning](../images/git-basics.png)
 
 
 In fact, every time a file in our project changes at all, git recognizes and remembers the change. That information gets stored into a hidden git "database", also known as a **git repository**.
@@ -77,7 +77,7 @@ All our friend has to do is **clone**, or download a copy of the remote repo to 
 
 Whenever she's made edits that she'd like to share, she can **push** those commits from (her) local to the remote repo. To bring her changes into my local repo, I can **pull** her commits down.
 
-![Source: Git-It](../assets/remotes.png)
+![Source: Git-It](../images/remotes.png)
 
 That's it! There's a lot more to Git, including Branching and Pull Requests, but this is enough to get us started.
 
@@ -100,7 +100,7 @@ At any point, use `git --help` or `git <command> --help` to pull up help pages (
      * **Modified** means that the file is changed, but isn't yet *saved to the repo*. This occurs by default. These changes as saved in the *working directory*.
      * **Staged** means we've *marked the modified file* *as ready* to enter into the next commit. We would say that these edits are saved to the *index*.
      * **Committed** means that the snapshot, containing only the staged edits, is now saved to the repo.
-     ![Source: Git SCM](../assets/staging.png)
+     ![Source: Git SCM](../images/staging.png)
 
 4. **Commit** these changes to the *local* repo using `git commit -m "First commit"` 
      * Good practice for naming commits are short statements with a verb up front

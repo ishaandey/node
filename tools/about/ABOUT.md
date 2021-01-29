@@ -24,4 +24,4 @@ Content developed at Forge, Spring 2021. **All rights belong to Ishaan Dey** unl
 
 If you'd like to request permission to use notebooks, lecture notes, or lab activites, contact Ishaan at *ishaan@joinforge.co*. Thanks!
 
-![Forge](../assets/forge-coral-banner.png)
+![Forge](../images/forge-coral-banner.png)
