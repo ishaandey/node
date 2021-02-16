@@ -14,7 +14,7 @@ We'll use the following structure adapted from the [Center for Data Science and 
 - **Analysis** – What analysis needs to be done? Does it involve description, detection, or prediction? How will the analysis be validated?
 - **Ethical Considerations** – What are the privacy, transparency, discrimination/equity, and accountability issues around this project and how will you tackle them?
 
-Submit this document to Ishaan via Slack no later than **Sunday, Feb 21st** at 4pm. Reach out if you need an extension!
+Submit a PDF document to Ishaan via Slack no later than **Sunday, Feb 21st** at 4pm. Reach out if you need an extension!
 
 Any questions? Let your instructor know on Slack! We're more than happy to help out with anything, big or small. 
 
