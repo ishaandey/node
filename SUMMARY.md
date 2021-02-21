@@ -7,12 +7,13 @@
 * [Week 1: Welcome to Data!](week-1/README.md)    
     * [Workshop: San Francisco Trees](week-1/workshop/README.md)     
     * [Lab: Getting Started](week-1/lab/README.md) 
-
-<!--    
+   
 * [Week 2: Pandas!](week-2/README.md)    
-    * [Workshop: IMDB & UFOs](week-2/workshop/README.md)     
-    * [Lab: Gap Inc. Sales](week-2/lab/README.md)  
-    
+    * [Workshop: Movies & UFOs](week-2/workshop/README.md)     
+    * [Lab: March Madness](week-2/lab/README.md)  
+
+<!-- 
+
 * [Week 3: Data Cleaning!](week-3/README.md)    
     * [Workshop: Harry Potter and the Notebook of Secrets](week-3/workshop/README.md)     
     * [Lab: Gap Inc. Sales](week-3/lab/README.md)  

@@ -11,12 +11,12 @@ Pretend you're a data scientist at Gap Inc., tasked with exploring sales trends 
 #### Assignment
 | Interactive Notebook | Source Code  |
 | :-----------: | :------------: |
-| [![Link](../../tools/buttons/open-colab.svg)](https://colab.research.google.com/github/ishaandey/node/blob/master/week-2/lab/gap_notes.ipynb) | [![Link](../../tools/buttons/download-ipynb.svg)](https://files.node.ishaandey.com/week-2/lab/gap_notes.ipynb) |
+| [![Link](../../tools/buttons/open-colab.svg)](https://colab.research.google.com/github/ishaandey/node/blob/master/week-2/lab/marchmadness_notes.ipynb) | [![Link](../../tools/buttons/download-ipynb.svg)](https://files.node.ishaandey.com/week-2/lab/marchmadness_notes.ipynb) |
 
 #### Key
 | Interactive Notebook | Source Code  |
 | :-----------: | :------------: |
-| [![Link](../../tools/buttons/open-colab.svg)](https://colab.research.google.com/github/ishaandey/node/blob/master/week-2/lab/gap_key.ipynb) | [![Link](../../tools/buttons/download-ipynb.svg)](https://files.node.ishaandey.com/week-2/lab/gap_key.ipynb) |
+| [![Link](../../tools/buttons/open-colab.svg)](https://colab.research.google.com/github/ishaandey/node/blob/master/week-2/lab/marchmadness_key.ipynb) | [![Link](../../tools/buttons/download-ipynb.svg)](https://files.node.ishaandey.com/week-2/lab/marchmadness_key.ipynb) |
 
 
 **Tips**:
