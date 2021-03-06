@@ -6,7 +6,7 @@
 ## Content
 * [Week 1: Welcome to Data!](week-1/README.md)    
     * [Workshop: San Francisco Trees](week-1/workshop/README.md)     
-    * [Lab: Getting Started](week-1/lab/README.md) 
+    * [Lab: Project 1](week-1/.md) 
    
 * [Week 2: Pandas!](week-2/README.md)    
     * [Workshop: Movies & UFOs](week-2/workshop/README.md)     
@@ -14,14 +14,14 @@
 
 * [Week 3: Data Cleaning!](week-3/README.md)    
     * [Workshop: Harry Potter and the Notebook of Secrets](week-3/workshop/README.md)     
-    * [Lab: Node Survey](week-3/lab/README.md)  
-
-<!-- 
+    * [Lab: Node Survey](week-3/lab/rojects/project-2/README.mdz.md)  
  
 * [Week 4: Data Viz!](week-4/README.md)    
     * [Workshop: Airbnb Listings](week-4/workshop/README.md)     
-    * [Lab: Node Welcome Survey](week-4/lab/README.md)  
-        
+    * [Lab: Project 2](projects/project-2/README.md)  
+
+<!-- 
+
 * [Week 6: Machine Learning!](week-6/README.md)    
     * [Workshop I: Human Intuition](week-6/workshop/intro-ml.md)    
     * [Workshop II: Heart Disease](week-6/workshop/README.md)     
@@ -46,8 +46,10 @@
 ## Projects
 * [Project 1: Scoping Document](projects/project-1/scoping.md)  
 
-<!--
 * [Project 2: Impact EDA](projects/project-2/README.md)    
+
+<!-- 
+
 
 * [Project 3: Impact ML](projects/project-3/README.md)   
  
