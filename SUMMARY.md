@@ -46,7 +46,7 @@
 ## Projects
 * [Project 1: Scoping Document](projects/project-1/scoping.md)  
 
-* [Project 2: Impact EDA](projects/project-2/README.md)    
+* [Project 2: Exploratory Data Analysis](projects/project-2/README.md)    
 
 <!-- 
 
