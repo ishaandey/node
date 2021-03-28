@@ -21,19 +21,18 @@
     * [Lab: Project 2](projects/project-2/README.md) 
 
 * [Week 5: Presentations!](week-5/README.md)    
-    * [Workshop: Data Exploration Presentations](week-5/README.md)
+    * [Workshop: Data Exploration](week-5/README.md)
 
 * [Week 6: Machine Learning!](week-6/README.md)    
     * [Workshop I: Human Intuition](week-6/workshop/intro-ml.md)    
     * [Workshop II: Heart Disease](week-6/workshop/README.md)     
     * [Lab: Predict Node Majors](week-6/lab/README.md)  
 
-<!-- 
+* [Week 7: Scikit-Learn ](week-7/README.md)    
+    * [Workshop: Heart Disease](week-7/workshop/README.md)    
+    * [Lab: Confusion Matrices in Detail](week-7/lab/README.md)  
 
-* [Week 7: Algorithms!](week-7/README.md)    
-    * [Workshop I: Decision Trees](week-7/workshop/README.md)    
-    * [Workshop II: K-Nearest Neighbors](week-7/workshop/README.md)     
-    * [Lab: Trees Under the Hood](week-7/lab/README.md)  
+<!---
 
 * [Week 8: Tuning Models!](week-8/README.md)    
     * [Workshop: Classification Metrics](week-8/workshop/README.md)    

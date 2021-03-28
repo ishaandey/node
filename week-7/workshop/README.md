@@ -1,33 +1,15 @@
-# Classification Algorithms
+# Introduction to Machine Learning
 
-### Part I: Tree-Based Models
-#### Slides 
-
-[![Link](../../tools/buttons/open-drive.svg)](https://docs.google.com/presentation/d/1cqv3gCheJwo4cGX9WfGcN49n7ICERWP3nLhJyjtASNk/edit?usp=sharing)
-
+### Machine Learning in Sklearn
 #### Notes
-| Interactive Notebook | Source Code  | 
-| :-----------: | :------------: | 
-| [![Link](../../tools/buttons/open-colab.svg)](https://colab.research.google.com/github/ishaandey/node/blob/master/week-7/workshop/rf_notes.ipynb) | [![Link](../../tools/buttons/download-ipynb.svg)](https://files.node.ishaandey.com/week-7/workshop/rf_notes.ipynb) |
+| Quick Open | Interactive Notebook | Source Code  | 
+| :--------: | :-----------: | :------------: | 
+| [![Link](../../tools/buttons/open-browser.svg)](https://files.node.ishaandey.com/week-6/workshop/intro_ml_key.html) | [![Link](../../tools/buttons/open-colab.svg)](https://colab.research.google.com/github/ishaandey/node/blob/master/week-6/workshop/intro_ml_notes.ipynb) | [![Link](../../tools/buttons/download-ipynb.svg)](https://files.node.ishaandey.com/week-6/workshop/intro_ml_notes.ipynb) |
 
 #### Key
-| Interactive Notebook | Source Code  | 
-| :-----------: | :------------: | 
-| [![Link](../../tools/buttons/open-colab.svg)](https://colab.research.google.com/github/ishaandey/node/blob/master/week-7/workshop/rf_key.ipynb) | [![Link](../../tools/buttons/download-ipynb.svg)](https://files.node.ishaandey.com/week-7/workshop/rf_key.ipynb) |
+| Quick Open | Interactive Notebook | Source Code  | 
+| :--------: |:-----------: | :------------: | 
+| [![Link](../../tools/buttons/open-browser.svg)](https://files.node.ishaandey.com/week-6/workshop/intro_ml_key.html) | [![Link](../../tools/buttons/open-colab.svg)](https://colab.research.google.com/github/ishaandey/node/blob/master/week-6/workshop/intro_ml_key.ipynb) | [![Link](../../tools/buttons/download-ipynb.svg)](https://files.node.ishaandey.com/week-6/workshop/intro_ml_key.ipynb) |
 
------
-
-### Part II: K-Nearest Neighbors
-#### Slides
-
-[![Link](../../tools/buttons/open-drive.svg)](https://docs.google.com/presentation/d/1A6Cabymfau4FbCQe2KiwnYpJ55T6zBZWANJieo8iWRI/edit?usp=sharing)
-
-#### Notes
-| Interactive Notebook | Source Code  | 
-| :-----------: | :------------: | 
-| [![Link](../../tools/buttons/open-colab.svg)](https://colab.research.google.com/github/ishaandey/node/blob/master/week-7/workshop/knn_notes.ipynb) | [![Link](../../tools/buttons/download-ipynb.svg)](https://files.node.ishaandey.com/week-7/workshop/knn_notes.ipynb) |
-
-#### Key
-| Interactive Notebook | Source Code  | 
-| :-----------: | :------------: | 
-| [![Link](../../tools/buttons/open-colab.svg)](https://colab.research.google.com/github/ishaandey/node/blob/master/week-7/workshop/knn_key.ipynb) | [![Link](../../tools/buttons/download-ipynb.svg)](https://files.node.ishaandey.com/week-7/workshop/knn_key.ipynb) |
+#### Confusion Matrix Slides
+ [![Link](../../tools/buttons/open-drive.svg)](https://docs.google.com/presentation/d/1hnsGipSgQqBr_5tFVs8jbtJZOWBKxc2bp35PEDBB1sA/edit?usp=sharing) 
