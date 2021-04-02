@@ -55,10 +55,6 @@ Is the Mars problem an example of a classification problem or a regression probl
 
 <p>&nbsp;</p>
 
-# Landing on Mars 2.0
-Congratulations! Your boss was so impressed with your successful evaluation of the first landing zone that he has tasked you again with determining a landing zone for a new mission.
-
-This time, you are targeting a specific elevation. Advanced research suggests that we are most likely to find evidence of alien life at an elevation of 10,000m. Satellite measurements are spotty, but you know the elevation of a few places on the surface of Mars.
 
 
 
