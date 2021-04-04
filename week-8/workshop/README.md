@@ -1,7 +1,7 @@
 # Machine Learning Models
 
 ### K Nearest Neighbors
-[![Link](knn.md)](knn.md)
+[![Link](../../tools/buttons/open-colab.svg)](knn.md)
 
 #### KNN Notes
 | Quick Open | Interactive Notebook | Source Code  |
