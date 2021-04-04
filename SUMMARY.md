@@ -6,8 +6,8 @@
 ## Content
 * [Week 1: Welcome to Data!](week-1/README.md)    
     * [Workshop: San Francisco Trees](week-1/workshop/README.md)     
-    * [Lab: Project 1](week-1/.md) 
-   
+    * [Lab: Project 1](week-1/.md)
+
 * [Week 2: Pandas!](week-2/README.md)    
     * [Workshop: Movies & UFOs](week-2/workshop/README.md)     
     * [Lab: March Madness](week-2/lab/README.md)  
@@ -15,10 +15,10 @@
 * [Week 3: Data Cleaning!](week-3/README.md)    
     * [Workshop: Harry Potter and the Notebook of Secrets](week-3/workshop/README.md)     
     * [Lab: Node Survey](week-3/lab/rojects/project-2/README.mdz.md)  
- 
+
 * [Week 4: Data Viz!](week-4/README.md)    
     * [Workshop: Airbnb Listings](week-4/workshop/README.md)     
-    * [Lab: Project 2](projects/project-2/README.md) 
+    * [Lab: Project 2](projects/project-2/README.md)
 
 * [Week 5: Presentations!](week-5/README.md)    
     * [Workshop: Data Exploration](week-5/README.md)
@@ -32,11 +32,12 @@
     * [Workshop: Heart Disease](week-7/workshop/README.md)    
     * [Lab: Confusion Matrices in Detail](week-7/lab/README.md)  
 
+* [Week 8: Machine Learning Models](week-8/README.md)    
+    * [Workshop I: KNN and Decision Trees](week-8/workshop/README.md)    
+    * [Workshop II: Bias Variance](week-8/workshop/bias-var.md)    
+    * [Lab: Predicting Node Majors](week-8/lab/README.md)    
+
 <!---
-
-* [Week 8: Tuning Models!](week-8/README.md)    
-    * [Workshop: Classification Metrics](week-8/workshop/README.md)    
-
 * [Week 9: NLP & Scraping!](week-9/README.md)    
     * [Workshop I: Web Scraping](week-9/workshop/README.md)    
     * [Workshop II: Sentiment Analysis](week-9/workshop/README.md)     
@@ -50,11 +51,11 @@
 
 * [Project 2: Exploratory Data Analysis](projects/project-2/README.md)    
 
-<!-- 
+<!--
 
 
 * [Project 3: Impact ML](projects/project-3/README.md)   
- 
+
 -->
 
 ## Archives
