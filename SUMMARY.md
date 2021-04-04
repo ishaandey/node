@@ -34,7 +34,7 @@
 
 * [Week 8: Machine Learning Models](week-8/README.md)    
     * [Workshop I: KNN and Decision Trees](week-8/workshop/README.md)    
-    * [Workshop II: Bias Variance](week-8/workshop/bias-var/README.md)    
+    * [Workshop II: Bias Variance](week-8/workshop/bias-var.md)    
     * [Lab: Predicting Node Majors](week-8/lab/README.md)    
 
 <!---
