@@ -1,7 +1,7 @@
 # Machine Learning Models
 
 ### K Nearest Neighbors
-[![Link](../../tools/buttons/open-colab.svg)](knn.md)
+[![Link](../../tools/buttons/open-markdwon.svg)](knn.md)
 
 #### KNN Notes
 | Quick Open | Interactive Notebook | Source Code  |
@@ -15,7 +15,7 @@
 
 ### Decision Trees
 
-[![Link](../../tools/buttons/open-article.svg)](dt.md)
+[![Link](../../tools/buttons/open-markdown.svg)](dt.md)
 
 #### Decision Tree Notes
 | Quick Open | Interactive Notebook | Source Code  |

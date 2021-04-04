@@ -1,6 +1,6 @@
 # Bias Variance
 
-#### Bias Variance Slides
+### Bias Variance
  [![Link](../../tools/buttons/open-drive.svg)](https://docs.google.com/presentation/d/16Cd2mdTxZxcqm9frQtIACKmZIZoeMcFbFNbp16LQcDw/edit?usp=sharing)
 
 #### Notes
