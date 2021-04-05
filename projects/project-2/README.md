@@ -1,4 +1,4 @@
-# Project 2
+# Project Part 2: Exploration
 ## Description
 Your goals:
 - Come up with **questions** about your data: What trends exist? Does that contradict what we'd expect? What are some key takeaways we can pull from the data?

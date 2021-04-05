@@ -37,26 +37,22 @@
     * [Workshop II: Bias Variance](week-8/workshop/bias_var.md)    
     * [Lab: Predicting Node Majors](week-8/lab/README.md)    
 
-<!---
 * [Week 9: NLP & Scraping!](week-9/README.md)    
     * [Workshop I: Web Scraping](week-9/workshop/README.md)    
     * [Workshop II: Sentiment Analysis](week-9/workshop/README.md)     
+
+<!---
 
 * [Week 10: Show & Tell!](week-10/README.md)    
 
 -->
 
 ## Projects
-* [Project 1: Scoping Document](projects/project-1/scoping.md)  
+* [Part I: Defining the Scope](projects/project-1/scoping.md)  
 
-* [Project 2: Exploratory Data Analysis](projects/project-2/README.md)    
+* [Part II: Data Exploration](projects/project-2/README.md)    
 
-<!--
-
-
-* [Project 3: Impact ML](projects/project-3/README.md)   
-
--->
+* [Part III: Investor Day!](projects/project-3/README.md)   
 
 ## Archives
 

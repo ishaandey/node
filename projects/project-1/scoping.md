@@ -1,4 +1,4 @@
-# Project Part 1
+# Project Part 1: Scoping
 
 Imagine you've been hired at a top tier quantitative think tank – HackyForge. They are a new group that tackles contemporary issues from an analytical angle. Sometimes there are clients, but oftentimes the team publishes with the intention of releasing their findings into the public domain.
 
