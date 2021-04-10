@@ -25,7 +25,7 @@
 
 * [Week 6: Machine Learning!](week-6/README.md)    
     * [Workshop I: Human Intuition](week-6/workshop/intro-ml.md)    
-    * [Workshop II: Heart Disease](week-6/workshop/README.md)     
+    <!-- * [Workshop II: Heart Disease](week-6/workshop/README.md)      -->
     * [Lab: Predict Node Majors](week-6/lab/README.md)  
 
 * [Week 7: Scikit-Learn ](week-7/README.md)    
@@ -39,20 +39,16 @@
 
 * [Week 9: NLP & Scraping!](week-9/README.md)    
     * [Workshop I: Web Scraping](week-9/workshop/README.md)    
-    * [Workshop II: Sentiment Analysis](week-9/workshop/README.md)     
+    * [Workshop II: Dimensionality Reduction](week-9/workshop/README.md)     
 
-<!---
-
-* [Week 10: Show & Tell!](week-10/README.md)    
-
--->
+* [Week 10: Investor Day!](week-10/README.md)    
 
 ## Projects
 * [Part I: Defining the Scope](projects/project-1/scoping.md)  
 
 * [Part II: Data Exploration](projects/project-2/README.md)    
 
-* [Part III: Investor Day!](projects/project-3/README.md)   
+* [Part III: Predictive Modelling](projects/project-3/README.md)   
 
 ## Archives
 
