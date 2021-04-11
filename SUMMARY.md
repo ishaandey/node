@@ -37,9 +37,8 @@
     * [Workshop II: Bias Variance](week-8/workshop/bias_var.md)    
     * [Lab: Predicting Node Majors](week-8/lab/README.md)    
 
-* [Week 9: NLP & Scraping!](week-9/README.md)    
-    * [Workshop I: Web Scraping](week-9/workshop/README.md)    
-    * [Workshop II: Dimensionality Reduction](week-9/workshop/README.md)     
+* [Week 9: NLP](week-9/README.md)    
+    * [Workshop I: NLP](week-9/workshop/README.md)        
 
 * [Week 10: Investor Day!](week-10/README.md)    
 
