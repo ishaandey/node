@@ -39,6 +39,7 @@
 
 * [Week 9: NLP](week-9/README.md)    
     * [Workshop I: NLP](week-9/workshop/README.md)        
+    * [Workshop II: PCA](week-9/workshop/pca.md)        
 
 * [Week 10: Investor Day!](week-10/README.md)    
 
