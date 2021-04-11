@@ -37,7 +37,7 @@
     * [Workshop II: Bias Variance](week-8/workshop/bias_var.md)    
     * [Lab: Predicting Node Majors](week-8/lab/README.md)    
 
-* [Week 9: NLP](week-9/README.md)    
+* [Week 9: NLP + PCA](week-9/README.md)    
     * [Workshop I: NLP](week-9/workshop/README.md)        
     * [Workshop II: PCA](week-9/workshop/pca.md)        
 
