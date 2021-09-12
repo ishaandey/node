@@ -50,6 +50,4 @@ All course material (slides, notebooks, datasets, etc.) will live in the [Node G
 Feel free to contact the team at *ishaan@hackcville.com* with any questions about content or request permission to use material.
 
 ### Contributors
-Content developed by Ishaan Dey at Forge (formerly HackCville), Fall 2020. All content rights belong to Ishaan Dey unless otherwise stated. 
-
-Shoutout to Christian Jung, Ben Artuso, and the Forge team for their feedback and support.
+Content developed by Ishaan Dey at Forge (formerly HackCville), Summer 2020. **All content rights belong to Ishaan Dey unless otherwise stated.** See [About & Permissions](tools/about/ABOUT.md) for contact information. Shoutout to Christian Jung, Ben Artuso, and the Forge team for their feedback and support.
