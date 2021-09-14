@@ -6,7 +6,7 @@ Before setting sail on your project, however, the director must approve your pla
 
 ## Idea Generation
 
-Your first goal is to identify a research idea you'd be interested in researching for the next ten weeks. This can come from a personal dataset (i.e. a workout app), a federal agency (i.e. the US Census), or corporate resources (who may have made a research .  
+Your first goal is to identify a research idea you'd be interested in researching for the next ten weeks. This can come from anything – personal dataset (i.e. a workout app) or federal agencies (i.e. the US Census).  
 
 Here's a few miscellaneous lists of datasets if you're looking for ideas:
 
