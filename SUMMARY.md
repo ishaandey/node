@@ -6,7 +6,7 @@
 ## Content
 * [Week 1: Welcome to Data!](week-1/README.md)    
     * [Workshop: San Francisco Trees](week-1/workshop/README.md)     
-    * [Lab: Project 1](projects/project-1/README.md)
+    * [Lab: Project 1](projects/project-1/scoping.md)
 
 <!-- * [Week 2: Pandas!](week-2/README.md)    
     * [Workshop: Movies & UFOs](week-2/workshop/README.md)     
