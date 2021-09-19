@@ -8,10 +8,11 @@
     * [Workshop: San Francisco Trees](week-1/workshop/README.md)     
     * [Lab: Project 1](projects/project-1/scoping.md)
 
-<!-- * [Week 2: Pandas!](week-2/README.md)    
+* [Week 2: Pandas!](week-2/README.md)    
     * [Workshop: Movies & UFOs](week-2/workshop/README.md)     
     * [Lab: March Madness](week-2/lab/README.md)  
 
+<!-- 
 * [Week 3: Data Cleaning!](week-3/README.md)    
     * [Workshop: Harry Potter and the Notebook of Secrets](week-3/workshop/README.md)     
     * [Lab: Node Survey](week-3/lab/rojects/project-2/README.md)  
@@ -47,7 +48,9 @@
 ## Projects
 * [Part I: Defining the Scope](projects/project-1/scoping.md)  
 
-<!-- * [Part II: Data Exploration](projects/project-2/README.md)    
+* [Part II: Data Exploration](projects/project-2/README.md)    
+
+<!-- 
 
 * [Part III: Predictive Modelling](projects/project-3/README.md)    -->
 
