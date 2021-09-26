@@ -10,7 +10,7 @@
 
 * [Week 2: Pandas!](week-2/README.md)    
     * [Workshop: Movies & UFOs](week-2/workshop/README.md)     
-    * [Lab: March Madness](week-2/lab/README.md)  
+    * [Lab: GAP Part I](week-2/lab/README.md)  
 
 <!-- 
 * [Week 3: Data Cleaning!](week-3/README.md)    
