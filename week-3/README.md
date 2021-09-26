@@ -7,7 +7,7 @@ Data cleaning is the least glamorous segment of a data scientist's routine, yet 
 | ---------------                | --------------- | ----------   |
 | Workshop Activities            | [![Link](../tools/buttons/open-markdown.svg)](workshop/README.md) | 09-22-2020 | 
 | Lab                            | [![Link](../tools/buttons/open-article.svg)](lab/README.md)  | 02-25-2021 |
-| Project 2                       | [![Link](../tools/buttons/open-article.svg)](../projects/prokect-1/README.md)  | 09-19-2020 |
+| Project 2                       | [![Link](../tools/buttons/open-article.svg)](../projects/project-1/README.md)  | 09-19-2020 |
 
 ## Additional Resources
 - [Pandas Cheatsheet](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
