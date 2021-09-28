@@ -2,6 +2,7 @@
 
 * [Welcome!](README.md)
 * [About & Permissions](tools/about/ABOUT.md)
+* [Announcements](tools/about/announcements.md)
 
 ## Content
 * [Week 1: Welcome to Data!](week-1/README.md)    
@@ -14,12 +15,14 @@
 
 * [Week 3: Data Cleaning!](week-3/README.md)    
     * [Workshop: Harry Potter and the Notebook of Secrets](week-3/workshop/README.md)     
-    * [Lab: Node Survey](week-3/lab/rojects/project-2/README.md)  
+    * [Lab: Node Survey](week-3/lab/README.md)  
 
-<!-- 
 * [Week 4: Data Viz!](week-4/README.md)    
     * [Workshop: Airbnb Listings](week-4/workshop/README.md)     
     * [Lab: Project 2](projects/project-2/README.md)
+
+<!-- 
+
 
 * [Week 5: DEI in Tech!](week-5/README.md)    
     * [Workshop I: Project Presentations](week-5/README.md)
