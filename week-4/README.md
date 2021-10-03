@@ -5,7 +5,7 @@ Before the pandemic trampled travel plans, a friend and I made plans to tour Sea
 ### Overview
 | **Activity**                   | Content Link    | Last Updated |
 | ---------------                | --------------- | ----------   |
-| Workshop Activities            | [![Link](../tools/buttons/open-markdown.svg)](workshop/README.md) | 10-01-2020 | 
+| Workshop Activities            | [![Link](../tools/buttons/open-markdown.svg)](workshop/README.md) | 10-03-2021 | 
 | Lab                            | [![Link](../tools/buttons/open-article.svg)](lab/README.md)  | 08-15-2020 |
 | Project 2                      | [![Link](../tools/buttons/open-article.svg)](../projects/project-2/README.md)  | NA |         
 
