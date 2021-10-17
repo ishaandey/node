@@ -21,17 +21,17 @@
     * [Workshop: Airbnb Listings](week-4/workshop/README.md)     
     * [Lab: Project 2](projects/project-2/README.md)
 
-<!-- 
 
-
-* [Week 5: DEI in Tech!](week-5/README.md)    
+<!-- * [Week 5: DEI in Tech!](week-5/README.md)    
     * [Workshop I: Project Presentations](week-5/README.md)
-    * [Workshop II: Diversity, Equity, and Inclusion](week-5/README.md)
+    * [Workshop II: Diversity, Equity, and Inclusion](week-5/README.md) -->
 
 * [Week 6: Machine Learning!](week-6/README.md)    
     * [Workshop I: Human Intuition](week-6/workshop/intro-ml.md)    
     * [Workshop II: Heart Disease](week-6/workshop/README.md)     
     * [Lab: Predict Node Majors](week-6/lab/README.md)  
+
+<!-- 
 
 * [Week 7: Scikit-Learn ](week-7/README.md)    
     * [Workshop: Heart Disease](week-7/workshop/README.md)    
