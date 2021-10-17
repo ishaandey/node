@@ -1,5 +1,9 @@
 # Lab: NASA Astronauts
 
+### Goal
+
+Looking at a fun astronaut dataset to solidify some skills in **cleaniing, basic EDA, and visualizations**. Your task is to clean up this (somewhat) messy dataset and analyze some common trends within NASA astronauts to see what the "best path" to being an astronaut is.
+
 ### Notes
 | Interactive Notebook | Source Code  |
 | :-----------: | :------------: |
