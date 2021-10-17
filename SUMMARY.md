@@ -29,7 +29,7 @@
 * [Week 6: Machine Learning!](week-6/README.md)    
     * [Workshop I: Human Intuition](week-6/workshop/intro-ml.md)    
     * [Workshop II: Heart Disease](week-6/workshop/README.md)     
-    * [Lab: Predict Node Majors](week-6/lab/README.md)  
+    * [Lab: NASA Astronauts](archives/data-practice/README.md)  
 
 <!-- 
 
