@@ -21,7 +21,19 @@ After reading the article and by **using your knowledge of ML**, tackle the foll
 ### Discussion Responses
 
 <details>
-<summary>5:30 PM Lab</summary>
+<summary>W 5:30 PM Lab</summary>
+<br>
+
+</details>
+
+<details>
+<summary>W 7:00 PM Lab</summary>
+<br>
+
+</details>
+
+<details>
+<summary>Th 4:00 PM Lab</summary>
 <br>
 
 </details>
