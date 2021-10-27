@@ -22,14 +22,15 @@
     * [Lab: Project 2](projects/project-2/README.md)
 
 
-<!-- * [Week 5: DEI in Tech!](week-5/README.md)    
+ * [Week 5: DEI in Tech!](week-5/README.md)    
     * [Workshop I: Project Presentations](week-5/README.md)
-    * [Workshop II: Diversity, Equity, and Inclusion](week-5/README.md) -->
+    * [Workshop II: Diversity, Equity, and Inclusion](week-5/README.md) 
+    * [Lab: NASA Astronauts](archives/data-practice/README.md)  
 
 * [Week 6: Machine Learning!](week-6/README.md)    
     * [Workshop I: Human Intuition](week-6/workshop/intro-ml.md)    
     * [Workshop II: Heart Disease](week-6/workshop/README.md)     
-    * [Lab: NASA Astronauts](archives/data-practice/README.md)  
+    * [Lab: Project Management](archives/ml-article/README.md)  
 
 <!-- 
 
@@ -50,12 +51,8 @@
 
 ## Projects
 * [Part I: Defining the Scope](projects/project-1/scoping.md)  
-
 * [Part II: Data Exploration](projects/project-2/README.md)    
-
-<!-- 
-
-* [Part III: Predictive Modelling](projects/project-3/README.md)    -->
+* [Part III: Predictive Modelling](projects/project-3/README.md) 
 
 ## Archives
 
