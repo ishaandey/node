@@ -8,15 +8,13 @@ Article: [Google debuts AI-powered app to help consumers identify common skin co
 
 ### Your Task
 
-After reading the article and by **using your knowledge of ML**, tackle the following questions under a group discussion:
+After reading the article and by **using your knowledge of how machine learning models are trained**, tackle the following questions under a group discussion:
 
-- If you were at Google, what kind of data would you need to even train the model?
-- How would you validate the model?
-- What might be some problems of a dataset with the following pictures (besides not enough data)?
-    - [IMG1](https://github.com/ishaandey/node/blob/260d96fd327a8351e2dc35eaa010ebe9a297cd92/archives/ml-article/images/img1.jpg)
-    - [IMG2](https://github.com/ishaandey/node/blob/260d96fd327a8351e2dc35eaa010ebe9a297cd92/archives/ml-article/images/img2.jpg)
-    - [IMG3](https://github.com/ishaandey/node/blob/260d96fd327a8351e2dc35eaa010ebe9a297cd92/archives/ml-article/images/img3.jpg)
-- How could we prevent the problem(s) of a dataset similar to the one above?
+1. If you were at Google, what kind of data would you need to train the model?
+2. How would you validate the model? Be specific - how big would the project be, who would you need to recruit, etc.?
+3. What might be some problems of a dataset with the following pictures (besides not enough data)?
+    ![training image](images/training-img.png)
+4. How could we prevent the problem(s) of a dataset similar to the one above? Hint: It's not *just* about the training data
 
 ### Discussion Responses
 
