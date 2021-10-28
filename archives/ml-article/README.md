@@ -21,6 +21,19 @@ After reading the article and by **using your knowledge of how machine learning 
 <details>
 <summary>W 5:30 PM Lab</summary>
 <br>
+- Supervised, classification model
+- Put labels on there first, group them
+- Identify the groups, need the training data and testing data
+- Lots of pictures of things that are moles/skin conditions and those that aren't
+- Getting data pertaining to individuals --> skin color, race, gender/sex
+
+- If testing, release it beta testers --> validate through them as they meet with their doctor/dermatologist
+- Doing biopsies, different scans they can do --> having that data/technology
+
+- skin tone is only white, not diverse
+
+- avoiding mistakes in the model: more information awareness, consult a doctor, don't take results to heart
+- obviously, get more data, but easier said than done. loading more data on diverse skin colors and tones
 
 </details>
 
