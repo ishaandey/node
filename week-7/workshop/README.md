@@ -1,15 +1,28 @@
-# Introduction to Machine Learning
+# Machine Learning Models
 
-### Machine Learning in Sklearn
-#### Notes
-| Quick Open | Interactive Notebook | Source Code  | 
-| :--------: | :-----------: | :------------: | 
-| [![Link](../../tools/buttons/open-browser.svg)](https://files.node.ishaandey.com/week-6/workshop/intro_ml_key.html) | [![Link](../../tools/buttons/open-colab.svg)](https://colab.research.google.com/github/ishaandey/node/blob/master/week-6/workshop/intro_ml_notes.ipynb) | [![Link](../../tools/buttons/download-ipynb.svg)](https://files.node.ishaandey.com/week-6/workshop/intro_ml_notes.ipynb) |
+### K Nearest Neighbors
+[![Link](../../tools/buttons/open-markdown.svg)](knn/knn.md)
 
-#### Key
-| Quick Open | Interactive Notebook | Source Code  | 
-| :--------: |:-----------: | :------------: | 
-| [![Link](../../tools/buttons/open-browser.svg)](https://files.node.ishaandey.com/week-6/workshop/intro_ml_key.html) | [![Link](../../tools/buttons/open-colab.svg)](https://colab.research.google.com/github/ishaandey/node/blob/master/week-6/workshop/intro_ml_key.ipynb) | [![Link](../../tools/buttons/download-ipynb.svg)](https://files.node.ishaandey.com/week-6/workshop/intro_ml_key.ipynb) |
+#### KNN Notes
+| Quick Open | Interactive Notebook | Source Code  |
+| :--------: | :-----------: | :------------: |
+| [![Link](../../tools/buttons/open-browser.svg)](https://files.node.ishaandey.com/week-7/workshop/knn/knn_notes.html) | [![Link](../../tools/buttons/open-colab.svg)](https://colab.research.google.com/github/ishaandey/node/blob/master/week-7/workshop/knn/knn_notes.ipynb) | [![Link](../../tools/buttons/download-ipynb.svg)](https://files.node.ishaandey.com/week-7/workshop/knn/knn_notes.ipynb) |
 
-#### Confusion Matrix Slides
- [![Link](../../tools/buttons/open-drive.svg)](https://docs.google.com/presentation/d/1hnsGipSgQqBr_5tFVs8jbtJZOWBKxc2bp35PEDBB1sA/edit?usp=sharing) 
+#### KNN Key
+| Quick Open | Interactive Notebook | Source Code  |
+| :--------: |:-----------: | :------------: |
+| [![Link](../../tools/buttons/open-browser.svg)](https://files.node.ishaandey.com/week-7/workshop/knn/knn_key.html) | [![Link](../../tools/buttons/open-colab.svg)](https://colab.research.google.com/github/ishaandey/node/blob/master/week-7/workshop/knn/knn_key.ipynb) | [![Link](../../tools/buttons/download-ipynb.svg)](https://files.node.ishaandey.com/week-7/workshop/knn/knn_key.ipynb) |
+
+### Decision Trees
+
+[![Link](../../tools/buttons/open-markdown.svg)](dt/dt.md)
+
+#### Decision Tree Notes
+| Quick Open | Interactive Notebook | Source Code  |
+| :--------: | :-----------: | :------------: |
+| [![Link](../../tools/buttons/open-browser.svg)](https://files.node.ishaandey.com/week-7/workshop/dt/dt_notes.html) | [![Link](../../tools/buttons/open-colab.svg)](https://colab.research.google.com/github/ishaandey/node/blob/master/week-7/workshop/dt/dt_notes.ipynb) | [![Link](../../tools/buttons/download-ipynb.svg)](https://files.node.ishaandey.com/week-7/workshop/dt/dt_notes.ipynb) |
+
+#### Decision Tree Key
+| Quick Open | Interactive Notebook | Source Code  |
+| :--------: |:-----------: | :------------: |
+| [![Link](../../tools/buttons/open-browser.svg)](https://files.node.ishaandey.com/week-7/workshop/dt/dt_key.html) | [![Link](../../tools/buttons/open-colab.svg)](https://colab.research.google.com/github/ishaandey/node/blob/master/week-7/workshop/dt/dt_key.ipynb) | [![Link](../../tools/buttons/download-ipynb.svg)](https://files.node.ishaandey.com/week-7/workshop/dt/dt_key.ipynb) |
