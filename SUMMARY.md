@@ -33,7 +33,8 @@
     * [Lab: Project Management](archives/ml-article/README.md)  
 
 * [Week 7: Scikit-Learn ](week-7/README.md)    
-    * [Workshop: KNN and Decision Trees](week-7/workshop/README.md)    
+    * [Workshop I: KNN and Decision Trees](week-7/workshop/README.md)   
+    * [Workshop II: Classification Metrics](week-7/workshop/classification-metrics/README.md)    
     * [Lab: Confusion Matrices in Detail](week-7/lab/README.md)  
 
 
