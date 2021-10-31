@@ -32,12 +32,12 @@
     * [Workshop II: Heart Disease](week-6/workshop/README.md)     
     * [Lab: Project Management](archives/ml-article/README.md)  
 
-<!-- 
-
 * [Week 7: Scikit-Learn ](week-7/README.md)    
-    * [Workshop: Heart Disease](week-7/workshop/README.md)    
+    * [Workshop: KNN and Decision Trees](week-7/workshop/README.md)    
     * [Lab: Confusion Matrices in Detail](week-7/lab/README.md)  
 
+
+<!--
 * [Week 8: Machine Learning Models](week-8/README.md)    
     * [Workshop I: KNN and Decision Trees](week-8/workshop/README.md)    
     * [Workshop II: Bias Variance](week-8/workshop/bias_var.md)    
