@@ -2,12 +2,6 @@
 
 So far, we have only looked as *classification* models for machine learning. Let's take a dive into **regression** models, starting with Linear Regression.
 
-Linear Regression deals with *linear* trends in the (hopefully familiar) form of:
-
-$$ y = \beta_{1} x + \beta_{0} $$
-
-The coefficients above are known as *beta coefficients*. With this knowledge, let's move onto an example.
-
 # Mo' Money, Less Problems?
 
 Does money equal happiness? Many people have asked this question and you have been tasked with finding the answer using data science. You collected a bunch of survey data measuring the happiness levels of people with varying levels of income, hoping to see if there is any correlation. Questions whether money DOES equal happiness, you decide to graph it:
@@ -31,3 +25,8 @@ It looks like the trend seems to level out at a certain point (at about $75k), s
 With that, let's hop into some coding!
 
 # Coding Time!
+Linear Regression deals with *linear* trends in the (hopefully familiar) form of:
+
+$$ y = \beta_{1} x + \beta_{0} $$
+
+The coefficients above are known as *beta coefficients*. With this knowledge, let's move onto an example.
