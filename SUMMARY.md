@@ -41,6 +41,7 @@
     * [Workshop I: Linear Regression](week-8/workshop/lin-reg/lin-reg.md)    
     * [Workshop II: Bias Variance](week-8/workshop/bias-var/bias_var.md)    
     * [Lab: Logistic Regression](week-8/lab/README.md)    
+    * [Mid-Semester Feedback Form](https://fall21-midsemester.paperform.co/)
 
 <!---
 * [Week 9: NLP + PCA](week-9/README.md)    
