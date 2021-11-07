@@ -34,9 +34,9 @@ The coefficients above are known as *beta coefficients*. With this knowledge, le
 #### Notes
  | Quick Open | Interactive Notebook | Source Code  |
  | :--------: | :-----------: | :------------: |
- | [![Link](../../tools/buttons/open-browser.svg)](https://files.node.ishaandey.com/week-8/workshop/bias-var/bias_variance_notes.html) | [![Link](../../tools/buttons/open-colab.svg)](https://colab.research.google.com/github/ishaandey/node/blob/master/week-8/workshop/bias-var/bias_variance_notes.ipynb) | [![Link](../../tools/buttons/download-ipynb.svg)](https://files.node.ishaandey.com/week-8/workshop/bias-var/bias_variance_notes.ipynb) |
+ | [![Link](../../tools/buttons/open-browser.svg)](https://files.node.ishaandey.com/week-8/workshop/lin-reg/lin-reg_notes.html) | [![Link](../../tools/buttons/open-colab.svg)](https://colab.research.google.com/github/ishaandey/node/blob/master/week-8/workshop/lin-reg/lin-reg_notes.ipynb) | [![Link](../../tools/buttons/download-ipynb.svg)](https://files.node.ishaandey.com/week-8/workshop/lin-reg/lin-reg_notes.ipynb) |
 
 #### Key
  | Quick Open | Interactive Notebook | Source Code  |
  | :--------: |:-----------: | :------------: |
- | [![Link](../../tools/buttons/open-browser.svg)](https://files.node.ishaandey.com/week-8/workshop/bias-var/bias_variance_key.html) | [![Link](../../tools/buttons/open-colab.svg)](https://colab.research.google.com/github/ishaandey/node/blob/master/week-8/workshop/bias-var/bias_variance_key.ipynb) | [![Link](../../tools/buttons/download-ipynb.svg)](https://files.node.ishaandey.com/week-8/workshop/bias-var/bias_variance_key.ipynb) |
+ | [![Link](../../tools/buttons/open-browser.svg)](https://files.node.ishaandey.com/week-8/workshop/lin-reg/lin-reg_key.html) | [![Link](../../tools/buttons/open-colab.svg)](https://colab.research.google.com/github/ishaandey/node/blob/master/week-8/workshop/lin-reg/lin-reg_key.ipynb) | [![Link](../../tools/buttons/download-ipynb.svg)](https://files.node.ishaandey.com/week-8/workshop/lin-reg/lin-reg_key.ipynb) |
