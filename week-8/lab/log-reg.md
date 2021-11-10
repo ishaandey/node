@@ -55,10 +55,6 @@ $$ y = \frac{1}{1 + be^{kx}} $$
 
 Above is an example of a logistic curve along with the equation for it. You may notice that it has upper and lower bounds, which makes it useful for classification.
 
-## Applying It
-
-**Place Image of Age vs. Insurance here with the logistic curve**
-
 ## Coding Time!
 
 #### Notes
