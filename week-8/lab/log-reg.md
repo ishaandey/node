@@ -58,3 +58,15 @@ Above is an example of a logistic curve along with the equation for it. You may 
 ## Applying It
 
 **Place Image of Age vs. Insurance here with the logistic curve**
+
+## Coding Time!
+
+#### Notes
+ | Quick Open | Interactive Notebook | Source Code  |
+ | :--------: | :-----------: | :------------: |
+ | [![Link](../../tools/buttons/open-browser.svg)](https://files.node.ishaandey.com/week-8/lab/log-reg_notes.html) | [![Link](../../tools/buttons/open-colab.svg)](https://colab.research.google.com/github/ishaandey/node/blob/master/week-8/lab/log-reg_notes.ipynb) | [![Link](../../tools/buttons/download-ipynb.svg)](https://files.node.ishaandey.com/week-8/lab/log-reg_notes.ipynb) |
+
+#### Key
+ | Quick Open | Interactive Notebook | Source Code  |
+ | :--------: |:-----------: | :------------: |
+ | [![Link](../../tools/buttons/open-browser.svg)](https://files.node.ishaandey.com/week-8/lab/log-reg_key.html) | [![Link](../../tools/buttons/open-colab.svg)](https://colab.research.google.com/github/ishaandey/node/blob/master/week-8/lab/log-reg_key.ipynb) | [![Link](../../tools/buttons/download-ipynb.svg)](https://files.node.ishaandey.com/week-8/lab/log-reg_key.ipynb) |
