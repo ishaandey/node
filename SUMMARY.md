@@ -43,11 +43,11 @@
     * [Lab: Logistic Regression](week-8/lab/log-reg.md)    
     * [Mid-Semester Feedback Form](https://fall21-midsemester.paperform.co/)
 
-<!---
 * [Week 9: NLP + PCA](week-9/README.md)    
     * [Workshop I: NLP](week-9/workshop/README.md)        
     * [Workshop II: PCA](week-9/workshop/pca.md)        
 
+<!---
 * [Week 10: Investor Day!](week-10/README.md)     -->
 
 ## Projects
