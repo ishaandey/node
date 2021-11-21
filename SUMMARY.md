@@ -47,8 +47,7 @@
     * [Workshop I: NLP](week-9/workshop/README.md)        
     * [Workshop II: PCA](week-9/workshop/pca.md)        
 
-<!---
-* [Week 10: Investor Day!](week-10/README.md)     -->
+* [Week 10: Show and Tell!](week-10/README.md)
 
 ## Projects
 * [Part I: Defining the Scope](projects/project-1/scoping.md)  

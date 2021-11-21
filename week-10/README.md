@@ -2,6 +2,11 @@
  
 Congrats on making it all the way through! We hope y'all learned something cool the last few weeks.
 
+| **Quick Links**                   | Content Link    | Last Updated |
+| ---------------                | --------------- | ----------   |
+| Showcase Submissions | [![Link](../tools/buttons/open-forms.svg)](https://docs.google.com/forms/d/e/1FAIpQLSeXBz-fdf6-_JLu-2RtbkgJmK3eGppyuyBmLJj6EtyjQsaXUw/viewform) | 11-21-2021 |
+| Leadership Slides | [![Link](../tools/buttons/open-drive.svg)](https://docs.google.com/presentation/d/1kMMvupjMhH-hZYuXeol1tKO-_vaNxT-e4K-Q6sXvx0Q/edit?usp=sharing) | 11-21-2021 |
+
 ### What we learned
 
 We've learned quite a lot this semester. 

@@ -29,7 +29,7 @@ Your final readout will comprise of two parts: (1) a slide deck highlighting you
   2. `.pdf` **scoping document** from Part I
   3. `.ipynb` notebook containing your data **exploration** from Part II
   4. `.ipynb`notebook containing your **model** from Part III (doesn't need to be annotated)
-- These are due to Ishaan via **Slack by 2pm on Sunday, April 28th**. Make sure to mention (a) all team member names, and (b) the project title. 
+- These are due to Ishaan via **Slack by 2pm on Sunday, November 21st**. Make sure to mention (a) all team member names, and (b) the project title. 
 - Make sure your **viewing permissions are set to anyone with a a link**. You can double check this by opening the link from an incognito window. 
 
 
